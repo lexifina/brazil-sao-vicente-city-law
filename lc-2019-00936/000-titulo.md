@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 936 Altera a referência do cargo de Oficial de Máquinas Pesadas, constante do Anexo I da Lei Complementar nº 268, de 28.12.99, que dispõe sobre o Quadro de Pessoal da Prefeitura, cria cargos, institui o Plano de Cargos e Carreiras, e dá outras providências.
+Proc. n.º 37812/99 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
