@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 948 Acrescenta parágrafo único do art. 1.º da Lei Complementar n.º 926, de 19.12.18, que autoriza o Poder Executivo a alienar, no todo ou em parte, à Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, área de terreno que especifica, visando a construção de unidades habitacionais de interesse social, na Vila Voturuá. .
+PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
