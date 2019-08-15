@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 952 Dá nova redação ao caput e ao § 2º do art. 3º e ao art. 7º da Lei Complementar nº 949, de 31.07.19, que cria Quadro Especial para empregados ativos integrantes do Quadro de Pessoal da CODESAVI.
+Proc. nº 20093/19 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
