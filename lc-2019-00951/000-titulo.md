@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 951 Acrescenta parágrafo único ao art. 2º e dá nova redação ao § 2º do art. 7º da Lei Complementar nº 934, de 10.05.19, que autoriza o Poder Executivo a liquidar e dissolver a CODESAVI - Companhia de Desenvolvimento de São Vicente, e dá outras providências. Proc. nº 14107/19. .
+PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
