@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 962 REVOGADA PELA LEI COMPLEMENTAR Nº 986 Altera dispositivos da Lei nº 1977, de 29.09.84, que dispõe sobre a Administração Municipal e dá outras providências.
+Proc. nº 32811/19 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
