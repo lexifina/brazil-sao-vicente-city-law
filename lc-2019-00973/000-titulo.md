@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 973 Acrescenta inciso ao art.
+8º da Lei Complementar nº 925, de 14.12.18, alterada pela Lei Complementar nº 930, de 18.03.19, que autoriza a concessão do serviço público de transporte coletivo no Município de São Vicente e dá outras providências. Proc. nº 43322/18 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
