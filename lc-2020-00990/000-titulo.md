@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 990 Desafeta da classe de bens em comum do povo e transfere para os bens patrimoniais do Município, Viela na Quadra 19, na Vila São Jorge, autoriza sua alienação e dá outras providencias.
+Proc. nº 1200/20 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
