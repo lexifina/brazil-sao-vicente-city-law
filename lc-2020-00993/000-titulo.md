@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 993 Projeto de Lei Complementar nº 54/19 de autoria do Vereador Adilson da Farmácia Altera a redação do inciso II do art. 4º da Lei Complementar nº 854/17, que dispõe sobre o parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e dá outras providências.
+Proc. nº 4370/17 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
