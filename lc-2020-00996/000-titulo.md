@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 996 Altera dispositivos da Lei Complementar nº 268, de 28.12.99, e suas alterações, que dispõe sobre o Quadro de Pessoal da Prefeitura, cria cargos, institui o Plano de Cargos e Carreiras, e dá outras providências e da Lei Complementar nº 293, de 17.10.00 e suas alterações, que dispõe sobre os valores de gratificações de médicos e dentistas.
+Proc. nº 37812/99 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
