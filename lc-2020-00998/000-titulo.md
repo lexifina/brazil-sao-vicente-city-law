@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 998 Altera dispositivo da Lei Complementa nº 866, de 1º.09.17, e alterações, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III, "d" art. 156, da Lei Federal nº 572/66 - Código Tributário Nacional.
+Proc. nº 31016/17 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
