@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1007 Altera a redação do artigo 1º da Lei Complementar nº 866, de 1º de setembro de 2017 e alterações, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III, do art.
+156, da Lei Federal nº 5.172/66 - Código Tributário Nacional. Proc. nº 31016/17 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
