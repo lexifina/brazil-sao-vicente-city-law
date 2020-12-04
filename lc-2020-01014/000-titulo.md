@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 1014 Aplica-se ao cargo de Técnico Legislativo do Quadro de Servidores da Prefeitura, idênticos valores de vencimento-base, Nível 1 e 2, fixados no Anexo Único da Lei Complementar nº 834, de 1º.04.16 e dá outras providências.
+Proc. nº 13227/16 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
