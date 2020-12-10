@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1009 Autoriza o Poder Executivo a permitir o uso de área localizada na Rua Senador Nilo de Souza Coelho nº 31, pela Associação Atlética Esportiva e Cultural Parque das Bandeiras, no período que especifica.
+Proc. nº 37251/00 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
