@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1012 Dispõe sobre a concessão de desconto para pagamento, em cota única, do Imposto Predial e Territorial Urbano-IPTU e da Taxa de Serviços Urbanos-TSU referentes ao exercício de 2021, e dá outras providências.
+Proc. n.º 37529/20 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
