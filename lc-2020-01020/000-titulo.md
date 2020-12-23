@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1020 Altera dispositivos da Lei Complementar nº 987, de 16 de março de 2020, que disciplina o ordenamento do Uso e Ocupação do Solo do Município de São Vicente, e dá outras providências.
+PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
