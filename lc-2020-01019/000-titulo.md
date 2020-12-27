@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1019 Altera a redação e acrescenta dispositivo à Lei Complementar nº 992, de 26.03.20, que dispõe sobre a regularização e legalização de imóveis e dá outras providências.
+Proc. nº 19882/19 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
