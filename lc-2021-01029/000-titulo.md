@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1029 Revoga dispositivo da Lei Complementar nº 732, de 13.06.17, alterada pela Lei Complementar n° 829, de 10.03.16 e a Lei Complementar n° 860, de 13.06.2017, que dispõe sobre o Sistema de Estacionamento Controlado Rotativo de Veículos, compensado por tarifa ou preço público no Município, e dá outras providências.
+Proc. nº 16362/13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
