@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1031 Dispõe sobre os valores a serem lançados a título de Imposto Predial e Territorial Urbano - IPTU e Taxa de Serviços Urbanos - TSU, para o exercício de 2022.
+Proc. nº 50971/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
