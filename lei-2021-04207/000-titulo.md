@@ -1,0 +1,2 @@
+# LEI N.º 4207 Autoriza a Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente a abrir Crédito Adicional Suplementar no valor de R$ 6.000.000,00 (seis milhões de reais) para suplementar as dotações que especifica e dá outras providências.
+Proc. nº 62397/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
