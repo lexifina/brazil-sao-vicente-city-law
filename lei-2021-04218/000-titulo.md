@@ -1,0 +1,2 @@
+# LEI N.º 4218 Autoriza o Poder Executivo a abrir na Contabilidade Municipal, Secretaria da Fazenda, um Crédito Adicional Especial objetivando "Emendas Estaduais para custeio e investimentos na área da Saúde".
+Proc. nº 65428/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
