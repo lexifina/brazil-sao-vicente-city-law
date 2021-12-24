@@ -1,0 +1,2 @@
+# LEI N.º 4227 Altera o inciso IlI do art. 7.º da Lei n.º 4044-A, de 08 de julho de 2020 e do art. 4.º da Lei n.º 4086-A, de 18 de dezembro de 2020, que dispõe sobre as Diretrizes Orçamentarias de para o Exercício Fiscal do ano de 2021.
+Proc. nº 67537/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
