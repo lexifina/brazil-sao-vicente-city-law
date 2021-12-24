@@ -1,0 +1,1 @@
+# LEI N.º 4225 Projeto de Lei nº 141/21 de autoria do Vereador Benevan Souza Institui no Calendário Oficial do Município a Semana Municipal das Meninas e dá outras providências Proc. nº 67333/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
