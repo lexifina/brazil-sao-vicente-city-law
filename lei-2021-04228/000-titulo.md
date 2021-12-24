@@ -1,0 +1,2 @@
+# LEI N.º 4228 Revoga dispositivo da Lei n.° 2013-A, de 18 de julho de 2008, que autoriza o Poder Executivo e as Autarquias Municipais a firmarem Convênio com instituições financeiras e bancárias, visando à concessão de empréstimos ou financiamentos aos servidores e funcionários públicos municipais ativos, inativos e pensionistas e alterações.
+Proc.nº 23397/08 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
