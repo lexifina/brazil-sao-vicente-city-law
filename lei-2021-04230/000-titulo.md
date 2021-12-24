@@ -1,0 +1,2 @@
+# LEI N.º 4230 Projeto de Lei nº 133/21. De autoria do Vereador Dr. Palmieri Dispõe sobre o triturador de resíduos orgânicos em novas construções residenciais e estabelecimentos comerciais de alimentos.
+Proc. Nº 64672/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
