@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1035 Altera a nomenclatura do cargo de Agente de Saúde Pública do Quadro de Pessoal da Prefeitura, da Lei Complementar nº 268, de 28.12.99 e alterações, para Agente de Combate às Endemias.
+Proc. nº 28052/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
