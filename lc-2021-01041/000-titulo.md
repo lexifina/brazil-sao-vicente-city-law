@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1041 Revoga a Lei Complementar nº 1001, de 19.06.20, que concede isenção do Imposto Sobre Serviço de Qualquer Natureza - ISSQN - ao transporte coletivo Municipal.
+Proc. nº 25720/20 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
