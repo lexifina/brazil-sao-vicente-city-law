@@ -1,0 +1,2 @@
+# LEI N.º 4270 Projeto de Lei n.º 152/21 de autoria do Vereador Dr. Eduardo Oliveira Dispõe sobre a criação de cursos gratuitos, destinados às gestantes, sobre os cuidados e atendimentos emergenciais às crianças de zero a seis anos.
+Proc. n.º 18193/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
