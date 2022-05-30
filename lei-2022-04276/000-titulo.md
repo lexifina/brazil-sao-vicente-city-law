@@ -1,0 +1,2 @@
+# LEI N.º 4276 Projeto de Lei n.º 46/22 de autoria do Vereador Benevan Souza Institui a criação de campanha para orientar proprietários de salões de beleza, barbearias e similares no descarte de materiais perfurocortantes no município de São Vicente e dá outras providências.
+Proc. n.º 22.407/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
