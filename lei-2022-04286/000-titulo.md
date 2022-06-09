@@ -1,0 +1,3 @@
+# LEI Nº 4286, DE 09 DE JUNHO DE 2022.
+Projeto de Lei nº 151/21 de autoria do Vereador Dr. Eduardo Oliveira Dispõe sobre a obrigatoriedade de hospitais e maternidades privadas em prestar orientações aos pais ou responsável legal por recém-nascido sobre primeiros socorros em casos de engasgamento, aspiração de corpo estranho, asfixia e prevenção de morte súbita de bebês e dá outras providências.
+Proc. nº 24248/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
