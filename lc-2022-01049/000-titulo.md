@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1049 Revoga dispositivo da Lei Complementar n.º 852, de 3 de fevereiro de 2017, que dispõe sobre a padronização dos cadastros e obrigações de adoção de procedimentos administrativos, e dá outras providências.
+Proc. n.º 4368/17 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
