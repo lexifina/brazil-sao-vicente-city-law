@@ -1,0 +1,2 @@
+# LEI N.º 4292 Altera a redação dos §§ 1º e 2º do art. 1.º da Lei Municipal n.º 2603-A, de 6 de maio de 2011, que dispõe sobre obrigatoriedade do cumprimento de exigências legais para expedição de licença de localização e funcionamento para novas agências bancárias no Município.
+Proc. n.º 15190/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
