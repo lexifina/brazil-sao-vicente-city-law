@@ -1,0 +1,2 @@
+# LEI N.º 4297 Altera a redação do art. 1º da Lei n.º 860-A, de 20.06.00, e alterações, que dispõe sobre a nomeação dos Presidentes e Suplentes das JARIs Municipais, fixa remuneração a título pro labore e estabelece condições para a percepção dessa remuneração.
+Proc. n.º 24770/00 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
