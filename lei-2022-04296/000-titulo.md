@@ -1,0 +1,2 @@
+# LEI N.º 4296 Autoriza a cessão de uso do imóvel localizado na Rua Nicolau Guirao Peres, n.º 75, onde se encontra instalado o Serviço Anexo da Fazenda Pública do Tribunal de Justiça do Estado de São Paulo.
+Proc. n.º 37989/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
