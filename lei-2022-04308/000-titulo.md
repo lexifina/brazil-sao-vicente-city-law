@@ -1,0 +1,2 @@
+# LEI N.º 4308 REVOGADA PELA LEI Nº 4338 Projeto de Lei nº 75/22 de autoria do Vereador Adilson da Farmácia Torna obrigatória a instalação de contentores de lixo nos casos que especifica e dá outras providências.
+Proc. nº 33858/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
