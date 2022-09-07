@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1064 Altera dispositivos da Lei Complementar n.º 1.030, de 27 de outubro de 2021, que institui, no âmbito do Município de São Vicente, o Regime de Previdência Complementar de que trata o artigo 40, §§ 14, 15 e 16, da Constituição Federal.
+Proc. 31831/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
