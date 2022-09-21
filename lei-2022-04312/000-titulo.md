@@ -1,0 +1,2 @@
+# LEI N.º 4312 Projeto de Lei n.º 99/22 de Autoria do Vereador Dercinho Negão do Caminhão Institui no Município de São Vicente o "Maio Furta-Cor", mês dedicado às ações de conscientização, incentivo ao cuidado e à promoção da saúde mental materna.
+Proc. n.º 41889/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
