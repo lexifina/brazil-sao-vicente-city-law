@@ -1,0 +1,2 @@
+# LEI N.º 4314 Projeto de Lei n.º 29/22 de autoria do Vereador Jabá Dispõe sobre a obrigatoriedade da realização, pelas unidades hospitalares das redes pública e privada de São Vicente, de exames para diagnóstico precoce da encefalopatia crônica não progressiva da infância (paralisia cerebral) em crianças de dois a três anos de idade.
+Proc. n.º 41890/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
