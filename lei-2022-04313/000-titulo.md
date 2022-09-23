@@ -1,0 +1,2 @@
+# LEI N.º 4313 Projeto de Lei n.º 98/22 de autoria do Vereador Rodrigo Digão Dispõe sobre a obrigatoriedade de instalação de grades ou redes de proteção nas janelas, sacadas e mezaninos em residências e edifícios localizados no Município e dá outras providências.
+Proc. n.º 41887/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
