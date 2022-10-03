@@ -1,0 +1,2 @@
+# LEI N.º 4325 Dispõe sobre a inclusão de atividades e conteúdos relativos da Língua Brasileira de Sinais - LIBRAS no Currículo Escolar no âmbito do Município de São Vicente e dá outras providências.
+Proc. n.º 27778/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
