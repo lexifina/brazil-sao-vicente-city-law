@@ -1,0 +1,2 @@
+# LEI N.º 4328 Projeto de Lei n.º 126/22 de autoria do Vereador Jabá Altera o artigo 1º da Lei n.º 3872-A, de 2 de abril de 2019, para obrigar os estabelecimentos públicos e privados, bem como o transporte coletivo municipal, a inserir nas placas de atendimento prioritário o símbolo mundial do autismo.
+Proc. n.º 11760/19 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
