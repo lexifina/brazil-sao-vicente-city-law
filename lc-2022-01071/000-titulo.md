@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1071 Desafeta da classe dos bens de uso comum do povo, transfere para a dos patrimoniais do Município, parte da Rua Capitão Frederico de Almeida, no bairro Cidade Náutica, e autoriza sua alienação nos termos da Lei Federal n.º 8666/93 e dá outras providências.
+Proc. n.º 17898/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
