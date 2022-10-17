@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1072 Revoga a Lei Complementar n.º 321, de 07.12.00, que desafeta e transfere da classe dos bens de uso comum do povo para a dos bens patrimoniais do Município, área que constitui Viela no loteamento Vila São Jorge, com 192,87m², autoriza sua alienação e dá outras providências.
+Proc. 38461/00 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
