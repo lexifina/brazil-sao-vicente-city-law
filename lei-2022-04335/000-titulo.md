@@ -1,0 +1,2 @@
+# LEI N.º 4335 Altera a redação de dispositivos do artigo 3º da Lei n.º 2278-A, de 11.12.09, que dispõe sobre a instituição de um Fundo para financiar atividades de proteção aos animais do município, e dá outras providências.
+Proc. n.º 48112/09 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
