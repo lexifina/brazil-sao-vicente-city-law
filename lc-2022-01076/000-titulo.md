@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.076, de 28 de outubro de 2022 Lei Complementar nº 1.227, de 27 de março de 2026 Dispõe sobre a criação do programa de premiação de profissionais do magistério e de destinação de bens e serviços às unidades escolares da Rede Municipal de São Vicente.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
