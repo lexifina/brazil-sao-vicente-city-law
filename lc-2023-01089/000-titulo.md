@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1089 Altera a redação da Lei Complementar 732, de 13/06/13, e suas alterações, que dispõe sobre o Sistema de Estacionamento Controlado Rotativo de Veículos, compensado por tarifa ou preço público no Município e dá outras providências.
+Proc. n.º 16362/13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
