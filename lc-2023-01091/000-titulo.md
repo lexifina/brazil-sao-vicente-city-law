@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1091 Prorroga o período do parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e concede descontos sobre valores de multas e juros relativos a tributos e multas de qualquer natureza, exceto multas de trânsito, para pagamento nas condições que especifica, e dá outras providências.
+Proc. n.º 47420/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
