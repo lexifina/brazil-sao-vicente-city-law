@@ -1,0 +1,2 @@
+# LEI N.º 4393 Acrescenta parágrafo único ao art. 1º da Lei n.º 3751-A, de 20 de março de 2018, que institui e inclui no Calendário Oficial do Município, o Dia da Chegada do Papai Noel na Área Continental.
+Proc. n.º 9843/18 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
