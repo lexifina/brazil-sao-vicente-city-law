@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1102 Altera dispositivos da Lei n.º 2026, de 09 de julho de 1985, e alterações, que estabelece normas para ordenar e disciplinar o controle de obras no Município de São Vicente.
+Proc. n.º 13845/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
