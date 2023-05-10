@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1109 Altera a Lei Complementar n.º 841, de 1º de julho de 2016, que regulamenta as funções gratificadas criadas pelo artigo 4° da Lei Complementar n.º 806/2015.
+Proc. n.º 37812/99 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
