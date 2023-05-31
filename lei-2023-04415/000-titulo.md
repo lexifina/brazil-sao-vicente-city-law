@@ -1,0 +1,2 @@
+# LEI N.º 4415 Projeto de Lei n.º 36/23 de autoria do Vereador Dercinho Negão do Caminhão Denomina Manoel Constantino da Conceição a Rua Mecanizada 354, localizada no bairro Vila Margarida.
+Proc. n.º SG-PRC-2023/00070 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
