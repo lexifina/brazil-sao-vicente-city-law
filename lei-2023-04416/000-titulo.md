@@ -1,0 +1,2 @@
+# LEI N.º 4416 Projeto de Lei n.º 45/23 de autoria do Vereador Higor Ferreira Institui e inclui no Calendário Oficial de Eventos do Município a Semana de Combate à Intolerância e à Violência Escolar.
+Proc. n.º SG-PRC-2023/00063 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
