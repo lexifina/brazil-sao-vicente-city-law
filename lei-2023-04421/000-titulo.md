@@ -1,0 +1,2 @@
+# LEI N.º 4421 Projeto de Lei n.º 61/23 de autoria do Vereador Jatobá Institui e inclui no Calendário Oficial de Eventos do Município o "Dia da Pioneira" das igrejas evangélicas Assembleia de Deus do Estado de São Paulo.
+Proc. n.º SG-PRC-2023/00111 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
