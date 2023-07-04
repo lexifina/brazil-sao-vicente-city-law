@@ -1,0 +1,2 @@
+# LEI Nº 4428 Projeto de Lei nº 72/23 de autoria do Vereador Jabá Dispõe sobre a criação do selo Empresa Amiga dos Autistas, destinado aos estabelecimentos empresariais que adotem política interna de inserção de pessoas com TEA no mercado de trabalho.
+Proc. nº SG-PRC-2023/00119 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
