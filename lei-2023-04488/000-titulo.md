@@ -1,0 +1,2 @@
+# LEI Nº 4488 Projeto de Lei n.º 161/23 de autoria do Vereador Jabá Institui e inclui no Calendário Oficial de Eventos do Município a Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla e dá outras providências.
+Proc. n.º 00004384/2023-75 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
