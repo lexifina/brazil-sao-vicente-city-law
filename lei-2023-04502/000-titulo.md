@@ -1,0 +1,2 @@
+# LEI Nº 4502 Projeto de Lei n.º 173/23 de autoria do Vereador Tiago Peretto Altera a redação do art. 3º da Lei n.º 252-A, de 19 de maio de 1994, que dispõe sobre o transporte coletivo de escolares no Município de São Vicente e dá outras providências.
+Proc. n.º 6131/2023-36 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
