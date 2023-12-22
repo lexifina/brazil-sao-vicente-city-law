@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1140 Altera a Lei Complementar n.º 1.135, de 1º de dezembro de 2023, para estabelecer novas regras de transição ao primeiro processo de promoção realizado pela Administração Municipal para a carreira de Guarda Civil Municipal.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
