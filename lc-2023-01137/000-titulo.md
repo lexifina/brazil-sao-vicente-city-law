@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 1137 Altera dispositivo da Lei Complementar n.º 988, de 16 de março de 2020, que desafeta da classe de bens em comum do povo e transfere para os bens patrimoniais do Município, área que especifica, cessão de uso e dá outras providências.
+Proc. n.º 3551009.401.00008055/2023-01 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
