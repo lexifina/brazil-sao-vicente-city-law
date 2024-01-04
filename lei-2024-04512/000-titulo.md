@@ -1,0 +1,2 @@
+# LEI N.º 4512 Projeto de Lei nº 9/23 de autoria do Vereador Jefferson Cezarolli Dispõe sobre a preferência de uso de todos os assentos do transporte público coletivo de São Vicente por idosos, gestantes, lactantes, pessoas com criança de colo, pessoas com deficiência ou mobilidade reduzida e autistas.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
