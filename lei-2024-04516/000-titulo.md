@@ -1,0 +1,2 @@
+# LEI N.º 4516 Projeto de Lei n.º 198/23 de autoria do Vereador Alfredo Moura Cria o Programa de Capacitação e Amparo em Saúde Mental para mães ou tutores legais de pessoas com Transtorno do Espectro Autista (TEA) e dá outras providências.
+Proc. n.º 00003886/2024-60 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
