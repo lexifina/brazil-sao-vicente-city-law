@@ -1,0 +1,2 @@
+# LEI N.º 4517 Projeto de Lei n.º 03/24 de autoria do Vereador Edinho Ferrugem Institui e inclui no Calendário de Eventos do Município a Semana Municipal do Empreendedorismo Feminino.
+Proc. n.º 5871/2024-36 SANDRA CONTI, Vice-Prefeita em exercício no cargo de Prefeita do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
