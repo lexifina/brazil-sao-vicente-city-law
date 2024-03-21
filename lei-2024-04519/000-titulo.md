@@ -1,0 +1,2 @@
+# LEI N.º 4519 Projeto de Lei n.º 11/24 de autoria do Vereador Jefferson Cezarolli Considera de Utilidade Pública a Associação MIRO'S - Movimento Independente Realizando Obras Sociais.
+Proc. n.º 3551009.401.00007390/2024-65 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
