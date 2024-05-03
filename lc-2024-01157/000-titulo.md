@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.157, de 03 de maio de 2024 Dispõe sobre o parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e concede descontos sobre valores de multas e juros relativos a tributos e multas de qualquer natureza, exceto multas de trânsito, para pagamento nas condições que especifica.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
