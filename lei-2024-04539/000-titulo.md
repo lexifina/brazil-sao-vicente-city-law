@@ -1,0 +1,2 @@
+# LEI N.º 4539 Projeto de Lei n.º 211/23 de autoria do Vereador Alfredo Moura Estabelece prioridade no atendimento de pessoas que realizam tratamento de quimioterapia, radioterapia ou hemodiálise e dá outras providências.
+Proc. n.º 00010588/2024-26 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
