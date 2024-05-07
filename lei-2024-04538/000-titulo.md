@@ -1,0 +1,2 @@
+# LEI N.º 4538 Projeto de Lei n.º 168/23 de autoria do Vereador Jefferson Cezarolli Altera a Lei n.º 3652-A/2017, que dispõe sobre apreensão e encaminhamento de animais de médio e grande porte soltos no Município e dá outras providências.
+Proc. n.º 00010031/2024-95 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
