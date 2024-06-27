@@ -1,0 +1,2 @@
+# LEI N.º 4559 Projeto de Lei n.º 61/24 de autoria do Vereador Dr. Palmieri Autoriza o Poder Executivo a celebrar convênio com instituições privadas visando atender pacientes com doenças físicas, de neurodesenvolvimento e mentais e suprir o déficit de oferta da rede Municipal de saúde de São Vicente.
+Proc. n.º 3551009.401.00017182/2024-74 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
