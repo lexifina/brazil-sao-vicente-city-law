@@ -1,0 +1,2 @@
+# LEI N.º 4565 Altera a redação dos dispositivos da Lei n.º 1234-A, de 07/03/03, e suas alterações, que cria o Conselho Municipal dos Direitos da Mulher - COMDIM e dá outras providências.
+Proc. n.º 17080/02 SEI n.º 3551009.401.00019156/2024-81 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
