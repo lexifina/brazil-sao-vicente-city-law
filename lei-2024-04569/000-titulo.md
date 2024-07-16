@@ -1,0 +1,2 @@
+# LEI N.º 4569 Projeto de Lei n.º 51/24 de autoria do Vereador Prof. Thiago Alexandre Institui o Dia Municipal do Graffiti em São Vicente e o Prêmio Leto Graffiti de Honra ao Mérito.
+Proc. n.º 3551009.401.00021702/2024-43 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
