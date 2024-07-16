@@ -1,0 +1,2 @@
+# LEI N.º 4571 Projeto de Lei n.º 120/24 De autoria do Vereador Adilson da Farmácia Institui no Calendário Oficial de Datas e Eventos do Município o Dia Elista de Portugal, Camões e das Comunidades Portuguesas, a ser comemorado no dia 10 de junho.
+Proc. n.º 3551009.401.00021792/2024-72 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
