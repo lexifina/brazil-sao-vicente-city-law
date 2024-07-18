@@ -1,0 +1,2 @@
+# LEI N.º 4572 Projeto de Lei n.º 81/24 de autoria do Vereador Rodrigo Digão Denomina Jadielson da Silva Almeida "MC Primo" a praça situada entre a Rua Helvetia, Rua Graciliano Ramos e Avenida do Contorno, no bairro Vila Jóquei Clube.
+Proc. n.º 3551009.401.00019830/2024-27 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
