@@ -1,0 +1,2 @@
+# LEI N.º 4574 Projeto de Lei n.º 83/24 de autoria do Vereador Prof. Thiago Alexandre Denomina Salvador da Conceição o campo de futebol localizado na Rua Archimedes Bava S/N, no cruzamento da Avenida Antônio Buieno Capolupo, no bairro Gleba II.
+Proc. n.º 3551009.401.00021698/2024-13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
