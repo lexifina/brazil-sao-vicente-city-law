@@ -1,0 +1,2 @@
+# LEI N.º 4578 Projeto de Lei n.º 139/24 de autoria do Vereador Jatobá Altera o art. 1º da Lei n.º 4474, de 19 de outubro de 2023, que institui o Casamento Civil Comunitário no Município de São Vicente, estabelece a celebração de convênio e parceria para a sua realização e dá outras providências.
+Proc. n.º 3551009.401.00002074/2023-16 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
