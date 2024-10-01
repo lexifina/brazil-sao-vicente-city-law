@@ -1,0 +1,2 @@
+# LEI N.º 4580 Projeto de Lei n.º 138/24 de autoria do Vereador Jatobá Denomina Cátia Fraga Kigar a Rua D, Mecanizada 2387, localizada entre as ruas Matheus Ferreira Amado e Antonio da Costa, no bairro Cidade Náutica.
+Proc. n.º 3551009.401.00030493/2024-29 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
