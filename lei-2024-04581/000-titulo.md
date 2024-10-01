@@ -1,0 +1,2 @@
+# LEI N.º 4581 Projeto de Lei n.º 124/24 de autoria do Vereador Benevan Souza Estabelece que a empresa concessionária de distribuição de energia elétrica deve determinar e sinalizar de forma eficaz o perímetro de segurança acerca de energização de fiação elétrica em casos de catástrofes naturais no Município de São Vicente e dá outras providências.
+Proc. n.º 3551009.401.00030496/2024-62 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
