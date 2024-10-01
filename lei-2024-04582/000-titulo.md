@@ -1,0 +1,2 @@
+# LEI N.º 4582 Projeto de Lei n.º 48/24 de autoria do Vereador Dercinho Negão do Caminhão Denomina Praça Tia Regina Aparecida Silva Nascimento, Mecanizada 0294, localizada entre a Rua Nova Rio de Janeiro e a Rua Campo Belo, no bairro Vila Ponte Nova.
+Proc. n.º 3551009.401.00030497/2024-15 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
