@@ -1,0 +1,2 @@
+# LEI N.º 4576 Autoriza o Poder Executivo Municipal a celebrar convênio com o Governo do Estado de São Paulo, através da Secretaria de Segurança Pública - SSP, tendo por objeto a transferência de recursos financeiros para a execução de ações no âmbito da Guarda Civil Municipal e dá outras providências.
+Proc. n.º 3551009.401.00010485/2024-66 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
