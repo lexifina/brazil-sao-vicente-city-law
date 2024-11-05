@@ -1,0 +1,1 @@
+# LEI N.º 4588 Altera a Lei Municipal n.º 4.339, de 27 de outubro de 2022, que dispõe sobre o Sistema de Estágios no âmbito da Administração Direta do Município de São Vicente. Proc. 12732/93 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
