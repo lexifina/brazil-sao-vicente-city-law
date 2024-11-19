@@ -1,0 +1,2 @@
+# LEI N.º 4593 Projeto de Lei n.º 163/24 de autoria do Vereador Alfredo Moura Institui a Campanha Idosos Órfãos de Filhos Vivos, de conscientização e combate ao abandono de idosos no Município de São Vicente.
+Proc. n.º 00036916/2024-14 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
