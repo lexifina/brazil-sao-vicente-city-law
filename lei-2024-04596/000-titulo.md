@@ -1,0 +1,2 @@
+# LEI N.º 4596 Projeto de Lei n.º 99/24 de autoria do Vereador Dr. Palmieri Cria o título de "Protetor Independente de Animais" e reconhece como de interesse público primário o trabalho realizado pelos protetores no Município de São Vicente.
+Proc. n.º 00036898/2024-71 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
