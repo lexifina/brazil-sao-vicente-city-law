@@ -1,0 +1,2 @@
+# LEI N.º 4597 Projeto de Lei n.º 78/24 de autoria do Vereador Dr. Palmieri Acrescenta o inciso XIII ao § 1º do art. 2º da Lei n.º 2686-A, de 22 de julho de 2011, que dispõe sobre a prática de maus-tratos contra animais e dá outras providências.
+Proc. n.º 38903/2011 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
