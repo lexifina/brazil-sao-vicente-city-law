@@ -1,0 +1,2 @@
+# LEI N.º 4598 Autoriza o Poder Executivo a aderir ao Programa de Acompanhamento e Transparência Fiscal e ao Plano de Promoção do Equilíbrio Fiscal de que tratam a Lei Complementar Federal n.º 178, de 13 de janeiro de 2021.
+Proc. n.º 00035120/2024-44 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
