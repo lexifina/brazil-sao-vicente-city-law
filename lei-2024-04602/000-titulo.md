@@ -1,0 +1,2 @@
+# LEI N.º 4602 Autoriza o Poder Executivo a celebrar Convênio com a Fundação de apoio à universidade Federal de São Paulo - FAPUNIFESP e a Universidade Federal de São Paulo - UNIFESP, para a finalidade que especifica, e dá outras providências.
+Proc. n.º 00033451/2024-40 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
