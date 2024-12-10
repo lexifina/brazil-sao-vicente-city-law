@@ -1,0 +1,2 @@
+# LEI N.º 4605 Projeto de Lei n.º 188/24 de autoria do Vereador Dercinho Negão do caminhão Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia do Educador Social e dá outras providências.
+Proc. n.º 3551009.401.00041056/2024-31 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
