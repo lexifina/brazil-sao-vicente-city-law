@@ -1,0 +1,2 @@
+# LEI N.º 4609 Projeto de Lei n.º 197/24 de autoria do Vereador Benevan Souza Institui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença.
+Proc. n.º 3551009.401.00042224/2024-13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
