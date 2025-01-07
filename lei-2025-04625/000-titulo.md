@@ -1,0 +1,2 @@
+# LEI N.º 4625 Projeto de Lei n.º 226/24 de autoria da Mesa da Câmara Autoriza o Poder Legislativo a firmar convênio com instituições financeiras e bancárias, visando à concessão de empréstimos ou financiamentos aos assessores e agentes políticos da Câmara Municipal.
+Proc. n.º 3551009.401.00044485/2024-60 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
