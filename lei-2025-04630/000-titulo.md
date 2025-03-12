@@ -1,0 +1,2 @@
+# LEI N.º 4630 Projeto de Lei n.º 54/24 de autoria do Vereador Jefferson Cezarolli Considera de Utilidade Pública o Instituto Articulação de Tecnologias Sociais e Ações Formativas - Instituto ADESAF.
+Proc. n.º 3551009.401.00008292/2025-26 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
