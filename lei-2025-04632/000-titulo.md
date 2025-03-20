@@ -1,0 +1,2 @@
+# LEI N.º 4632 Projeto de Lei n.º 21/25 de autoria da Mesa da Câmara Abre Crédito Adicional Suplementar no valor de R$ 760.000,00 (setecentos e sessenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal, e dá outras providências.
+Proc. n.º 3551009.401.00011240/2025-37 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
