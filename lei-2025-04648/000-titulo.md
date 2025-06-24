@@ -1,0 +1,2 @@
+# LEI N.º 4648 Projeto de Lei n.º 31/25 de autoria do Vereador Fernando Paulino Institui no Calendário Oficial de Datas e Eventos do Município o "Festival da Mulher Vicentina - Cultura, Empreendedorismo e Empoderamento" e dá outras providências.
+Proc. n.º 3551009.401.00023999/2025-62 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito Municipal, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
