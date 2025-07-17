@@ -1,0 +1,2 @@
+# LEI N.º 4662 Projeto de Lei n.º 64/25 de autoria do Vereador Fernando Paulino Dispõe sobre a garantia de que agressores de mulheres não possam assumir cargos públicos de provimento efetivo no Município de São Vicente e dá outras providências.
+Proc. n.º 3551009.401.00027448/2025-78 KAYO AMADO, Prefeito do Município de São Vicente, Estância Balneária, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
