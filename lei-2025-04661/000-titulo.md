@@ -1,0 +1,2 @@
+# LEI N.º 4661 Projeto de Lei n.º 60/25 de autoria do Vereador Benevan Souza Institui a Rede Solidária de Apoio Voluntário à População em Situação de Rua - São Vicente Cuida e dá outras providências.
+Proc. n.º 3551009.401.00027449/2025-12 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
