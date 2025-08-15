@@ -1,0 +1,8 @@
+PREFEITURA MUNICIPAL DE SÃO VICENTE Cidade Monumento da História Pátria Cellula Mater da Nacionalidade LEI COMPLEMENTAR N.º 1202 Página 1 de 1 Altera dispositivos da Lei n.º 1745, de 29 de setembro de 1977, que instituiu o Código Tributário do Município de São Vicente, e da outras providências.
+Proc. n.º 32492/2025-08 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
+Art. 1º A alíquota do Imposto Sobre Serviços de Qualquer Natureza correspondente ao subitem 11.04 da Lista de Serviços que consta no artigo 192 da Lei n.º 1.745, de 29 de setembro de 1977, passa a ser de 5% (cinco por cento) a partir de 1º de janeiro de 2026.
+Art. 2º Nos termos do subitem 14.01 do art. 192 da Lei n.º 1.745, de 29 de setembro de 1977, fica estabelecido, para fins de organização administrativa, o seguinte código interno e respectiva descrição de atividade, com sua alíquota de Imposto Sobre Serviços de Qualquer Natureza: 14.01.01. Manutenção e reparação de embarcações e estruturas flutuantes 2%.
+Art. 3º O código e descrição criados por esta Lei Complementar têm natureza exclusivamente administrativa, com finalidade de organização tributária interna e definição de alíquotas, sem configurar novo fato gerador ou ampliar o rol de serviços tributáveis da Lei Complementar n.º 116/2003.
+Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, quanto ao disposto no artigo 1º, a partir de 1º de janeiro de 2026.
+São Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de agosto de 2025.
+KAYO AMADO Prefeito Municipa
