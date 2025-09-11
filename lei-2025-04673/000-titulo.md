@@ -1,0 +1,2 @@
+# LEI N.º 4673 Projeto de Lei n.º 74/25 de autoria do Vereador Edivaldo da Auto Escola Institui a Semana de Prevenção de Bebida Alcoólica no Trânsito no Calendário Oficial de Datas e Eventos do Município.
+Proc. n.º 3551009.401.00035397/2025-58 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
