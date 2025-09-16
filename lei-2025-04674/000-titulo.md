@@ -1,0 +1,2 @@
+# LEI N.º 4674 Projeto de Lei n.º 79/25 de autoria do Vereador Professor Nando Considera de Utilidade Pública o Instituto Canto do Rio, do bairro Catiapoã.
+Proc. n.º 3551009.401.00036697/2025-54 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
