@@ -1,0 +1,2 @@
+# LEI N.º 4677 Projeto de Lei n.º 81/25 de autoria do Vereador Jefferson Cezarolli Institui o Programa de Cooperação e Código Sinal Vermelho no âmbito do Município de São Vicente.
+Proc. n.º 3551009.401.00038824/2025-50 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
