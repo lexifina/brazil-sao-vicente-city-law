@@ -1,0 +1,2 @@
+# LEI N.º 4688 Projeto de Lei n.º 17/25 de autoria do Vereador Fernando Paulino Considera de utilidade pública a Associação de Atletas Marciais Desenvolvendo Vidas.
+Proc. n.º 3551009.401.00048074/2025-24 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
