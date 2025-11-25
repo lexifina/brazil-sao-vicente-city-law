@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.694, de 18 de novembro de 2025 Abre Crédito Adicional Suplementar no valor de R$ 2.450.000,00 (dois milhões e quatrocentos e cinquenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
