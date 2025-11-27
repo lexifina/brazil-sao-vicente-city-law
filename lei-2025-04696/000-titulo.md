@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.696, de 25 de novembro de 2025 Dispõe sobre a instituição do "Setembro Azul" no Calendário Oficial de Datas e Eventos do Município de São Vicente e estabelece diretrizes para ações de promoção da inclusão da pessoa surda.
+Projeto de Lei nº 101/25 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
