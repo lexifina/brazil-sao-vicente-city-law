@@ -1,0 +1,1 @@
+# Lei Ordinária nº 4.697, de 25 de novembro de 2025 Considera de Utilidade Pública o Instituto de Políticas Públicas - IPP Projeto de Lei nº 133/25 de autoria do Vereador Wagner Cabeça KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
