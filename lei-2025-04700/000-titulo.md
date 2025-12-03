@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.700, de 03 de dezembro de 2025 Altera a redação do art. 5º, revoga o §1° e acrescenta o § 9º da Lei n 4.409, de 30 de maio de 2023, que cria o Conselho Municipal de Segurança Pública - COMSEР.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
