@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.699, de 03 de dezembro de 2025 Altera a Lei nº 77-A, de 12 de dezembro de 1991, que dispõe sobre a instalação, conservação e о funcionamento de elevadores e outros aparelhos de transporte no Município de São Vicente, e dá outras providências.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
