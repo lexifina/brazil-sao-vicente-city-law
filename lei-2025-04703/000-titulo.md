@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.703, de 08 de dezembro de 2025 Institui o Mês da Solidariedade no Calendário Oficial de Datas e Eventos do Município e dá outras providências.
+Projeto de Lei n.º 117/25 de autoria do Vereador Adilson da Farmácia SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
