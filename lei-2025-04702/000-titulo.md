@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.702, de 05 de dezembro de 2025 Dispõe sobre a aplicação de penalidades por danos, mau uso ou utilização indevida de equipamentos públicos administrados pela Secretaria de Esportes e Lazer do Município de São Vicente e dá outras providências.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
