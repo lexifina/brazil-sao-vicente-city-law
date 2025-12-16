@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.707, de 15 de dezembro de 2025 Revoga integralmente o(a) Lei Ordinária nº 2426-A, de 07 de julho de 2010 Revoga integralmente o(a) Lei Ordinária nº 3243-A, de 03 de setembro de 2014 Dispõe sobre a revogação das Leis Municipais n° 2426- A/10 e nº 3243-A/14 e dá outras providências.
+SANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
