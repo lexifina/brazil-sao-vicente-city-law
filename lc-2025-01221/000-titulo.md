@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.221, de 18 de dezembro de 2025 Autoriza, em caráter excepcional e por prazo determinado, a transferência de titularidade das licenças para o exercício do comércio ambulante no Município de São Vicente, e dá outras providências.
+SANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
