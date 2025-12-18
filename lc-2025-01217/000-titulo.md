@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.217, de 18 de dezembro de 2025 Altera o(a) Lei Ordinária nº 1.780, de 06 de junho de 1978 Altera normas relativas à avaliação especial de desempenho em estágio probatório e dá outras providências.
+SANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
