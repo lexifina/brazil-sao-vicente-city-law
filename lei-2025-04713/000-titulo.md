@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.713, de 29 de dezembro de 2025 Inclui a Corrida Solidária Beach Street Running no Calendário Oficial de Datas e Eventos do Município.
+Projeto de Lei n.º 115/25 de autoria do Vereador Fernando Paulino KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
