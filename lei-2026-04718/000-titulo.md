@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.718, de 06 de janeiro de 2026 Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal da Empregada Doméstica.
+Projeto de Lei n.º 139/25 de autoria do Vereador Adilson da Farmácia KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
