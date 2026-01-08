@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.717, de 06 de janeiro de 2026 Estabelece diretrizes para a promoção de ações educativas e preventivas de segurança no trânsito voltadas a motociclistas, denominadas Pit Stop do Motoca, no âmbito do Município de São Vicente, e dá outras providências.
+Projeto de Lei n.º 125/25 de autoria do Vereador Fernando Paulino KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
