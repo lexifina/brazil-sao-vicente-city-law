@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.719, de 13 de janeiro de 2026 Dispõe sobre a proibição, no âmbito de São Vicente, da promoção, exibição, produção, patrocínio ou divulgação de conteúdo que sexualize crianças, estabelece sanções administrativas e dá outras providências.
+Projeto de Lei n.º 87/25 de autoria do Vereador Rodrigo Digão KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
