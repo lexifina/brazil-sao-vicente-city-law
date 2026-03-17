@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.223, de 12 de março de 2026 Altera a Lei Complementar nº 1.021, de 5 de fevereiro de 2021, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
