@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.222, de 12 de março de 2026 Dispõe sobre a reorganização parcial da Secretaria de Cultura, institui a Diretoria de Gestão da Encenação da Vila de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
