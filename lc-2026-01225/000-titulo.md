@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.225, de 12 de março de 2026 Altera normas do Estatuto dos Servidores Públicos do Município de São Vicente, que dispõem sobre férias e sobre o acúmulo constitucional de cargos públicos.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
