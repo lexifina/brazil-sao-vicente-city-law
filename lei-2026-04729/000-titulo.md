@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.729, de 27 de março de 2026 Dispõe sobre a obrigatoriedade de disponibilização de cadeiras de rodas pelas farmácias e drogarias do Município de São Vicente para uso dos seus clientes e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
