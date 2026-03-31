@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.731, de 27 de março de 2026 Acrescenta, altera e revoga dispositivos da Lei nº 4615, de 17 de dezembro de 2024, que dispõe sobre a prestação do Serviço de Transporte Público Individual de Passageiros por Táxi e institui o Serviço de Táxi Acessível no Município de São Vicente e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
