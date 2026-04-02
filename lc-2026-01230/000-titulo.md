@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.230, de 30 de março de 2026 Altera dispositivos da Lei Complementar nº 1.077, de 11 de novembro de 2022, que autoriza a criação do Programa Emergencial de Auxílio Desemprego no Município de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
