@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.737, de 13 de abril de 2026 Proíbe a instalação de plantas e arborização artificial em geral no âmbito do Município de São Vicente e dá outras providências.
+Projeto de Lei n.º 143/25 de autoria do Vereador Jefferson Cezarolli SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
