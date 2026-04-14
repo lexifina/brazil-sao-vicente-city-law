@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.735, de 13 de abril de 2026 Altera o(a) Lei Ordinária nº 4.555, de 14 de junho de 2024 Altera o art. 7º da Lei nº 4.555/24, que instituiu a Governança Multi-Institucional do Plano São Vicente 500 anos.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
