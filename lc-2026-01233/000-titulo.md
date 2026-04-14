@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.233, de 13 de abril de 2026 Dispõe sobre a alteração da fonte de custeio das despesas administrativas do Instituto de Previdência dos Servidores Municipais de São Vicente - IPRESV.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei Complementar:
