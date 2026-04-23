@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.738, de 16 de abril de 2026 Institui o Programa Municipal PROCOR - Programa Somos Muitas Cores SV, vincula-o ao Selo Municipal de Escola Antirracista, estabelece mecanismos de avaliação e monitoramento e dá outras providências.
+SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
