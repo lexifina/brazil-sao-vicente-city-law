@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.739, de 17 de abril de 2026 Considera de Utilidade Pública a Associação Amigos do Esporte, Cultura e Lazer.
+Projeto de Lei n.º 9/26 de autoria do Vereador Benevan Souza SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
