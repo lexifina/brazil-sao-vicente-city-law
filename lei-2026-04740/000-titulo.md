@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.740, de 17 de abril de 2026 Institui diretrizes para o Programa Municipal Itinerante de Educação para o Trânsito no âmbito do Município de São Vicente e dá outras providências.
+Projeto de Lei n.º 120/25 de autoria do Vereador Fernando Paulino SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
