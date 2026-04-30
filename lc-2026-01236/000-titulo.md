@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.236, de 29 de abril de 2026 Altera o Anexo XV da Lei Complementar nº 981/2020 e o art. 1º da Lei Complementar nº 1.143/2024.
+Projeto de Lei Complementar n.º 15/26 de autoria da Mesa da Câmara KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
