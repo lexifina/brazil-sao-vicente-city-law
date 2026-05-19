@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.743, de 15 de maio de 2026 Altera dispositivos da Lei nº 270-A, de 22 de agosto de 1994, e alterações, que dispõe sobre a política municipal de atendimento e defesa dos direitos da criança e do adolescente e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
