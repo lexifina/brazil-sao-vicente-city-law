@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.745, de 19 de maio de 2026 Revoga dispositivos da Lei nº 4733, de 10 de abril de 2026, que dispõe sobre a Política Municipal de Resíduos Sólidos do Município de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
