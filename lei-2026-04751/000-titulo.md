@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.751, de 03 de junho de 2026 Denomina Vereador Brito Coelho a Rua Mecanizada 9200, conhecida como Rua Mecanizada 9200, no bairro Jockey Club.
+Projeto de Lei n.º 34/26 de autoria do Vereador Rodrigo Digão KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
