@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.752, de 16 de junho de 2026 Institui em São Vicente o Dia de Luto e de Memória às Mulheres Vítimas de Feminicídio, estabelece diretrizes para a criação de memórias físicas e simbólicas e dá outras providências.
+Projeto de Lei n.º 39/26 de autoria do Vereador Edivaldo da Autoescola SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:
