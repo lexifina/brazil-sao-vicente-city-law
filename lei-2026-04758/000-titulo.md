@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.758, de 07 de julho de 2026 Dispõe sobre a prioridade e a flexibilização de requisitos para a inclusão de mulheres em situação de violência doméstica e familiar nos programas habitacionais e de assentamento do Município de São Vicente.
+Projeto de Lei n.º 49/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
