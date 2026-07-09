@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.757, de 07 de julho de 2026 Dispõe sobre o incentivo a parcerias voltadas à promoção de atividades físicas adaptadas para pessoas com deficiência física usuárias de cadeira de rodas no Município de São Vicente.
+Projeto de Lei n.º 55/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
