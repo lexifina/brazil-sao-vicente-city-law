@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.756, de 07 de julho de 2026 Institui a Carteirinha de Atendimento Prioritário à Mãe Atípica no âmbito do Município de São Vicente e dá outras providências.
+Projeto de Lei n.º 48/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
