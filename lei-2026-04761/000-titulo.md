@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.761, de 20 de agosto de 2026 Institui o Programa Municipal de Prevenção aos Acidentes com Linhas Cortantes utilizadas em Pipas, Papagaios e Artefatos Similares, estabelece medidas educativas e preventivas, promove a proteção dos usuários das vias públicas e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
