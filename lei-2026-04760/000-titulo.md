@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.760, de 20 de agosto de 2026 Acrescenta a denominação "Lei Matheus da Silva Evangelista" à Lei Municipal nº 4717, de 6 de janeiro 2026, que estabelece diretrizes para a promoção de ações educativas e preventivas de segurança no trânsito voltadas a motociclistas, denominadas Pit Stop do Motoca, no âmbito do Município de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
