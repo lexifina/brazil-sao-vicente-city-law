@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.766, de 31 de agosto de 2026 Dispõe sobre a proibição e restrição da circulação de veículos destinados ao transporte de Resíduos da Construção Civil- RCC nas vias que especifica, no Município de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
