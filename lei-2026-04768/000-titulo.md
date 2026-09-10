@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.768, de 04 de setembro de 2026 Institui o Programa Intersetorial "Juventude, Cuidado e Futuro", destinado à promoção da saúde, à prevenção da obesidade infantojuvenil, ao desenvolvimento humano e à inclusão social de crianças, adolescentes e jovens no Município de São Vicente, e dá outras providências.
+Projeto de Lei n.º 69/26 de autoria do Vereador Jailton Jatobá KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
