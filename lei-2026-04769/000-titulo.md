@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.769, de 04 de setembro de 2026 Institui o programa municipal de acompanhamento pós-alta de mulheres vítimas de violência denominado Programa Recomeçar com Dignidade e dá outras providências.
+Projeto de Lei n.º 67/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
