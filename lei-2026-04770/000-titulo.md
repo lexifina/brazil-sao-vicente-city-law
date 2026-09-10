@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.770, de 04 de setembro de 2026 Institui o Estatuto do Cuidador Atípico, destinado a estabelecer diretrizes de apoio, proteção e prioridade às pessoas que exerçam a função de cuidador principal de dependentes com deficiência, síndromes ou doenças raras.
+Projeto de Lei n.º 60/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
