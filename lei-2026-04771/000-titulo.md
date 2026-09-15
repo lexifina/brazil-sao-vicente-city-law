@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.771, de 14 de setembro de 2026 Altera a lei ordinária n° 4.268, de 28 de abril de 2022, que institui no Calendário oficial de eventos do Município de São Vicente o dia do Obreiro, e dá outras providências.
+Projeto de Lei n.º 98/26 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
