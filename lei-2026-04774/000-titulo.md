@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.774, de 18 de setembro de 2026 Dispõe sobre o exercício do poder de polícia ambiental municipal para prevenção, fiscalização e sanção de infrações ambientais decorrentes do desabastecimento de água potável ou de falha na prestação do serviço público de saneamento básico no Município de São Vicente, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
