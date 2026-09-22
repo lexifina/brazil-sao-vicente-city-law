@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.776, de 21 de setembro de 2026 Institui o Programa Municipal "São Vicente Limpa - Lixo na Hora Certa" no âmbito do Município de São Vicente, estabelece normas para o acondicionamento e descarte de resíduos sólidos urbanos por pequenos e grandes geradores, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
