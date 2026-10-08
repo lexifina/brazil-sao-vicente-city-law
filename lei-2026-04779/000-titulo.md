@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.779, de 07 de outubro de 2026 Autoriza o Poder Executivo a instituir o Programa Municipal de Formação Técnica e Empregabilidade - PROFTEC Municipal, estabelece diretrizes para sua implementação e dá outras providências.
+Projeto de Lei n.º 80/26 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
