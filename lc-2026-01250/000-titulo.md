@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.250, de 09 de outubro de 2026 Dispõe sobre o Programa de Regularização do Imposto Sobre Serviços de Qualquer Natureza de São Vicente - REFIS ISSQN São Vicente, que oferece condições especiais por tempo determinado para pagamento, à vista ou parcelado, de créditos tributários, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
