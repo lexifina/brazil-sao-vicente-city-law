@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.251, de 23 de outubro de 2026 Institui regras sobre designações temporárias nas hipóteses de impedimento legal dos servidores titulares de cargos do Quadro de Suporte Pedagógico, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
