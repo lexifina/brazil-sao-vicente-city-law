@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.782, de 27 de outubro de 2026 Institui diretrizes para ações de inclusão e educação digital da pessoa idosa no Município de São Vicente e dá outras providências.
+Projeto de Lei n.º 88/26 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente,usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
