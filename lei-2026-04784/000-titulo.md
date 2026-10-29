@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.784, de 29 de outubro de 2026 Altera a Lei nº 2013-A, de 18 de julho de 2008, para ajustar o percentual aplicado para a contratação de operações de crédito com desconto automático em folha de pagamento, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
