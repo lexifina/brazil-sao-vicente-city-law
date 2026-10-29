@@ -1,0 +1,2 @@
+# Lei Ordinária nº 4.786, de 29 de outubro de 2026 Institui a Política Municipal de Educação Integral em Tempo Integral no Município de São Vicente, estabelece seus princípios, objetivos, diretrizes e formas de implementação, dispõe sobre os Ambientes Municipais de Educação Integral - AMEI e sobre os programas de ampliação da jornada escolar.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
