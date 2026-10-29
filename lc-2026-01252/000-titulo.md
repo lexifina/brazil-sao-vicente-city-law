@@ -1,0 +1,2 @@
+# Lei Complementar nº 1.252, de 29 de outubro de 2026 Dispõe sobre a criação de especialidades médicas, altera normas de transição relativas ao regime remuneratório por subsídio, altera as Leis Complementares nº 268, de 28 de dezembro de 1999, e nº 1.245, de 18 de agosto de 2026, e dá outras providências.
+KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:
