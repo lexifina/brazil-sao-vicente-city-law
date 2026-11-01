@@ -3,7 +3,7 @@
 
     python -X utf8 check_laws.py part.json ...
 
-The pdftotext text, page by page: lines seen among the first or last four lines of two or more pages (with digits
+The pdftotext text in content-stream order (-raw), page by page: lines seen among the first or last four lines of two or more pages (with digits
 counted as the same) and lines that are only a page number are removed; then the text from the first line that starts
 "LEI" (or "LEI COMPLEMENTAR", "LEI ORDINÁRIA", "L E I") and carries the law's number to the first line, from the last
 article line on, that ends in a date written out ("10 de outubro de 2026."), that line included. Reduced to letters and digits, it must equal the
@@ -26,7 +26,7 @@ def clean(s):
 
 
 def source_text(path, number, complementar):
-    out = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(path), '-'], capture_output=True, check=True).stdout
+    out = subprocess.run(['pdftotext', '-raw', '-enc', 'UTF-8', str(path), '-'], capture_output=True, check=True).stdout
     pages = [[clean(l) for l in pg.split('\n') if clean(l)] for pg in out.decode('utf-8').split('\f')]
     pages = [p for p in pages if p]
     count = {}
