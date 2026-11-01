@@ -1,0 +1,1843 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "28 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-04717": {
+   "label": "Lei nº 4.717, de 6 de janeiro de 2026",
+   "title": "Estabelece diretrizes para a promoção de ações educativas e preventivas de segurança no trânsito voltadas a motociclistas, denominadas Pit Stop do Motoca, no âmbito do Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-06",
+   "published": "2026-01-08",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9656",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04714": {
+   "label": "Lei nº 4.714, de 29 de dezembro de 2025",
+   "title": "Considera de Utilidade Pública a Associação de Líderes Comunitários Nós por Nós, do Jardim Irmã Dolores.",
+   "kind": "law",
+   "enacted": "2025-12-29",
+   "published": "2025-12-30",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9653",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04713": {
+   "label": "Lei nº 4.713, de 29 de dezembro de 2025",
+   "title": "Inclui a Corrida Solidária Beach Street Running no Calendário Oficial de Datas e Eventos do Município.",
+   "kind": "law",
+   "enacted": "2025-12-29",
+   "published": "2025-12-30",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9652",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04712": {
+   "label": "Lei nº 4.712, de 19 de dezembro de 2025",
+   "title": "Institui no Calendário Oficial de Datas e Eventos do Município o projeto Quebrando o Silêncio.",
+   "kind": "law",
+   "enacted": "2025-12-19",
+   "published": "2025-12-23",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9651",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04711": {
+   "label": "Lei nº 4.711, de 18 de dezembro de 2025",
+   "title": "Institui, no âmbito do Município de São Vicente, o Programa Bolsa Educação Municipal - PROBEM, destinado à concessão de bolsas a cidadãos desempregados ou em situação de vulnerabilidade social, mediante a prestação de serviços em postos públicos vinculados à Secretaria Municipal de Educação e a participação em cursos de capacitação profissional, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9650",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04710": {
+   "label": "Lei nº 4.710, de 18 de dezembro de 2025",
+   "title": "Altera e revoga dispositivos da Lei n° 4615, de 17 de dezembro de 2024, que dispõe sobre a prestação do Serviço de Transporte Público Individual de Passageiros por Táxi e institui o Serviço de Táxi Acessível no Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9649",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04709": {
+   "label": "Lei nº 4.709, de 18 de dezembro de 2025",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9648",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04708": {
+   "label": "Lei nº 4.708, de 18 de dezembro de 2025",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9647",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01221": {
+   "label": "Lei Complementar nº 1.221, de 18 de dezembro de 2025",
+   "title": "Autoriza, em caráter excepcional e por prazo determinado, a transferência de titularidade das licenças para o exercício do comércio ambulante no Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9646",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01220": {
+   "label": "Lei Complementar nº 1.220, de 18 de dezembro de 2025",
+   "title": "Altera dispositivos da Lei Complementar nº 987, de 16 de março de 2020, alterada pelas Leis Complementares nº 1020, de 23 de dezembro de 2020; nº 1057, de 07 de julho de 2022; nº 1142, de 22 de dezembro de 2023 e nº 1181, de 16 de dezembro de 2024, que disciplina o ordenamento do Uso e Ocupação do Solo do Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9645",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01219": {
+   "label": "Lei Complementar nº 1.219, de 18 de dezembro de 2025",
+   "title": "Altera a redação e revoga dispositivos da Lei Complementar nº 1209, de 3 de outubro de 2025, que desafeta da classe dos bens de uso comum do povo e transfere para a dos bens patrimoniais do Município a área que específica.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9644",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01217": {
+   "label": "Lei Complementar nº 1.217, de 18 de dezembro de 2025",
+   "title": "Altera normas relativas à avaliação especial de desempenho em estágio probatório e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9642",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01216": {
+   "label": "Lei Complementar nº 1.216, de 18 de dezembro de 2025",
+   "title": "Altera a redação do caput do art. 3º da Lei Complementar n° 1136, de 22 de dezembro de 2023, que autoriza o Poder Executivo a doar áreas de propriedade municipal ao Fundo de Arrendamento Residencial - FAR, representado pela Caixa Econômica Federal - CEF, a título de subsídio para a construção de moradias destinadas à alienação no âmbito do Programa Minha Casa Minha Vida -PMCMV - Faixa 1, e dá outras providências. Proc. n.º 3551009.401.0007257/2023-08",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9641",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2025-01215": {
+   "label": "Lei Complementar nº 1.215, de 18 de dezembro de 2025",
+   "title": "Dispõe sobre a reestruturação das unidades de gestão e fiscalização da Administração Indireta do Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2025-12-18",
+   "published": "2025-12-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9661",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04707": {
+   "label": "Lei nº 4.707, de 15 de dezembro de 2025",
+   "title": "Dispõe sobre a revogação das Leis Municipais n° 2426-A/10 e n° 3243-A/14 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-15",
+   "published": "2025-12-16",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9638",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04704": {
+   "label": "Lei nº 4.704, de 11 de dezembro de 2025",
+   "title": "Altera a redação do art. 1º e do art. 8º e revoga o art. 4º da Lei n° 4692, de 13 de novembro de 2025, que autoriza o Poder Executivo a ceder, a título gratuito e por prazo determinado, o uso de imóvel municipal ao Estado de São Paulo, para instalação da sede da Delegacia de Defesa da Mulher - DDM de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-11",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9632",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04703": {
+   "label": "Lei nº 4.703, de 8 de dezembro de 2025",
+   "title": "Institui o Mês da Solidariedade no Calendário Oficial de Datas e Eventos do Município e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-08",
+   "published": "2025-12-09",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9625",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04702": {
+   "label": "Lei nº 4.702, de 5 de dezembro de 2025",
+   "title": "Dispõe sobre a aplicação de penalidades por danos, mau uso ou utilização indevida de equipamentos públicos administrados pela Secretaria de Esportes e Lazer do Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-05",
+   "published": "2025-12-09",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9626",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04701": {
+   "label": "Lei nº 4.701, de 5 de dezembro de 2025",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2025-12-05",
+   "published": "2025-12-09",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9623",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04700": {
+   "label": "Lei nº 4.700, de 3 de dezembro de 2025",
+   "title": "Altera a redação do art. 5º, revoga o §1° e acrescenta o § 9º da Lei n° 4.409, de 30 de maio de 2023, que cria o Conselho Municipal de Segurança Pública - COMSEP.",
+   "kind": "law",
+   "enacted": "2025-12-03",
+   "published": "2025-12-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9621",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04699": {
+   "label": "Lei nº 4.699, de 3 de dezembro de 2025",
+   "title": "Altera a Lei n° 77-A, de 12 de dezembro de 1991, que dispõe sobre a instalação, conservação e o funcionamento de elevadores e outros aparelhos de transporte no Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-03",
+   "published": "2025-12-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9620",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04698": {
+   "label": "Lei nº 4.698, de 3 de dezembro de 2025",
+   "title": "Institui a Política Municipal de Promoção da Saúde, por meio da atividade física supervisionada por profissionais de Educação Física, no Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-03",
+   "published": "2025-12-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9619",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04697": {
+   "label": "Lei nº 4.697, de 25 de novembro de 2025",
+   "title": "Considera de Utilidade Pública o Instituto de Políticas Públicas - IPP.",
+   "kind": "law",
+   "enacted": "2025-11-25",
+   "published": "2025-11-27",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9618",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04696": {
+   "label": "Lei nº 4.696, de 25 de novembro de 2025",
+   "title": "Dispõe sobre a instituição do \"Setembro Azul\" no Calendário Oficial de Datas e Eventos do Município de São Vicente e estabelece diretrizes para ações de promoção da inclusão da pessoa surda.",
+   "kind": "law",
+   "enacted": "2025-11-25",
+   "published": "2025-11-27",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9617",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04695": {
+   "label": "Lei nº 4.695, de 25 de novembro de 2025",
+   "title": "Institui o Dia Municipal da Marcha para Jesus na Área Continental.",
+   "kind": "law",
+   "enacted": "2025-11-25",
+   "published": "2025-11-27",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9616",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04694": {
+   "label": "Lei nº 4.694, de 18 de novembro de 2025",
+   "title": "Abre Crédito Adicional Suplementar no valor de R$ 2.450.000,00 (dois milhões e quatrocentos e cinquenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-11-18",
+   "published": "2025-11-25",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9614",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04693": {
+   "label": "Lei nº 4.693, de 13 de novembro de 2025",
+   "title": "Institui o Selo Municipal Empresa Amiga da Vida no âmbito do Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2025-11-13",
+   "published": "2025-11-13",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9608",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-04688": {
+   "label": "Lei nº 4.688, de 10 de novembro de 2025",
+   "title": "Considera de utilidade pública a Associação de Atletas Marciais Desenvolvendo Vidas.",
+   "kind": "law",
+   "enacted": "2025-11-10",
+   "published": "2025-11-11",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9601",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-04717",
+   "short": "Lei 4717/2026",
+   "title": "Lei nº 4.717, de 6 de janeiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9656",
+   "first_law": "lei-2026-04717",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9656/lei4717.pdf",
+     "sha256": "e926f79c93719af957c8a49389c6f88565bf203e9065921fcd96b8efcdb07757",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.717, de 06 de janeiro de 2026 Estabelece diretrizes para a promoção de ações educativas e preventivas de segurança no trânsito voltadas a motociclistas, denominadas Pit Stop do Motoca, no âmbito do Município de São Vicente, e dá outras providências.\nProjeto de Lei n.º 125/25 de autoria do Vereador Fernando Paulino KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam instituídas, no âmbito do Município de São Vicente, diretrizes para a promoção de ações educativas e preventivas de segurança no trânsito voltadas a motociclistas, denominadas Pit Stop do Motoca, visando à educação para o trânsito, redução de sinistros e proteção à vida.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As ações de que trata esta lei terão caráter educativo e preventivo e poderão abranger, dentre outras ações:\nI - orientações e campanhas sobre uso de equipamentos de proteção individual, respeito à legislação de trânsito e direção defensiva;\nII - checklists educativos de manutenção e segurança veicular;\nIII - apoio à instalação voluntária de antenas corta linha em campanhas educativas, por adesão do participante, observada a legislação pertinente;\nIV - atividades integradas com órgãos do Sistema Nacional de Trânsito, entidades privadas, associações de motociclistas e instituições da sociedade civil.\nParágrafo único As ações observarão as diretrizes da Política Nacional de Mobilidade Urbana e as competências municipais previstas no Código de Trânsito Brasileiro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo Municipal, por meio da Secretaria competente, poderá promover edições do Pit Stop do Motoca em pontos estratégicos. do Município, preferencialmente em períodos de maior risco ao motociclista, a seu critério, respeitadas a conveniência e a oportunidade administrativa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O desenvolvimento das ações previstas nesta lei priorizará parcerias e instrumentos de cooperação com órgãos do Sistema Nacional de Trânsito, entidades privadas, associações e demais instituições da sociedade civil, nos termos da legislação aplicável.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei é de natureza programática e não cria despesa obrigatória, nem impõe ao Poder Executivo execução de ações específicas, quantidades mínimas, prazos ou calendários.\nParágrafo único A execução de eventuais ações ficará condicionada à disponibilidade orçamentária e financeira, à prévia dotação orçamentária e à compatibilidade com o PPA, a LDO e a LOA, preferindo-se o custeio por parcerias e outras fontes não onerosas, na forma da legislação vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Poder Executivo poderá regulamentar esta lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de janeiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.717, de 6 de janeiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04714",
+   "short": "Lei 4714/2025",
+   "title": "Lei nº 4.714, de 29 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9653",
+   "first_law": "lei-2025-04714",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9653/lei4714.pdf",
+     "sha256": "a18eeafce410907d5f046f89033282ea22ab9a2ff252baa5d9c4f5866361e015",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.714, de 29 de dezembro de 2025 Considera de Utilidade Pública a Associação de Líderes Comunitários Nós por Nós, do Jardim Irmã Dolores.\nProjeto de Lei n.º 153/25 de autoria do Vereador Edinho Ferrugem.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica considerada de Utilidade Pública a Associação de Líderes Comunitários Nós por Nós do Jardim Irmã Dolores, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 29 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.714, de 29 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04713",
+   "short": "Lei 4713/2025",
+   "title": "Lei nº 4.713, de 29 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9652",
+   "first_law": "lei-2025-04713",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9652/lei4713.pdf",
+     "sha256": "d8164a22d4e723dfa833c98dadfd66e2289d22f8bedb6b19275d16a9ef716d35",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.713, de 29 de dezembro de 2025 Inclui a Corrida Solidária Beach Street Running no Calendário Oficial de Datas e Eventos do Município.\nProjeto de Lei n.º 115/25 de autoria do Vereador Fernando Paulino KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica incluída no Calendário Oficial de Datas e Eventos do Município a Corrida Solidária Beach Street Running, a ser realizada, preferencialmente, no mês de outubro de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os órgãos e entidades da Administração Pública Municipal poderão apoiar a realização da Corrida Solidária Beach Street Running, em conformidade com as dotações orçamentárias e as leis vigentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A execução desta lei não implicará aumento de despesa ao Município, devendo ocorrer eventuais apoios sem a criação de obrigações financeiras novas e dentro das disponibilidades orçamentárias existentes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 29 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.713, de 29 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04712",
+   "short": "Lei 4712/2025",
+   "title": "Lei nº 4.712, de 19 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9651",
+   "first_law": "lei-2025-04712",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9651/lei4712.pdf",
+     "sha256": "3f420d7c3ecdcca4c02a05422ff6a529cd7826b2871f613f370897be1db994d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.712, de 19 de dezembro de 2025 Institui no Calendário Oficial de Datas e Eventos do Município o projeto Quebrando o Silêncio.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o projeto Quebrando o Silêncio, que será realizado anualmente durante a última quinzena do mês de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São objetivos do projeto Quebrando o Silêncio:\nI - conscientizar a população sobre o mês \"setembro amarelo\" e sobre tópicos relacionados à saúde mental;\nII - encorajar pessoas a procurarem por ajuda de profissionais habilitados da área;\nIII - mobilizar palestrantes, atletas e demais profissionais que possam colaborar com a causa;\nIV - levar atividades recreativas, culturais e as relacionadas à saúde aos participantes; e\nV - estimular a convivência, a interação e o uso de espaços públicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo Municipal regulamentará esta lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 19 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.712, de 19 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04711",
+   "short": "Lei 4711/2025",
+   "title": "Lei nº 4.711, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9650",
+   "first_law": "lei-2025-04711",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9650/lei4711.pdf",
+     "sha256": "a36b525a2a18a78c2522c8f3ef5ab68a8666eb6e2ca12b457385c5300cd5210e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.711, de 18 de dezembro de 2025 Institui, no âmbito do Município de São Vicente, o Programa Bolsa Educação Municipal - PROBEM, destinado à concessão de bolsas a cidadãos desempregados ou em situação de vulnerabilidade social, mediante a prestação de serviços em postos públicos vinculados à Secretaria Municipal de Educação e a participação em cursos de capacitação profissional, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do Cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DISPOSIÇÕES GERAIS\nArt. 1º. Fica o Executivo autorizado, no âmbito do Município de São Vicente, a criação do Programa Bolsa Educação Municipal - PROBEM, de caráter educacional e formativo, voltado à ocupação, qualificação profissional e futura geração de renda para 372 (trezentos e setenta e dois) cidadãos desempregados residentes no Município.\n§ 1º Considerando que esta municipalidade não possui a quantidade de profissionais para a devida coordenação dos trabalhos in loco de que trata o artigo 6º, parágrafo único, serão criados até 20 (vinte) vagas para Coordenadores, que serão escolhidos por meio de seleção, observando as mesmas condições previstas nos artigos 10 e 11 desta Lei.\n§ 2º Serão criadas, ainda, 16 (dezesseis) vagas para Supervisores, responsáveis pela gestão dos trabalhos dos Coordenadores, conforme disponibilidade orçamentária, cujos bolsistas serão escolhidos por meio de seleção simples, observando as mesmas condições dispostas no artigo 10 e 11 desta Lei.\n§ 3º As diretrizes do PROBEM estão estruturadas em três pilares fundamentais:\nI - Trabalho e Renda, visando a criação de novas oportunidades temporárias de ocupação com pagamento de bolsa-auxílio;\nII - Qualificação Profissional, assegurando a participação em cursos de capacitação e atualização;\nIII - Inserção Social e Formação Cidadã, promovendo a reintegração do beneficiário ao mercado de trabalho, ao convívio comunitário e ao exercício da cidadania.\n§ 4º O Poder Executivo poderá desdobrar os pilares previstos no §1º em eixos ou frentes específicas, conforme a regulamentação do Programa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O PROBEM terá como objetivo geral proporcionar ocupação, renda temporária e qualificação profissional a cidadãos em situação de desemprego ou vulnerabilidade, promovendo inclusão social e fortalecimento da rede pública municipal de educação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. São objetivos específicos do PROBEM:\nI - contribuir para a reinserção de cidadãos no mercado de trabalho;\nII - apoiar as atividades operacionais, administrativas e pedagógicas da Secretaria Municipal da Educação;\nIII - garantir a participação dos beneficiários em cursos de capacitação profissional e de formação cidadã, de forma síncrona ou assíncrona;\nIV - assegurar subsídios de alimentação, transporte e apoio formativo, condicionados ao cumprimento das atividades;\nV - articular políticas públicas de trabalho e educação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Os beneficiários do PROBEM desenvolverão suas atividades exclusivamente em órgãos públicos vinculados à Secretaria Municipal da Educação, sendo vedada a alocação em qualquer outro local e atividades insalubres/periculosas ou que não guardem pertinência com o escopo do Programa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A bolsa-auxílio pecuniária será paga diretamente pela Prefeitura Municipal de São Vicente ao beneficiário, em valor equivalente a 01 (um) salário-mínimo nacional vigente, acrescidos de vale transporte municipal e seguro de vida, ficando condicionada ao cumprimento da carga horária laboral e da participação no percurso formativo.\n§ 1º A bolsa será paga em conta corrente de titularidade do beneficiário do PROBEM de forma integral, sendo sua composição interna discriminada a título de:\nI - 10% (dez por cento) para despesas de alimentação;\nII - 10% (dez por cento) para custeio do processo formativo;\nIII - o valor remanescente destinado ao subsídio direto do beneficiário.\n§ 2º A bolsa auxílio de que trata o artigo 5º será majorada em 40% ( quarenta por cento) do salário mínimo vigente para os coordenadores.\n§ 3º A bolsa auxílio que será paga aos Supervisores, de que trata o § 2º do art. 1º, será de até 60% (sessenta por cento) superior ao valor pago aos Coordenadores.\"\n§ 4º A forma de controle e comprovação do cumprimento das atividades laborais e formativas será definida pelo Comitê Técnico de Acompanhamento e Protocolos do PROBEM (COTAP).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A jornada das atividades do PROBEM será de até 6 (seis) horas diárias, totalizando o máximo de 30 (trinta) horas semanais, distribuídas entre atividades práticas e de capacitação, em proporcionalidade que atenda à especificidade de cada curso e à condição pessoal de cada beneficiário.\nParágrafo único A participação no Programa implica a colaboração com a realização de atividades de interesse da comunidade local, no Município ou de órgãos públicos integrantes da Administração Pública Municipal direta ou indireta, sem vínculo de subordinação ou trabalhista e sem prejuízo das atividades realizadas por estes órgãos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A qualificação profissional prevista no inciso II , § 1º, do artigo 1º, serão proporcionadas, dentre as 30 ( trinta) horas, por 6 (seis) horas semanais, divididos em 3 ( três) sustentáculos principais, qual seja: Mundo do Trabalho e Inserção Produtiva; Desenvolvimento de Habilidades Socioemocionais voltadas à Educação e Formação Cidadã.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O benefício será concedido a cada beneficiário pelo prazo máximo de 01 (um) ano, podendo ser renovado por igual período, em caráter excepcional e mediante justificativa, por decisão do COTAP, instituído por portaria da Secretaria Municipal de Educação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Cada núcleo familiar poderá ter, no máximo, 01 (um) beneficiário do PROBEM.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Poderão participar do PROBEM os cidadãos que atenderem, cumulativamente, às seguintes condições:\nI - ser maior de 18 (dezoito) anos;\nII - estar desempregado e não receber seguro-desemprego, aposentadoria ou pensão por morte;\nIII - residir no Município de São Vicente;\nIV - possuir renda familiar per capita de até ½ (meio) salário-mínimo;\nV - apresentar documentação comprobatória exigida em regulamento.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A inscrição e seleção dos beneficiários observarão critérios de vulnerabilidade social, definidos em regulamento, mediante análise documental e entrevistas pessoais.\nParágrafo único Casos excepcionais ou situações não expressamente previstas nesta Lei deverão ser analisados, justificados e autorizados pelo Comitê Técnico de Acompanhamento e Protocolos do PROBEM (COTAP), observado o interesse público e os objetivos do Programa.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO II DO COMITÊ TÉCNICO DE ACOMPANHAMENTO E PROTOCOLO - COTAP\nArt. 12. Fica criado, no âmbito da Secretaria Municipal da Educação, o Comitê Técnico de Acompanhamento e Protocolos do PROBEM - COTAP, a ser instituído por portaria do Poder Executivo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O COTAP terá como finalidades:\nI - acompanhar, monitorar e avaliar a execução do PROBEM;\nII - estabelecer fluxos, dinâmicas e regramentos internos necessários à plena aplicação desta Lei;\nIII - elaborar, revisar e atualizar o Regulamento do PROBEM, submetendo-o à homologação do Poder Executivo;\nIV - deliberar sobre a correta aplicação desta Lei, em especial quanto à análise e autorização do pagamento das bolsas, observados os critérios de elegibilidade, frequência e desempenho dos beneficiários;\nV - dirimir dúvidas ou omissões não previstas expressamente nesta Lei, respeitados seus parâmetros gerais;\nVI - propor ajustes e melhorias ao PROBEM, de modo a assegurar sua eficácia social, pedagógica e administrativa.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O COTAP será composto, no mínimo, pelos seguintes membros titulares e seus suplentes:\nI - 01 (um) representante da Secretaria Municipal de Educação, que o presidirá;\nII - 01 (um) representante da Secretaria Municipal de Assistência Social;\nIII - 01 (um) representante de Secretaria de Assuntos Jurídicos;\nIV - outros membros que o Poder Executivo entenda relevante para o fortalecimento da gestão do Programa.\n§ 1º A participação no COTAP será considerada de relevante interesse público, não configurando atividade remunerada, vedado qualquer pagamento a seus integrantes a esse título.\n§ 2º O COTAP reunir-se-á, ordinariamente, uma vez por mês para deliberação e acompanhamento do Programa, e, extraordinariamente, sempre que convocado por seu Presidente.\n§ 3º A portaria de instituição do COTAP deverá designar os representantes titulares e suplentes, estabelecendo a duração do mandato, as regras de funcionamento e o regime de deliberação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Compete ainda ao COTAP:\nI - deliberar sobre solicitações de renovação excepcional de permanência de beneficiários no PROBEM;\nII - analisar e decidir sobre casos omissos ou não previstos na Lei ou no regulamento;\nIII - zelar pela regularidade do processo de seleção, acompanhamento, afastamento e desligamento dos beneficiários;\nIV - deliberar sobre a correta aplicação dos critérios que condicionam o pagamento das bolsas;\nV - assegurar a observância da legislação educacional, assistencial e trabalhista aplicável;\nVI - elaborar relatórios periódicos de acompanhamento a serem encaminhados à Secretaria Municipal de Educação e aos órgãos de controle competentes.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO III DO TERMO DE COMPROMISSO E RESPONSABILIDADE -TCR\nArt. 16. A participação no PROBEM ficará condicionada à assinatura, pelo beneficiário, de um Termo de Compromisso e Responsabilidade (TCR), que o vinculará ao cumprimento das regras deste Programa.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O TCR terá como finalidade:\nI - formalizar a adesão do bolsista ao PROBEM;\nII - estabelecer os direitos e deveres do beneficiário;\nIII - fixar as regras de frequência, jornada, afastamento e desligamento, de acordo com esta Lei e com os protocolos definidos pelo COTAP;\nIV - garantir a ciência do bolsista sobre a obrigatoriedade do cumprimento das atividades laborais e formativas como condição para recebimento da bolsa.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. O TCR deverá conter, no mínimo:\nI - identificação do beneficiário e comprovação documental de sua elegibilidade;\nII - valor da bolsa-auxílio e forma de pagamento;\nIII - carga horária e condições de jornada;\nIV - critérios de afastamento temporário e justificativa de faltas;\nV - hipóteses de desligamento do ProBEM;\nVI - responsabilidade do bolsista em participar integralmente do percurso formativo e das atividades laborais;\nVII - regras sobre acompanhamento, avaliação e monitoramento pelo COTAP.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. O descumprimento do TCR implicará:\nI - advertência formal ao beneficiário;\nII - em caso de reincidência ou descumprimento grave, o desligamento imediato do PROBEM;\nIII - revogação automática do pagamento da bolsa.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. O COTAP será responsável por elaborar, revisar e atualizar o modelo do TCR, bem como por dirimir dúvidas sobre sua interpretação e aplicação, sempre com base nesta Lei.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DAS FALTAS, AFASTAMENTOS E DESLIGAMENTO\nArt. 21. O beneficiário poderá justificar até 10% (dez por cento) de faltas mensais em relação à frequência total às atividades laborais e formativas, exceto nos casos de:\nI - falecimento de cônjuge, pais, irmãos ou filhos;\nII - casamento;\nIII - apresentação de atestados médicos que comprovem incapacidade temporária.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Em caso de impossibilidade temporária de exercício das atividades, o beneficiário poderá permanecer afastado do PROBEM, ficando suspenso o pagamento da bolsa e mantida a data final prevista no TCR, nas seguintes hipóteses:\nI - por determinação médica, pelo período necessário à recuperação;\nII - por detenção ou reclusão em estabelecimento prisional, pelo período certificado pela autoridade competente;\n§ 1º Em caso de acidente ocorrido no exercício das atividades do ProBEM, o beneficiário ficará afastado, a critério médico, sem desconto no valor da bolsa durante o período de recuperação, retornando ao Programa quando considerado apto, desde que ainda vigente o prazo do TCR.\n§ 2º Não haverá cômputo de faltas nem suspensão de pagamento no caso de afastamento por motivo de saúde, mediante apresentação de atestado médico válido, observado o limite temporal definido pelo COTAP.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. O desligamento do PROBEM ocorrerá em caso de:\nI - descumprimento das atividades laborais ou formativas;\nII - faltas superiores ao limite estabelecido;\nIII - inadaptação às atividades, atestada pelo COTAP;\nIV - comprovação de informações falsas no processo de inscrição;\nV - decisão voluntária do beneficiário.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## CAPÍTULO V DAS DISPOSIÇÕES FINAIS\nArt. 24. O Poder Executivo deverá contratar seguro de acidentes pessoais e seguro de vida para todos os participantes durante a vigência da bolsa, garantindo cobertura em caso de morte acidental, invalidez permanente ou outros eventos previstos em regulamento.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. O Poder Executivo regulamentará esta Lei no prazo de até 60 (sessenta) dias, a contar de sua publicação, observadas as deliberações e propostas do COTAP.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.711, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04710",
+   "short": "Lei 4710/2025",
+   "title": "Lei nº 4.710, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9649",
+   "first_law": "lei-2025-04710",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9649/lei4710.pdf",
+     "sha256": "e46b9ff891aff87577751b6f75f2bb87c7d260dd3a3539b6dd75553095e0dd1d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.710, de 18 de dezembro de 2025 Revoga parcialmente o(a) Lei Ordinária nº 4.615, de 17 de dezembro de 2024 Altera e revoga dispositivos da Lei nº 4615, de 17 de dezembro de 2024, que dispõe sobre a prestação do Serviço de Transporte Público Individual de Passageiros por Táxi e institui o Serviço de Táxi Acessível no Município de São Vicente e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei :\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a ter a seguinte redação o art. 7º da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 7º Os condutores deverão realizar curso nos termos do inciso II, do art. 3º da Lei Federal nº 12.468, de 26 de agosto de 2011 e Resolução CONTRAN nº 456, de 22 de outubro de 2013.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Passa a ter a seguinte redação o art. 14 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 14 A permissão terá caráter personalíssimo, sendo concedida a título precário, sendo admitida a cessão de direitos, nos termos da Lei Federal nº 12.468, de 26 de agosto de 2011.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Passa a ter a seguinte redação o parágrafo único do art. 15 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 15 ...\nParágrafo único. No ato da renovação será necessário a comprovação dos requisitos previstos nos artigos 8º e 11, além do comprovante de verificação do taxímetro, nos termos da legislação em vigor.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Passa a ter a seguinte redação o art. 23 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 23 Os permissionários e condutores auxiliares ficam sujeitos às seguintes taxas e impostos:\nI - De Expediente, referente a:\na) Taxa de protocolo, no valor de R$ 27,11 (vinte e sete reais e onze centavos);\nb) Inscrição, revalidação ou retirada de inscrição no Cadastro Municipal de Condutores de Táxi, no valor de R$ 38,86 (trinta e oito reais e oitenta e seis centavos);\nc) Expedição de Alvará de Estacionamento, se permissionário, no valor de R$ 247,23 (duzentos e quarenta e sete reais e vinte e três centavos);\nd) Renovação de Alvará de Estacionamento, se permissionário, no valor de R$ 154,14 (cento e cinquenta e quatro reais e catorze centavos);\ne) Substituição do veículo, se permissionário, no valor de R$ 142,69 (cento e quarenta e dois reais e sessenta e nove centavos);\nf) Transferência de Alvará de Estacionamento, se permissionário no valor de R$ 6.715,94 (seis mil, setecentos e quinze reais e noventa e quatro centavos);\ng) Permuta de Ponto de Estacionamento, por solicitação do interessado, se permissionário, no valor de R$ 101,42 (cento e um reais e quarenta e dois centavos).\nII - De Serviços diversos:\na) Vistoria do veículo, se permissionário, no valor de R$ 27,07 (vinte e sete reais e sete centavos);\nb) Expedição de crachá, no valor de R$ 22,38 (vinte e dois reais e trinta e oito centavos).\nIII - Os permissionários e condutores auxiliares ficam sujeitos ao recolhimento do Imposto Sobre Serviços de Qualquer Natureza - ISSQN ou outro imposto a que vier substitui-lo.\nParágrafo único. Em caso de falecimento do outorgado, o cônjuge, o companheiro ou os filhos sobreviventes poderão requerer, no prazo de 1 (um) ano, contado da data do óbito, a cessão da outorga em seu favor, desde que atendidos os requisitos legais, hipótese em que não incorrerá no pagamento no disposto na alínea \"f\" deste artigo.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Passa a ter a seguinte redação o art. 25 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 25. A permissão será extinta no caso de descontinuidade ou ociosidade, sendo aplicado o que determina a Lei Federal nº 12.468, de 26 de agosto de 2011.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Acrescenta-se a alínea \"y\" no art. 26 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 26 ...\ny) descontinuidade da prestação do serviço ou ociosidade da autorização quando o taxista deixar de cumprir as exigências de vistoria ou de renovação de licença por 2 (dois) anos: multa de R$ 1.300,00 (Um mil e trezentos reais).\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Passa a ter a seguinte redação o § 1º do art. 31 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 31...\n§ 1º O taxímetro em uso deve, obrigatoriamente, ser submetido à verificação periódica, nos termos da legislação vigente.\"\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Passa a ter a seguinte redação o art. 42 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 42 A receita arrecadada com a cobrança de taxas e multas por infrações relacionadas à prestação do Serviço de Transporte Público Individual de Passageiros em Veículos de Aluguel providos de Taxímetro será destinada, exclusivamente, ao Fundo Pró-Transportes ou outro fundo que vier a substitui-lo.\"\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Passa a ter a seguinte redação o art. 43 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 43 Os valores de multas e taxas constantes desta Lei poderão ser corrigidos monetariamente pelo Poder Executivo Municipal, respeitado o limite da variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) no exercício anterior, ou outro índice que vier a substitui-lo.\nParágrafo único. Os novos valores decorrentes do disposto no caput serão divulgados pelo Poder Executivo Municipal com, no mínimo, 30 (trinta) dias de antecedência de sua aplicação.\"\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial o parágrafo único do art. 2º da Lei nº 4615, de 17 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.710, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04709",
+   "short": "Lei 4709/2025",
+   "title": "Lei nº 4.709, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9648",
+   "first_law": "lei-2025-04709",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9648/lei4709.pdf",
+     "sha256": "542ffe18fcf25436797fe6dfa08ffbbefd8170732ea1988179246d08bc33daf4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.709, de 18 de dezembro de 2025 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.709, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04708",
+   "short": "Lei 4708/2025",
+   "title": "Lei nº 4.708, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9647",
+   "first_law": "lei-2025-04708",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9647/lei4708.pdf",
+     "sha256": "b9a275430bdc34d18e14ce7434f785e2af501fb9274607a1043551d44265bb3b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.708, de 18 de dezembro de 2025 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.708, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01221",
+   "short": "LC 1221/2025",
+   "title": "Lei Complementar nº 1.221, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9646",
+   "first_law": "lc-2025-01221",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9646/lc1221.pdf",
+     "sha256": "5b12339f8e6c55eb7ecd6f7abca75dac9d1753b28daabaf028d3d272f89de769",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.221, de 18 de dezembro de 2025 Autoriza, em caráter excepcional e por prazo determinado, a transferência de titularidade das licenças para o exercício do comércio ambulante no Município de São Vicente, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica autorizada, em caráter excepcional, pelo prazo de 30 (trinta) dias a contar da publicação desta Lei Complementar, a transferência de titularidade das licenças para o exercício do comércio ambulante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A transferência de que trata esta Lei Complementar deverá ser solicitada mediante o cumprimento dos seguintes requisitos:\nI - Requerimento formal assinado pelo atual titular da licença (cedente) e pelo interessado em recebê-la (cessionário);\nII - Apresentação de Certidão Negativa de Débitos (CND) municipais em nome do atual titular (cedente), referente à sua inscrição de ambulante;\nIII - Comprovação pelo novo titular (cessionário) dos requisitos gerais para o exercício do comércio ambulante, conforme a legislação e regulamentação em vigor.\nParágrafo único A transferência somente será deferida se o cessionário (novo titular) não for detentor de outra licença de qualquer natureza emitida pelo Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A efetivação da transferência fica condicionada ao recolhimento, pelo cessionário, de uma taxa de transferência equivalente a 3 (três) vezes o valor da respectiva taxa de licença anual, prevista no Código Tributário Municipal.\nParágrafo único A taxa prevista no caput não será devida nos casos de transferência para cônjuge, companheiro(a), ascendente ou descendente direto do titular, mediante comprovação do vínculo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O prazo de 30 (trinta) dias estabelecido no art. 1º é improrrogável, sendo vedada a apresentação de novos pedidos de transferência após o seu término.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Poder Executivo, através dos seus órgãos competentes, regulamentará os procedimentos necessários para o cumprimento desta Lei Complementar.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.221, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01220",
+   "short": "LC 1220/2025",
+   "title": "Lei Complementar nº 1.220, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9645",
+   "first_law": "lc-2025-01220",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9645/lc-1220.pdf",
+     "sha256": "a236b1983a414a17e87e14fe5e699bb89fadfc0bf8729e3a725fe15f4198b3d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.220, de 18 de dezembro de 2025 Altera o(a) Lei Complementar nº 987, de 16 de março de 2020 Altera dispositivos da Lei Complementar nº 987, de 16 de março de 2020, alterada pelas Leis Complementares nº 1020, de 23 de dezembro de 2020; nº 1057, de 07 de julho de 2022; nº 1142, de 22 de dezembro de 2023 e nº 1181, de 16 de dezembro de 2024, que disciplina o ordenamento do Uso e Ocupação do Solo do Município de São Vicente, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a vigorar com a seguinte redação o inciso XXIII do art. 2º da Lei Complementar nº 987, de 16 de março de 2020, e alterações:\n\"Art. 2º. …\nXXIII - Embasamento: volume arquitetônico inferior, constituído por até 06 (seis) pavimentos, para uso não residencial, utilizado exclusivamente para comércio e serviço, vagas de garagem ou atividades comuns do edifício;\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica acrescida a alínea \"d\" ao inciso VIII do art. 15 da Lei Complementar nº 987, de 16 de março de 2020, e alterações:\nVIII …\nd) ZU-4: Porção do território inserida no Conjunto Residencial Humaitá, onde se pretende promover o desenvolvimento social, econômico e ambiental de forma estratégica, através de norma própria.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Fica acrescido o inciso XVIII ao §4º do art. 15 da Lei Complementar nº 987, de 16 de março de 2020, e alterações:\n§4º. …\nXVIII - Piquerobi, Rua.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Passam a vigorar com a seguinte redação as alíneas \"a\", \"b\", \"c\", \"d\", \"e\", \"k\" e \"n\", acrescidas das alíneas \"q\", \"r\", \"s\" e \"t\" ao inciso I do art. 27 da Lei Complementar nº 987, de 16 de março de 2020, e alterações:\nI - …\na) CS1-01 - Escritórios de advocacia, arquitetura, engenharia, publicidade, contabilidade e similares, aluguéis imobiliários e não imobiliários, corretoras, seguradoras, agências de viagens, editoras de livros, jornais e revistas sem impressão, locadoras de vídeo, jogos, objetos pessoais, lan-houses, produtoras, estúdios cinematográficos, de rádio e TV, auxiliares de serviços financeiros, pesquisas, publicidade, atividades profissionais e científicas;\nb) CS1-02 - Consultórios e clínicas médicas, odontológicas e veterinárias, laboratórios clínicos e de imagem, estúdios de pilates, ioga, fisioterapia e de assistência social;\nc) CS1-03 - Oficinas técnicas de eletrônicos e eletrodomésticos, empresas de vigilância por monitoramento eletrônico, tecnologia da informação e serviços de informação;\nd) CS1-04 - Chaveiros, sapateiros, tapeceiros, eletricistas, encanadores, lavanderias, tinturarias, consertos de bicicletas, borracharias, bancas de jornal, conveniência, reparação de objetos e equipamentos pessoais e domésticos;\ne) CS1-05 - Cabeleireiros, barbearias, spas, centros estéticos, academias de ginástica de pequeno porte, serviços pessoais em geral e serviços domésticos;\nk) CS1-11 - Berçários, creches, escolas de ensino infantil, fundamental, médio, técnico e educação especial, cursos livres, escolas de artesanato, escolas de idiomas e informática, cursos preparatórios para vestibular, bibliotecas e escola de formação de condutores;\nn) CS1-14 - Entidades de classe, organizações associativas, associações beneficentes, comunitárias e de vizinhança, organizações sindicais ou políticas, vedadas em suas dependências a realização de festas, bailes e similares;\nq) CS1-17 - Escritórios de construtoras e incorporadoras, obras de infraestrutura e serviços para construção em geral;\nr) CS1-18 - Serviços de Correios e outras empresas com atividades de entrega;\ns) CS1-19 - Administração pública em geral, justiça, defesa, ordem pública e organismos internacionais.\nt) CS1-20 - Atividades artísticas, culturais e paisagísticas.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Passa a vigorar com a seguinte redação a alínea \"a\" e acrescida a alínea \"q\" ao inciso II do art. 27 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nII - …\na) CS2-01 - Locadoras de máquinas e equipamentos e serviços de reboque de veículos;\nq) CS2-17 - Exploração de jogos, casas de bingo, corridas de cavalo e atividades de exploração de jogos de azar.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Passam a vigorar com a seguinte redação as alíneas \"b\" e \"g\" e acrescida a alínea \"k\" ao inciso III do art. 27 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nIII - …\nb) CS3-02 - Centros de estética que armazenem produtos químicos de média periculosidade, petshops com alojamento de animais, adestramento de cães de guarda e canis;\ng) CS3-07 - Clubes sociais e esportivos, quadras de esportes, centros esportivos, casas de festas e eventos, casas noturnas, salões de festas, casas de jogos de boliche, sinuca, jogos eletrônicos, restaurantes de grande porte e churrascarias;\nk) CS3-11 - Manutenção e reparos de máquinas e equipamentos para fins industriais, exceto os notadamente retroportuários, empresas de obras de infraestrutura e serviços para construção em geral.\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Fica acrescida a alínea \"f\" ao inciso IV do art. 27 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nIV - …\nf) CS4-06 - Parques aquáticos, parques de diversão e parques temáticos.\"\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Passa a vigorar com a seguinte redação a alínea \"g\" do inciso VII do art. 27 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nVII -\ng) CS7-07 - Imobiliárias, corretoras e similares, seguradoras, agências de viagens, locadoras de vídeo, jogos e objetos pessoais, serviços de fotocópias, lanhouses, consultórios e clínicas médicas, odontológicas e veterinárias, laboratórios clínicos e de imagem, estúdios de pilates, ioga e fisioterapia, serviços advocatícios, chaveiros, relojoeiros, sapateiros, eletricistas, encanadores, lavanderias, tinturarias, consertos de bicicletas, borracharias, atividades ligadas à arte e cultura, bancas de jornal, conveniências, cabeleireiros, barbearias, spas, centros estéticos, academias de ginástica, guarda de bicicletas, estacionamento de motocicletas ou de automóveis, vedados os serviços de lavagem, comércio de artigos e acessórios de vestuário, livros, jornais, revistas, joias, artigos esportivos, produtos farmacêuticos, de perfumaria e cosméticos, produtos médicos, hospitalares, odontológicos, óticos, ortopédicos, produtos de informática, papelarias, floriculturas, armarinhos, lojas de variedades, petshops sem alojamento de animais, minimercados, supermercados, agências bancárias e similares, casas lotéricas, ensino de arte, dança, música, idiomas, bibliotecas e postos de combustíveis sem abastecimento a diesel, este último somente em zonas corredores.\"\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Passa a vigorar com a seguinte redação o inciso I do art. 28 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nI - RP1: retroportuárias especializadas ou multiuso, a exemplo de: guarda ou regulagem de ônibus e de caminhões com mais de dois eixos, oficinas de reparo de contêineres, veículos pesados, máquinas de grande porte, praças de rastreamento, identificação e controle automático de cargas por varredura eletrônica, unidades de aferição, amostragem, inspeção e pesagem de veículos de carga, empresas transportadoras ou de transportadores autônomos de cargas, aeroviárias, aquaviárias, dutovias, esteiras rolantes de carga, unidades de apoio offshore, estaleiros, unidades condominiais para processos logísticos e industriais e atividades de manutenção de equipamentos retroportuários;\"\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Passam a vigorar com a seguinte redação as alíneas \"a\" e \"b\" do inciso I do art. 29 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nI - …\na) I1-01 - Confecções de vestuário e confecções que não utilizem processos de tingimento de fibras ou tecidos, confecção de tecidos e cortinas;\nb) I1-02 - Fabricação de artefatos de joalheria e ourivesaria, bijuteria e lapidação de gemas.\"\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Passam a vigorar com a seguinte redação as alíneas \"c\" e \"e\" do inciso II do art. 29 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nII - …\nc) I2-03 - Fabricação de equipamentos de instrumentação médico-hospitalares, instrumentos de precisão e ópticos, instrumentos musicais, artigos de pesca, equipamentos para automação industrial, cronômetros, relógios, indústrias cuja incomodidade esteja vinculada aos processos de montagem, não sendo processada qualquer operação de transformação de materiais;\ne) I2-05 - Fabricação de produtos alimentícios e bebidas artesanais, estabelecimentos destinados à preparação de alimentos, conservas, produtos de cereais, bebidas, sorvetes, beneficiamento de arroz e café, dentre outros;\"\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Passam a vigorar com a seguinte redação as alíneas \"d e \"e\", suprimida a alínea \"f\" e acrescidas as alíneas \"g\" e \"h\" ao inciso III do art. 29 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nIII - …\nd) I3-04 - Fabricação de sabões, detergentes, produtos de limpeza, desinfetantes domissanitários, cosméticos e perfumaria;\ne) I3-05 - Impressão de jornais, revistas e livros, pré impressão, materiais publicitários, reprodução de som, vídeos e softwares;\nf) Suprimido\ng) I3-07 - Acabamento de calçados;\nh) I3-08 - Serralherias, marcenarias e marmorarias.\"\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Passam a vigorar com a seguinte redação as alíneas \"a\" a \"g\" acrescidas as alíneas \"h\" a \"m\" do inciso IV do art. 29 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nIV - …\na) I4-01 - Moagem de trigo, arroz e fabricação de seus derivados, abate de animais e frigoríficos;\nb) I4-02 - Fabricação de tecidos e artigos de malha, beneficiamento e tecelagem de fibras têxteis, estamparia e texturização, alvejamento e tingimento de tecidos;\nc) I4-03 - Fabricação de artefatos de couro, calçados e artigos para viagem;\nd) I4-04 - Fabricação de fios de borracha, plástico, produtos têxteis, espuma de borracha, que não utilizem processos de regeneração de borracha, serrarias com desdobramento de madeira, fabricação de equipamentos e aparelhos elétricos, metalurgia do alumínio e suas ligas;\ne) I4-05 - Fabricação de papel, papelão, cartolina e cartão;\nf) I4-06 - Edição, impressão e reprodução de gravações, indústrias potencialmente incômodas pela emissão de odores, ruídos e vibração, podendo tornar-se insalubres e com periculosidade pelo uso de solventes em operações de impressão, pela emissão de poluentes atmosféricos e manipulação de substâncias inflamáveis;\ng) I4-07 - Fabricação de produtos de madeira, serrarias com desdobramento de madeira;\nh) I4-08 - Fabricação de vidro e artigos de vidro, produtos minerais, artefatos de concreto, cimento e estuque;\ni) I4-09 - Fundição e corte de metais, ferrosos ou não ferrosos, laminação, trefilação ou extrusão de metais, sinterização, estamparia de corte, limpeza de peças por jateamento, aglutinação e folheamento de fibras, pintura ou envernização a revólver, em processo industrial.\nj) I4-10 - Fabricação de produtos farmacêuticos;\nk) I4-11 - Fabricação de produtos eletrônicos;\nl) I4-12 - Fabricação de máquinas e aparelhos elétricos;\nm) I4-13 - Fabricação de móveis e artigos diversos.\"\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica acrescida a alínea \"j\" ao inciso V do art. 29 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\nV - …\nj) I5-08 - Fabricação de produtos de petróleo.\"\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Passa a vigorar com a seguinte redação o caput, mantidos os demais dispositivos do art. 30 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 30. A categoria de Uso Especial, permitida em todas as zonas, exceto E-2, é identificada pela sigla - E, caracterizando-se pelas atividades de infraestrutura urbana de utilidade pública, tais como, fornecimento de energia elétrica, equipamentos e instalações de telecomunicações, tratamento e distribuição de água e equipamentos do sistema de macrodrenagem, assim como atividades ligadas à segurança nacional e à extração mineral, a exemplo de:\"\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Fica repristinado o caput e o § 1º, passando o § 1º a parágrafo único do art. 33 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 33. As atividades ou estabelecimentos que não estiverem discriminados nos artigos anteriores serão enquadrados por similitude com atividades e estabelecimentos expressamente incluídos em uma determinada categoria, sempre que suas características quanto à finalidade, ao grau de incomodidade e ao fluxo potencial de veículos estejam em conformidade com as características próprias dessa categoria.\nParágrafo único. As atividades cujo porte não estiver estabelecido nesta Lei Complementar terão o mesmo fixado com base na classificação da Comissão Nacional de Classificação - CONCLA e da Classificação Nacional de Atividades Econômicas - CNAE, do Instituto Brasileiro de Geografia e Estatística - IBGE.\"\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Passa a vigorar com a seguinte redação o § 8º do art. 36 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n§ 8º Não serão autorizados para usos desconformes as atividades de comércio e depósito de resíduos de sucatas metálicas e não-metálicas e de materiais recicláveis; cooperativas de recicláveis em: Zona de Qualificação Central - ZC, Área de Adensamento Sustentável - AAS, Zona de Urbanização Incentivada - ZUI, Zonas Especiais de Turismo, sendo ZET-1 ao ZET-6 e Zonas de Qualificação Urbana, sendo ZU-2 e ZU-3, além da Zona Corredor-1 - ZCOR-1 inseridas nas referidas Zonas.\"\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Passa a vigorar com a seguinte redação o § 3º e suprimido o § 4º do art. 54 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n§ 3º Em caso de reforma com ampliação em imóveis regularmente construídos antes da vigência desta lei complementar, deverão ser respeitados os recuos mínimos exigidos nesta lei complementar somente nas áreas acrescidas.\n§ 4º Suprimido.\"\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Passa a vigorar com a seguinte redação a alínea \"c\" do § 5º do art. 59 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n§ 5º. …\nc) Sobre as divisas laterais, onde existir acostamento da edificação vizinha, respeitando o limite da extensão e a altura do acostamento.\"\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Passam a vigorar com a seguinte redação o art. 71 e parágrafo único da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 71. Será permitida a utilização dos 06 (seis) primeiros pavimentos como embasamento.\nParágrafo único. Será permitida a utilização da laje de cobertura do embasamento, desde que não seja coberta, para uso comum ou se vinculada ao primeiro pavimento tipo.\"\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Passam a vigorar com a seguinte redação os §§ 6º e 9º do art. 78 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n§ 6º Nos demais casos não residenciais, fica desobrigado a colocar vagas de estacionamento para imóveis com até 500 m² (quinhentos metros quadrados) de área construída e, a partir dessa área, deverá ser atendida a razão de 1 (uma) vaga para cada 50 m² (cinquenta metros quadrados) quando a construção resultar em até 2.500 m² (dois mil e quinhentos metros quadrados) de área de uso irrestrito ao público e 30 m² (trinta metros quadrados) quando a construção resultar em mais de 2.500m² (dois mil e quinhentos metros quadrados) de área irrestrita ao público.\n§ 9º Os empreendimentos localizados na Zona de Qualificação Central - ZC ficam desobrigados do atendimento do número mínimo de vagas de garagem.\"\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Fica acrescido o inciso V ao art. 115 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 115. …\nV - ZU-4: coeficiente de aproveitamento mínimo - CAmin de 0,4 (quatro décimos) da área do lote; coeficiente de aproveitamento básico - CAb de 7 (sete) vezes a área do lote; coeficiente de aproveitamento máximo - CAmax de 8 (oito) vezes a área do lote.\"\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. Fica acrescido o inciso V ao art. 116 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 116. …\nV - ZU-4: 80% (oitenta por cento).\"\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Fica acrescido o inciso V ao art. 117 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 117. …\nV - ZU-4: 0,10 (um décimo)\"\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Passam a vigorar com a seguinte redação o caput, os §§ 1º e 2º e acrescidos os §§ 5º, inciso I a III, e 6º ao art.\n194 da Lei Complementar nº 987, de 16 de março de 2020 e alterações:\n\"Art. 194. Os processos que versem sobre as matérias referidas na presente Lei Complementar, como pedidos de aprovação de projeto arquitetônico, de revalidação de alvará de aprovação e de aprovação de projeto arquitetônico substitutivo, devidamente instruídos e protocolizados anteriormente a sua publicação e que ainda não estejam concluídos serão analisados sob a égide da nova lei, ainda que se conceda um prazo para o interessado adaptar seu projeto.\n§ 1º Será permitida somente a solicitação de um único pedido de aprovação de projeto arquitetônico substitutivo de projeto não licenciado, protocolizado posteriormente a publicação desta Lei Complementar, que será analisado à luz da legislação vigente à época da sua aprovação.\n§ 2º A solicitação de aprovação de projeto arquitetônico substitutivo de projeto licenciado, protocolizado posteriormente a publicação desta Lei Complementar, será analisado à luz da legislação vigente à época da sua aprovação, caso não haja ampliação de área construída.\n§ 5º As taxas referentes ao projeto substitutivo serão devidas de acordo com os valores previstos no art. 298 da Lei nº 1745, de 29 de setembro de 1977, Código Tributário do Município, observadas as seguintes hipóteses:\nI - quando a alteração na área construída do projeto aprovado não ultrapassar 50% (cinquenta por cento), será cobrada taxa correspondente apenas à área modificada e/ou acrescida;\nII - quando a alteração na área construída do projeto aprovado for superior a 50% (cinquenta por cento), resultará na taxa referente à aprovação de um novo projeto;\nIII - quando a alteração resultar em decréscimo da área construída, será cobrada a taxa correspondente à área decrescida.\n§ 6º. Para atendimento dos incisos I e III do § 5º deste artigo, o responsável técnico deverá apresentar croqui com hachura destacando a área objeto da alteração.\"\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Os Anexos III, V e VII da Lei Complementar nº 987, de 16 de março de 2020 e alterações, passam a vigorar com as alterações previstas nos Anexos desta Lei Complementar.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.220, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01219",
+   "short": "LC 1219/2025",
+   "title": "Lei Complementar nº 1.219, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9644",
+   "first_law": "lc-2025-01219",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9644/lc-1219.pdf",
+     "sha256": "83933c8faac0f2a93bce11326d86ce935d5a53705c5d77dffd56cc48b9b9104f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.219, de 18 de dezembro de 2025 Altera o(a) Lei Complementar nº 1.209, de 03 de outubro de 2025 Altera a redação e revoga dispositivos da Lei Complementar nº 1209, de 03 de outubro de 2025, que desafeta da classe dos bens de uso comum do povo e transfere para a dos bens patrimoniais do Município a área que especifica.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a ter a seguinte redação o art. 2º da Lei Complementar nº 1209/25:\n\"Art. 2° Fica desafetada da classe dos bens de uso comum do povo e transferida para a dos bens patrimoniais do Município a Praça Luiz Ribeiro do Valle.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial o art. 3° da Lei Complementar nº 1209, de 03 de outubro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.219, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01217",
+   "short": "LC 1217/2025",
+   "title": "Lei Complementar nº 1.217, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9642",
+   "first_law": "lc-2025-01217",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9642/lc1217.pdf",
+     "sha256": "3d7de9da2f6a22dc99a03f57033746fa666d7316c5ac98d67585500c6ae9eca5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.217, de 18 de dezembro de 2025 Altera o(a) Lei Ordinária nº 1.780, de 06 de junho de 1978 Altera normas relativas à avaliação especial de desempenho em estágio probatório e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 20, da Lei nº 1.780, de 6 de junho de 1978, passa a vigorar com as seguintes alterações e acréscimos:\n\"Art. 20. ...\n...\nIII - pontualidade e assiduidade;\n...\nV - qualidade do trabalho e eficiência;\nVI - relacionamento humano.\n§ 1º Caberá ao regulamento disciplinar o procedimento de avaliação de desempenho no estágio probatório, desde que observados os princípios constitucionais e, também, os seguintes:\nI - estabelecimento de critérios objetivos de avaliação de cada um dos requisitos instituídos no caput, bem como suas respectivas notas e parâmetros de valoração aplicáveis;\nII - a variação dos parâmetros de avaliação conforme o cargo, a carreira ou a área de atuação do servidor, desde que observados padrões mínimos comuns e critérios uniformes de julgamento;\nIII - findo o procedimento de avaliação, após o exercício do contraditório e da ampla defesa pelo servidor, o Prefeito, ou autoridade por ele delegada, decidirá pela permanência ou exoneração do estagiário.\n§ 2º Durante o período de estágio probatório, o servidor avaliado deverá, ainda, e sob pena de reprovação:\nI - manter os requisitos para provimento do cargo exigidos no ato da posse;\nII - não ser condenado em decisão definitiva em sindicância ou processo administrativo-disciplinar.\n§ 3º Na hipótese de inobservância da exigência contida no inciso I, do § 2º, deste artigo, o regulamento fixará prazo razoável, não inferior a 30 (trinta) dias e nem superior a 1 (um) ano, para seu restabelecimento.\n...\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O artigo 96, da Lei nº 1.780, de 6 de junho de 1978, passa a vigorar com a seguinte redação:\n\"Art. 96. Somente será designado substituto ao ocupante de cargo ou função de chefia e direção que se encontre em impedimento legal e temporário, ou, ainda, de outros que a lei assim autorizar.\nParágrafo único. A substituição será remunerada na proporção do período de substituição, e dependerá de ato da mesma autoridade que for competente para nomear ou designar o substituído.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.217, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01216",
+   "short": "LC 1216/2025",
+   "title": "Lei Complementar nº 1.216, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9641",
+   "first_law": "lc-2025-01216",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9641/lc1216.pdf",
+     "sha256": "dc54f3dbfa2807be43b6dfe7a40dfe22e895a7d0721a8f15ea7640c79c64e011",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.216, de 18 de dezembro de 2025 Altera o(a) Lei Complementar nº 1.136, de 22 de dezembro de 2023 Altera a redação do caput do Art. 3º da Lei Complementar nº 1136, de 22 de dezembro de 2023, que autoriza o poder executivo a doar áreas de propriedade municipal ao Fundo de Arrendamento Residencial - FAR, representado pela Caixa Econômica Federal - CEF, a título de subsídio para a construção de moradias destinadas à alienação no âmbito do Programa Minha Casa Minha Vida - PMCMV - Faixa 1, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O caput do art. 3º da Lei Complementar nº 1136, de 22 de dezembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 3º As doações de que tratam esta Lei Complementar serão revogadas caso a donatária deixe de dar início a execução das obras de engenharia civil nos imóveis doados, no prazo de 4 (quatro) anos a contar da doação\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.216, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01215",
+   "short": "LC 1215/2025",
+   "title": "Lei Complementar nº 1.215, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9661",
+   "first_law": "lc-2025-01215",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9661/lc-1215.pdf",
+     "sha256": "ba37a27d575f303b7466c58a581f57d6e08f8bb852918df61f3e1c93d0f4f4da",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.215, de 18 de dezembro de 2025 Dispõe sobre a reestruturação das unidades de gestão e fiscalização da Administração Indireta do Município de São Vicente.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A Lei Complementar nº 606, de 18 de dezembro de 2009, passa a vigorar acrescida do seguinte artigo 139-A:\n\"Art. 139-A. As eleições para os membros do Conselho de Administração e do Conselho Fiscal serão organizadas pelo IPRESV, por meio de Comissão Eleitoral própria, em meio de votação eletrônica, com edital divulgado até o 1º dia útil do mês de maio, e com divulgação dos resultados até o 1º dia útil do mês de junho do ano eleitoral correspondente.\n§ 1º A Comissão Eleitoral será composta por 5 (cinco) membros, designados por Portaria do Superintendente, sendo:\nI - um servidor do Quadro Permanente do IPRESV, que a presidirá;\nII - dois membros indicados pelo Conselho de Administração;\nIII - dois membros indicados pelo Conselho Fiscal.\n§ 2º Não poderá compor a Comissão Eleitoral o membro que pretenda disputar a eleição.\n§ 3º As eleições serão amplamente divulgadas pelos Poderes Municipais, com, no mínimo, 30 (trinta) dias de antecedência, observados:\nI - publicação do edital de eleição com todas as regras, cronogramas e requisitos para candidatura e nomeação no Boletim Oficial do Município;\nII - matéria jornalística, em linguagem fácil e acessível, desenvolvida pelo órgão de comunicação da Administração Direta Municipal, discorrendo sobre o processo eleitoral, sua importância, regras, cronogramas e requisitos para candidatura, veiculada no Boletim Oficial do Município e nos sítios eletrônicos da Prefeitura, Câmara e do IPRESV.\n§ 4º Para se candidatarem, os servidores deverão:\nI - inscrever-se junto à Comissão Eleitoral, em chapas compostas por 02 (dois) segurados do regime, na qualidade de titular e suplente;\nII - escolher apenas uma das vagas, dentre os Conselhos de Administração ou Fiscal, vedada a inscrição para ambos os colegiados;\nIII - comprovar os requisitos previstos no artigo 139 desta Lei Complementar, sob pena de, em caso de descumprimento, cassação da chapa;\nIV - não estarem afastados para cumprimento de mandato sindical no Município de São Vicente;\nV - não ter sido sancionado em processo disciplinar nos últimos 05 (cinco) anos.\n§ 5º As eleições irão classificar as chapas em lista ordenada por maioria de votos, seguindo para o próximo da lista em caso de desistência ou cassação da chapa anterior.\n§ 6º Caso o processo eleitoral resulte sem chapas habilitadas para assumir o mandato, será publicado novo edital até o dia 15 de junho, e divulgação final do resultado até o dia 15 de julho do ano eleitoral correspondente, dispensando-se nestes casos a divulgação prevista no inciso II do § 3º.\n§ 7º Em caso de nova frustração do processo eleitoral, a indicação dos representantes dos servidores segurados se dará nos moldes do § 8º, do artigo 140, e do § 8º, do artigo 142, devendo ocorrer até o 1º dia útil do mês de agosto do ano eleitoral, data em que se iniciará excepcionalmente o mandato destes representantes.\n§ 8º Na ocorrência da hipótese prevista nos §§ 4º e 5º, os mandatos atuais dos membros eleitos poderão ser excepcionalmente prorrogados por ato do Superintendente, até a conclusão do processo eleitoral.\" (NR) \"Art. 140. O Conselho de Administração do IPRESV é o órgão superior de gerenciamento, normatização, deliberação, colegiado e paritário, com participação de representantes dos servidores e do Município, e será composto por 08 (oito) membros, nomeados por Portaria do Prefeito, nos seguintes moldes:\nI - 04 (quatro) membros indicados pelo Prefeito, na qualidade de representantes do ente federativo, sendo:\na) o titular da Secretaria da Fazenda - SEFAZ, na qualidade de membro nato;\nb) 03 (três) servidores vinculados ao RPPS;\nII - 04 (quatro) membros representantes dos segurados, sendo:\na) 2 (dois) membros eleitos diretamente pelos servidores públicos municipais segurados, dentre os servidores ativos e inativos, sendo um representante do Poder Executivo e outro do Poder Legislativo do Município;\nb) 2 (dois) representantes dos segurados, indicados pelas entidades sindicais representativas dos servidores, sendo um indicado pelo SINDSERV - Sindicato dos Servidores Públicos Municipais de São Vicente, e outro indicado pelo SINTRAMEM - Sindicato dos Trabalhadores no Magistério e na Educação Municipal de São Vicente.\n§ 1º À cada titular corresponderá um respectivo suplente.\n§ 2º O membro nato titular da Secretaria da Fazenda deverá preencher os requisitos previstos no art. 139 desta Lei Complementar, como condição para posse, com exceção da certificação profissional, contando com o prazo de 6 (seis) meses para apresentá-la.\n§ 3º Decorrido o prazo do § 2º e não atendido o requisito, haverá livre indicação pelo Prefeito Municipal, respeitando os critérios previstos nesta Lei Complementar.\n§ 4º O Presidente do Conselho de Administração será escolhido pelo Prefeito Municipal dentre os membros do Conselho de Administração, detendo o voto de qualidade.\n§ 5º O mandato dos membros do Conselho de Administração iniciará no dia 1º de julho do primeiro ano do mandato do Prefeito Municipal e será de:\nI - 02 (dois) anos para os membros da alínea \"a\" do inciso I do caput, permitida recondução;\nII - 04 (quatro) anos para os membros do inciso II do caput, permitida recondução.\n§ 6º Os membros do Conselho de Administração não serão destituíveis ad nutum, somente podendo perder ou ser afastados de suas funções nas seguintes hipóteses:\nI - em caso de abandono das atribuições, assim entendida a ausência não justificada a 3 (três) reuniões consecutivas ou 4 (quatro) intercaladas no mesmo ano;\nII - em caso de rompimento de vínculo com o Município de São Vicente;\nIII - por renúncia;\nIV - se condenado em processo administrativo-disciplinar, no qual seja assegurada ampla defesa, por maioria qualificada do colegiado;\n§ 7º Os suplentes substituirão os titulares, no caso de impedimento, e suceder-lhes-ão na vaga.\n§ 8º Ocorrendo o impedimento do titular e do suplente eleitos, e até que sobrevenham eleições suplementares, a vaga será ocupada interinamente por representante dos segurados, indicado, conjuntamente, pelas entidades sindicais representativas, competindo ao Presidente a decisão final em caso de ausência de consenso.\" (NR) \"Art. 142. O Conselho Fiscal do IPRESV é o órgão superior de fiscalização e controle interno dos atos do Conselho de Administração e da Superintendência da autarquia, de natureza colegiada e paritária, com participação de representantes dos servidores e do Município, e será composto por 8 (oito) membros, nomeados por Portaria do Prefeito, nos seguintes moldes:\nI - 04 (quatro) membros indicados pelo Prefeito, na qualidade de representantes do ente federativo, sendo:\na) um representante do Poder Executivo, na qualidade de membro nato;\nb) 03 (três) servidores vinculados ao RPPS;\nII - 04 (quatro) membros representantes dos segurados, sendo:\na) 2 (dois) membros eleitos diretamente pelos servidores públicos municipais segurados, dentre os servidores ativos e inativos, sendo um representante do Poder Executivo e outro do Poder Legislativo do Município;\nb) 2 (dois) representantes dos segurados, indicados pelas entidades sindicais representativas dos servidores, sendo um indicado pelo SINDSERV - Sindicato dos Servidores Públicos Municipais de São Vicente, e outro indicado pelo SINTRAMEM - Sindicato dos Trabalhadores no Magistério e na Educação Municipal de São Vicente.\n§ 1º À cada titular corresponderá um respectivo suplente.\n§ 2º O membro nato do Poder Executivo deverá preencher os requisitos previstos no art. 139 desta Lei Complementar, como condição para posse, com exceção da certificação profissional, contando com o prazo de 6 (seis) meses para apresenta-la.\n§ 3º Decorrido o prazo do § 2º e não atendido o requisito, haverá livre indicação pelo Prefeito Municipal, respeitando os critérios previstos nesta Lei Complementar.\n§ 4º O Presidente do Conselho Fiscal será eleito dentre os representantes dos segurados para mandato de 02 (dois) anos, detendo o voto de qualidade, permitida recondução.\n§ 5º O mandato dos membros do Conselho Fiscal iniciará no dia 1º de julho do terceiro ano do mandato do Prefeito Municipal, e será de:\nI - 02 (dois) anos para os membros do inciso I do caput, permitida recondução;\nII - 04 (quatro) anos para os membros do inciso II do caput, permitida recondução.\n§ 6º Os membros do Conselho Fiscal não serão destituíveis ad nutum, somente podendo perder ou ser afastados de suas funções nas seguintes hipóteses:\nI - em caso de abandono das atribuições, assim entendida a ausência não justificada a 3 (três) reuniões consecutivas ou 4 (quatro) intercaladas no mesmo ano;\nII - em caso de rompimento de vínculo com o Município de São Vicente;\nIII - por renúncia;\nIV - se condenado em processo administrativo-disciplinar, no qual seja assegurada ampla defesa, por maioria qualificada do colegiado;\n§ 7º Os suplentes substituirão os titulares, no caso de impedimento, e suceder-lhes-ão, no de vaga.\n§ 8º Ocorrendo o impedimento do titular e do suplente eleitos, e até que sobrevenham eleições suplementares, a vaga será ocupada interinamente por representante dos segurados, indicado, conjuntamente, pelas entidades sindicais representativas, competindo ao Presidente a decisão final em caso de ausência de consenso.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Lei Complementar nº 606, de 18 de dezembro de 2009, passa a vigorar acrescida com o artigo 142-A:\n\"Art. 142-A. Os membros do Conselho de Administração, Conselho Fiscal e a Diretoria Executiva deverão atender, previamente à nomeação, os requisitos previstos no artigo 8º-B da Lei Federal nº 9.717, de 27 de novembro de 1998, ou outra norma que vier a substitui-la, em especial a formação superior e a certificação e habilitação comprovadas, nos termos da regulamentação federal competente sobre certificações da espécie.\nParágrafo único. Excetuam-se da exigência de prévia certificação disposta no caput deste artigo os membros natos dos Conselhos, os quais terão o prazo de 6 (seis) meses após a nomeação para sua obtenção.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Capítulo II, do Título IV, da Lei Complementar nº 606, de 18 de dezembro de 2009, passa a vigorar com as seguintes alterações e acréscimos:\n\"Seção III Da Diretoria Executiva\" (NR) \"Art. 144-A. A Diretoria Executiva do Instituto de Previdência dos Servidores Municipais de São Vicente tem a seguinte composição:\nI - Superintendente;\nII - Coordenador-Geral;\nIII - Coordenador de Investimentos.\" (NR) \"Art. 145 …\n§ 1º O cargo de Superintendente é de livre nomeação e exoneração pelo Prefeito Municipal, dentre segurados do regime, portadores de diploma de ensino superior, desde que cumpram os requisitos previstos nesta lei complementar.\" (NR) O artigo 145 da Lei Complementar nº 606, de 18 de dezembro de 2009, passa a vigorar com as seguintes alterações:\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DAS ALTERAÇÕES NA ESTRUTURA DA CAIXA DE SAÚDE E PECÚLIO\nArt. 7º. O artigo 6º, da Lei nº 942-A, de 28 de dezembro de 2000, passa a vigorar com as seguintes alterações e acréscimos: \"Art. 6º O Conselho de Administração terá a seguinte composição: ... VIII - o titular da Secretaria de Gestão - SEGES. ... § 1º-A. O titular da Secretaria de Gestão - SEGES é membro nato do Conselho de Administração. ... § 3º O Presidente do Conselho de Administração será livremente indicado pelo Prefeito Municipal dentre seus membros. ... § 7º Ressalvado o previsto no § 1º-A, os membros do Conselho de Administração serão nomeados dentre servidores contribuintes e inscritos na Caixa de Saúde e Pecúlio, desde que portadores de ensino superior.\" (NR)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O caput do artigo 7º, da Lei n.º 942-A, de 28 de dezembro de 2000, passa a vigorar com a seguinte redação:\n\"Art. 7º O Conselho Fiscal será integrado por servidores contribuintes e inscritos na Caixa de Saúde e Pecúlio, desde que portadores de diploma de ensino superior, e terá a seguinte composição:\" (NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. O artigo 8º, da Lei n.º 942-A, de 28 de dezembro de 2000, passa a vigorar com a seguinte redação:\n\"Art. 8º O cargo de Superintendente da Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente é de livre nomeação e exoneração pelo Prefeito Municipal, observados os seguintes requisitos:\nI - ser servidor contribuinte e inscrito na Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente, ativo ou inativo;\nII - possuir diploma de nível superior nas áreas de Administração, Contabilidade, Direito, Economia ou Medicina;\nIII - ter, ao menos, 05 (cinco) anos de efetivo exercício na Administração Municipal Direta, autárquica ou fundacional.\"\n(NR)\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO III DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nArt. 10. Ficam encerrados, a partir de 1º de janeiro de 2026, os mandatos dos atuais Superintendente, Conselheiros de Administração e Conselheiros Fiscais da Caixa de Saúde e Pecúlio dos Servidores Municipais de São Vicente.\nParágrafo único. No mesmo prazo do caput, deverão ser nomeados o Superintendente e os membros dos Conselhos de Administração e Fiscal da Caixa de Saúde e Pecúlio, em conformidade com as inovações introduzidas por esta Lei Complementar.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Ficam encerrados, a partir de 1º de janeiro de 2026, os mandatos dos atuais Superintendente, Conselheiros de Administração e Conselheiros Fiscais do IPRESV.\n§ 1º No mesmo prazo do caput, deverão ser nomeados o Superintendente e os membros dos Conselhos de Administração e Fiscal do IPRESV, em conformidade com as inovações introduzidas por esta Lei Complementar, observado apenas que:\nI - em relação aos representantes eleitos dos segurados, serão indicados pelas entidades sindicais representativas, observado, em todo caso, o disposto no § 5º, do artigo 142, alterado por esta Lei Complementar;\nII - aos nomeados na forma deste artigo, aplica-se o prazo de transição previsto no parágrafo único, do artigo 142-A, da Lei Complementar nº 606, de 18 de dezembro de 2009.\n§ 2º Os mandatos dos conselheiros nomeados com fundamento neste artigo se encerrarão em 30 de junho de 2027, à exceção dos representantes dos segurados do Conselho de Administração (art. 142, II, da Lei Complementar nº 606, de 18 de dezembro de 2009), cujos mandatos se estenderão até 30 de junho de 2029.\n§ 3º O primeiro processo eleitoral para constituir os membros do Conselho Fiscal deverá ocorrer até o dia 1º de julho de 2027, e do Conselho de Administração até o dia 1º de julho de 2029.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Revogam-se as disposições em contrário, em especial os seguintes dispositivos da Lei nº 942-A, de 28 de dezembro de 2000:\nI - os §§ 2º e 4º, do artigo 6º;\nII - os §§ 2º e 4º, do artigo 7º;\nIII - o parágrafo único, do artigo 8º.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.215, de 18 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04707",
+   "short": "Lei 4707/2025",
+   "title": "Lei nº 4.707, de 15 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9638",
+   "first_law": "lei-2025-04707",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9638/lei-4707.pdf",
+     "sha256": "0dfe35759c7f8ba638371e787071ef8b134b2598a9e612361929e81150c8cef7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.707, de 15 de dezembro de 2025 Revoga integralmente o(a) Lei Ordinária nº 2426-A, de 07 de julho de 2010 Revoga integralmente o(a) Lei Ordinária nº 3243-A, de 03 de setembro de 2014 Dispõe sobre a revogação das Leis Municipais n° 2426- A/10 e nº 3243-A/14 e dá outras providências.\nSANDRA CONTI, Vice-Prefeita em exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica revogada a Lei Municipal nº 2426-A, de 07 de julho de 2010, que proíbe o abandono de veículos nas vias e logradouros públicos do Município e a Lei Municipal nº 3243-A, de 03 de setembro de 2014, que dispõe sobre a remoção de veículos automotores abandonados nas vias públicas do Município e dá outras providências.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.707, de 15 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04704",
+   "short": "Lei 4704/2025",
+   "title": "Lei nº 4.704, de 11 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9632",
+   "first_law": "lei-2025-04704",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9632/lei-4704.pdf",
+     "sha256": "d878bfe4fbac564ec80f9eab84e21099907f31c313b35f93f6c97798c1d0de02",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.704, de 11 de dezembro de 2025 Altera o(a) Lei Ordinária nº 4.692, de 13 de novembro de 2025 Altera a redação do art. 1º e do art. 8º e revoga o art. 4º da Lei nº 4692, de 13 de novembro de 2025, que autoriza o Poder Executivo a ceder, a título gratuito e por prazo determinado, o uso de imóvel municipal ao Estado de São Paulo, para instalação da sede da Delegacia de Defesa da Mulher - DDM de São Vicente, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O caput do art. 1º e do 8º, da Lei 4692, de 13 de novembro de 2025, passam a vigorar com a seguinte redação:\nI - \"Art. 1º Fica o Poder Executivo autorizado a ceder, a título gratuito e pelo prazo de 30 (trinta) anos, prorrogáveis conforme legislação vigente, o uso de imóvel de propriedade do Município de São Vicente, localizado no Largo Professor Clemente Ferreira, entre as quadras G e E do loteamento Vila Petrópolis Vicentina e a quadra IV da Vila Cascatinha, integrante do patrimônio municipal conforme certidão do 3º Oficial de Registro de Imóveis de Santos-SP, Transcrição nº 7391, ao Estado de São Paulo, representado pela Fazenda Pública do Estado de São Paulo, com a finalidade de instalação e funcionamento da Delegacia de Defesa da Mulher - DDM de São Vicente\".\nII - \"Art. 8º As despesas decorrentes do registro do Termo de Cessão de Direito Real de Uso no Cartório de Registro de Imóveis correrão por conta da cessionária.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário, em especial o art.\n4º, da Lei nº 4692, de 13 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.704, de 11 de dezembro de 2025; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04703",
+   "short": "Lei 4703/2025",
+   "title": "Lei nº 4.703, de 8 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9625",
+   "first_law": "lei-2025-04703",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9625/lei-4703.pdf",
+     "sha256": "2420beb4eca4855445fb99325fa8557f4f0ad9fd9f804efdfe11390b9b7158f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.703, de 08 de dezembro de 2025 Institui o Mês da Solidariedade no Calendário Oficial de Datas e Eventos do Município e dá outras providências.\nProjeto de Lei n.º 117/25 de autoria do Vereador Adilson da Farmácia SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Mês da Solidariedade, a ser celebrado anualmente no mês de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Mês da Solidariedade tem por objetivo fomentar a cultura da solidariedade, estimulando ações de voluntariado, campanhas de arrecadação, projetos comunitários, atividades sociais, educacionais e culturais que visem ao bem-estar coletivo e à inclusão social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá, em conjunto com a sociedade civil organizada, escolas, entidades filantrópicas, associações comunitárias e demais instituições, promover atividades alusivas ao Mês da Solidariedade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 08 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.703, de 8 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04702",
+   "short": "Lei 4702/2025",
+   "title": "Lei nº 4.702, de 5 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9626",
+   "first_law": "lei-2025-04702",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9626/lei-4702.pdf",
+     "sha256": "b28909131e2c1d0c987aef2ac0fea523fba952955979d083b637dd60af1c631e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.702, de 05 de dezembro de 2025 Dispõe sobre a aplicação de penalidades por danos, mau uso ou utilização indevida de equipamentos públicos administrados pela Secretaria de Esportes e Lazer do Município de São Vicente e dá outras providências.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Esta Lei institui sanções administrativas às pessoas físicas ou jurídicas que causarem dano, ou revelarem mau uso ou utilização de forma indevida os equipamentos públicos destinados ao esporte e lazer sob a responsabilidade da Secretaria de Esportes e Lazer - SESPOR, do Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para os fins desta Lei, consideram-se equipamentos públicos de esporte e lazer:\nI - Ginásios poliesportivos;\nII - Estádios e campos de futebol;\nIII - Quadras cobertas e descobertas;\nIV - Demais espaços de esporte e lazer sob gestão da SESPOR.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Constituem infrações passíveis de sanção:\nI - danificar, depredar ou vandalizar equipamentos, instalações ou mobiliário urbano esportivo;\nII - utilizar os espaços para finalidades distintas daquelas previstas, sem prévia autorização da Secretaria de Esportes e Lazer;\nIII - realizar eventos esportivos ou culturais sem autorização prévia;\nIV - deixar resíduos, promover sujeira ou descumprir normas de uso dos locais;\nV - impedir, por qualquer meio, o uso coletivo e público dos equipamentos;\nVI - causar riscos à segurança dos usuários ou à integridade das instalações.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. As infrações previstas no artigo anterior serão punidas com multa, aplicada conforme a gravidade e a reincidência da infração, observados os seguintes critérios e definições:\nI - Infração leve, punida com multa de R$ 100,00 (cem reais), considerada leve a infração que não gera danos materiais permanentes aos bens públicos, representa conduta isolada e de baixo potencial ofensivo, não compromete a segurança dos usuários nem impede o uso coletivo do espaço, constituindo-se exemplos:\na) deixar resíduos ou sujeira em Quadras, Praças ou vestiários;\nb) utilizar calçados inadequados em quadras sinalizadas, sendo exigido:\n1 para quadras de piso sintético ou emborrachado, calçados com solado liso;\n2 para campos de grama natural, chuteiras com travas apropriadas ao tipo de gramado;\n3 para quadras de cimento ou concreto, tênis esportivos com sola de borracha resistente;\nc) fumar ou consumir alimentos em áreas restritas, quando devidamente sinalizado;\nd) ultrapassar o tempo de uso previamente regulamentado, sem prejuízo a terceiros.\nII - Infração média, punida com multa de R$ 300,00 (trezentos reais), considerada média a infração que gera dano moderado, ainda que reversível, aos bens públicos; atrapalhe ou impeça temporariamente o uso adequado do espaço; ou envolve desrespeito às regras de uso devidamente publicadas, constituindo-se exemplos:\na) utilização de equipamentos sem agendamento ou sem autorização em eventos organizados;\nb) danificação de redes, traves, alambrados ou luminárias de forma não intencional;\nc) promover som alto ou eventos com aglomeração sem autorização prévia;\nd) utilização do espaço para atividades alheias à finalidade esportiva, como comércio não autorizado.\nIII - Infração grave, punida com multa de R$ 500,00 (quinhentos reais) , considerada grave a infração que causa dano irreversível ou de grande monta ao patrimônio público; compromete a integridade física dos usuários ou servidores;\nocorre de forma dolosa, reiterada ou com indícios de vandalismo; ou impede total ou parcialmente o uso da instalação por prazo prolongado, constituindo exemplos:\na) depredação intencional de banheiros, arquibancadas, pisos, vestiários ou alambrados;\nb) atos de vandalismo com pichações, destruição de equipamentos ou incêndio;\nc) agressão física ou verbal a servidores ou outros usuários;\nd) organização de eventos não autorizados com cobrança de ingressos ou ocupação exclusiva do espaço.\n§ 1º A reincidência em até 12 (doze) meses da primeira infração, implicará aumento de 100% (cem por cento) no valor da multa.\n§ 2º Em caso de dano ao patrimônio público, a multa será acrescida do valor correspondente à reposição ou reparo dos bens danificados.\n§ 3º Os valores arrecadados serão destinados exclusivamente ao Fundo Pró-Esportes.\n§ 4º As infrações serão anualmente reajustadas por Decreto, com base em índice oficial de correção monetária.\n§ 5º O não pagamento do valor da multa, ensejará em inscrição em Dívida Ativa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A aplicação da penalidade será precedida de:\nI - Notificação do infrator, assegurado o prazo de 10 (dez) dias para apresentação de defesa;\nII - Julgamento pela Secretaria de Esportes e Lazer - SESPOR;\nIII - Em última instância administrativa, da decisão referida no inciso II caberá recurso nos termos da Lei Complementar Municipal n.º 1037/21.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Os promotores de eventos são responsáveis pela limpeza dos espaços públicos esportivos e de lazer atingidos por resíduos decorrentes de sua realização, devendo iniciar a varrição e coleta mesmo durante o evento, concluindo-a no prazo máximo de 8 (oito) horas após o término, salvo prazo diverso fixado no Alvará de Autorização, conforme a particularidade do evento.\n§ 1º A realização dos eventos de que trata o caput, sejam esportivas ou de propaganda, deverá observar os limites de emissão de sons e ruídos fixados nas normas técnicas da Associação Brasileira de Normas Técnicas - ABNT, resguardando-se a saúde, a segurança e o sossego público.\n§ 2º Consideram-se prejudiciais à saúde, à segurança e ao sossego público os sons e ruídos que ultrapassem os limites previstos nas normas técnicas da ABNT, causando incômodo à vizinhança.\n§ 3º A medição sonora será realizada por meio de equipamento adequado, conforme estabelecido em norma técnica, e, na impossibilidade de utilização, admite-se a constatação por percepção sensorial, firmada por agente público qualificado para a fiscalização.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Fica o Poder Executivo autorizado a regulamentar esta Lei por meio de Decreto.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. A fiscalização será exercida por comissão especialmente designada, instituída por meio de Portaria expedida pela Secretaria de Esportes e Lazer - SESPOR, a qual terá competência para acompanhar, orientar e adotar as medidas cabíveis quanto ao cumprimento das disposições estabelecidas nesta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Os exercícios das funções de membros da comissão de que trata esta Lei será considerada de relevante interesse público e não será remunerada.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 05 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.702, de 5 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04701",
+   "short": "Lei 4701/2025",
+   "title": "Lei nº 4.701, de 5 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9623",
+   "first_law": "lei-2025-04701",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9623/lei-4701.pdf",
+     "sha256": "12ce5a02b20a5e3450038cea6942f8809b22fd313e006557430c9ac4afc63fce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.701, de 05 de dezembro de 2025 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 05 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.701, de 5 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04700",
+   "short": "Lei 4700/2025",
+   "title": "Lei nº 4.700, de 3 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9621",
+   "first_law": "lei-2025-04700",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9621/lei-4700.pdf",
+     "sha256": "0090b7f924816802707700a536811cd05597b3dd47c97c914ad01eb348034360",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.700, de 03 de dezembro de 2025 Altera a redação do art. 5º, revoga o §1° e acrescenta o § 9º da Lei n 4.409, de 30 de maio de 2023, que cria o Conselho Municipal de Segurança Pública - COMSEР.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a vigorar com a seguinte redação o inciso I do art. 5° da Lei nº 4.409, de 30 de maio de 2023, acrescido o § 9°:\n\"Art. 5°\nI-9 (nove) representantes do Poder Executivo Municipal, assim sendo representado:\na) 1 (um) representante do Gabinete do Prefeito;\nb) 1 (um) representante da Secretaria Municipal de Defesa e Organização Social - SEDOS;\nc) 1 (um) representante da Guarda Civil Municipal;\nd) 1 (um) representante da Subsecretaria de Defesa Civil;\ne) 1 (um) representante da Secretaria de Assuntos Jurídicos - SEJUR;\nf) 1 (um) representante da Secretaria de Desenvolvimento Social - SEDES;\ng) 1 (um) representante da Secretaria de Mobilidade Urbana - SEMOB;\nh) 1 (um) representante da Secretaria de Planejamento e Governança - SEPLAG;\ni) 1 (um) representante da Secretaria de Serviços Públicos - SESP.\nII - ...\"\n\"§ 9° As autoridades da Polícia Militar, Polícia Civil, Polícia Penal do Estado, Ministério Público, Poder Judiciário e Defensoria Pública, que anteriormente detinham assento permanente, poderão ser convidadas a participar das reuniões do Conselho, com direito a voz, mas sem direito a voto, para prestar esclarecimentos ou manifestar sua opinião sobre os assuntos em discussão.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação, revogadas disposições em contrário, em especial o § 1º e suas alíneas do art. 5.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.700, de 3 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04699",
+   "short": "Lei 4699/2025",
+   "title": "Lei nº 4.699, de 3 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9620",
+   "first_law": "lei-2025-04699",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9620/lei4699.pdf",
+     "sha256": "1e1d6968156d5202bad19d8c62635077f1ccd5b75b0eab738a478f0668488060",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.699, de 03 de dezembro de 2025 Altera a Lei nº 77-A, de 12 de dezembro de 1991, que dispõe sobre a instalação, conservação e о funcionamento de elevadores e outros aparelhos de transporte no Município de São Vicente, e dá outras providências.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a vigorar com a seguinte redação o § 2º do art. 4º da Lei n° 77-A, de 12 de dezembro de 1991:\n\"Art. 4° ...\n§2° Juntamente com o Alvará de Instalação, será fornecido número identificação de registro, na Prefeitura, do aparelho de transporte.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica acrescido o parágrafo único ao art. 5° da Lei nº 77-A, de 12 de dezembro de 1991: \"Art. 5° ... Parágrafo único. O referido Alvará de Funcionamento deverá estar afixado junto ao equipamento instalado, em local visível.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Passa a vigorar com a seguinte redação o art. 8º e parágrafo único da Lei n° 77-A, de 12 de dezembro de 1991:\n\"Art. 8° No caso do proprietário ou locatário mudar de engenheiro responsável técnico ou empresa responsável, deverá ser providenciada baixa da respectiva responsabilidade, pelo engenheiro responsável técnico ou empresa responsável, junto à Prefeitura.\nParágrafo único. O proprietário ou locatário deverá, no prazo de 15 (quinze) dias a partir da comunicação da baixa de responsabilidade, indicar engenheiro responsável técnico ou empresa responsável.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Passam a vigorar com a seguinte redação o art. 14 e seus incisos II e V da Lei nº 77-A, de 12 de dezembro de 1991, mantendo-se os demais incisos:\n\"Art. 14 Pela infração ao disposto na presente Lei, serão aplicáveis ao proprietário ou locatário as seguintes multas:\nI-...\nII - instalação ou conservação de aparelhos de transporte por empresas não registradas na Prefeitura - R$ 1.161,70;\nIII-...\nIV-...\nV - instalação de aparelho de transporte desprovido de adequadas condições de segurança - R$ 5.808,50;\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Passa a vigorar com a seguinte redação o § 3° do art. 16 da Lei nº 77-А, de 12 de dezembro de 1991:\n\"Art. 16...\n§ 3° Na persistência da infração, o equipamento será interditado e as multas serão renovadas a cada 30 (trinta) dias, exceto na hipótese do inciso VII do art. 14, em que as multas serão renovadas a cada dia.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Passa a vigorar com a seguinte redação o art. 17 da Lei nº 77-A, de 12 de dezembro de 1991:\n\"Art. 17 As penalidades previstas nesta Lei são aplicáveis, nas mesmas condições, aos engenheiros responsáveis técnicos e empresas responsáveis.\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.699, de 3 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04698",
+   "short": "Lei 4698/2025",
+   "title": "Lei nº 4.698, de 3 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9619",
+   "first_law": "lei-2025-04698",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9619/lei-4698.pdf",
+     "sha256": "df09509cb1f0d111265054c68084f8094e573e48151db23949beaa17c1946aff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.698, de 03 de dezembro de 2025 Institui a Política Municipal de Promoção da Saúde, por meio da atividade física supervisionada por profissionais de Educação Física, no Município de São Vicente, e dá outras providências.\nProjeto de Lei n.º 102/25 de autoria do Vereador Edivaldo da Autoescola SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituída, no âmbito do Município de São Vicente, a Política Municipal de Promoção da Saúde, por meio da atividade física supervisionada por profissionais de Educação Física, destinada à prevenção de doenças, à reabilitação funcional e à melhoria da qualidade de vida da população, no âmbito da Rede Municipal de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São objetivos da política prevista nesta lei:\nI - fomentar a prática segura de atividades físicas no território municipal, com a finalidade de oportunizar espaços de recreação, lazer e práticas esportivas às comunidades, estimulando ações de convivência entre os moradores e a democratização do espaço público municipal, independentemente de autorização para a referida prática, desde que seja de pequena intensidade, não oferecendo qualquer possibilidade de risco à integridade física dos munícipes que nelas transitem ou se disponham a praticar atividades físico-esportivas;\nII - apoiar ações preventivas e educativas por meio da atividade física supervisionada por profissionais de educação física;\nIII - colaborar com a redução de doenças crônicas não transmissíveis e agravos associados ao sedentarismo;\nIV - ampliar a oferta de práticas corporais nos espaços públicos, incluindo ruas, praças e demais logradouros públicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Política Municipal de Promoção da Saúde por meio da atividade física supervisionada por profissionais de Educação Física observará as seguintes diretrizes:\nI - atuação dos profissionais de Educação Física do quadro do funcionalismo público ou não;\nII - utilização de espaços públicos municipais para práticas supervisionadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Poderá o Poder Executivo implementar a política instituída por esta lei por meio dos seus órgãos competentes, podendo, para tanto:\nI - (VETADO)\nII - promover oficinas e ações comunitárias sobre atividade física e saúde.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As ações decorrentes desta lei deverão ser conduzidas por profissionais de Educação Física legalmente habilitados, com formação superior e registro ativo no órgão de classe competente\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As disposições desta lei não alteram as competências de regulamentação, fiscalização e normatização atribuídas ao órgão de classe competente da profissão.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O Poder Executivo poderá regulamentar esta lei no que couber.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de dezembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.698, de 3 de dezembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04697",
+   "short": "Lei 4697/2025",
+   "title": "Lei nº 4.697, de 25 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9618",
+   "first_law": "lei-2025-04697",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9618/lei-4697.pdf",
+     "sha256": "a00d7ad32ae367502026b07ee9c0e1d70b83c3c8e9f3773e59dbeee25dc6ea4c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.697, de 25 de novembro de 2025 Considera de Utilidade Pública o Instituto de Políticas Públicas - IPP Projeto de Lei nº 133/25 de autoria do Vereador Wagner Cabeça KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É considerado de Utilidade Pública o Instituto de Políticas Públicas - IPP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 25 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.697, de 25 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04696",
+   "short": "Lei 4696/2025",
+   "title": "Lei nº 4.696, de 25 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9617",
+   "first_law": "lei-2025-04696",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9617/lei-4696.pdf",
+     "sha256": "0237da8b292ef1e293c664955d0f6a52714c53237e7374b145d51855fc48fada",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.696, de 25 de novembro de 2025 Dispõe sobre a instituição do \"Setembro Azul\" no Calendário Oficial de Datas e Eventos do Município de São Vicente e estabelece diretrizes para ações de promoção da inclusão da pessoa surda.\nProjeto de Lei nº 101/25 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o mês \"Setembro Azul\", dedicado à promoção, durante todo o mês de setembro, de ações de conscientização sobre os direitos, cultura e língua da comunidade surda.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São objetivos do \"Setembro Azul\" municipal:\nI - promover campanhas de visibilidade, respeito e valorização da Língua Brasileira de Sinais (LIBRAS);\nII - promover acesso e divulgação de serviços públicos com atendimento em LIBRAS;\nIII - estimular a capacitação, sem ônus adicional ao erário, de servidores municipais em atendimento básico em LIBRAS;\nIV - fomentar parcerias com associações de surdos, instituições de ensino e saúde para realização de atividades educativas e culturais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Durante o mês de setembro, poderão ser realizados pelo Poder Executivo e pela Câmara Municipal:\nI - seminários, oficinas, mutirões informativos e campanhas de comunicação acessível;\nII - eventos de conscientização, sessões solenes, audiências públicas e debates temáticos sobre a comunidade surda;\nIII - atividades culturais e educativas com participação de intérpretes de LIBRAS e acessibilidade comunicativa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Fica a Câmara Municipal de São Vicente autorizada a promover, no âmbito de suas competências, eventos de conscientização sobre o \"Setembro Azul\", inclusive com transmissão ao vivo por seus canais oficiais, garantindo acessibilidade comunicativa (intérprete de LIBRAS e legendagem, quando possível).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As ações previstas nesta lei deverão priorizar a existência de acessibilidade comunicativa (legendagem, intérprete de LIBRAS, material informativo em formatos acessíveis), sem gerar obrigatoriamente aumento de despesa.\nParágrafo único O Poder Executivo poderá aproveitar programas já existentes, firmar convênios e parcerias com instituições e organizações da sociedade civil.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta lei revoga disposições em contrário, bem como substitui eventuais leis anteriores que tratem da mesma temática, unificando a legislação municipal sobre o \"Setembro Azul\".\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 25 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.696, de 25 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04695",
+   "short": "Lei 4695/2025",
+   "title": "Lei nº 4.695, de 25 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9616",
+   "first_law": "lei-2025-04695",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9616/lei-4695.pdf",
+     "sha256": "352e03363220f52b28ba5caa8babea67b41af534e02ba6e1af06a5b7c324da84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.695, de 25 de novembro de 2025 Institui o Dia Municipal da Marcha para Jesus na Área Continental.\nProjeto de Lei nº 126/25 de autoria do Vereador Marcos Vinicius Cocão KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Dia Municipal da Marcha para Jesus na Área Continental, a ser realizado anualmente no mês de dezembro para celebrar o nascimento de Jesus Cristo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 25 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.695, de 25 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04694",
+   "short": "Lei 4694/2025",
+   "title": "Lei nº 4.694, de 18 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9614",
+   "first_law": "lei-2025-04694",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9614/lei4694.pdf",
+     "sha256": "5b9caa1f70730d4eded95272cfa5ad7f2174db6bbb293d1b8cff03a40b341bc0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.694, de 18 de novembro de 2025 Abre Crédito Adicional Suplementar no valor de R$ 2.450.000,00 (dois milhões e quatrocentos e cinquenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica aberto na Contabilidade da Câmara Municipal de São Vicente, um Crédito Adicional Suplementar no valor de R$ 2.450.000,00 (dois milhões e quatrocentos e cinquenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Crédito Adicional aberto pelo artigo 1º, deste projeto de Lei, suplementará as seguintes dotações:\n3.1.90.11.00 - Vencimentos e Vantagens Fixas Pessoal Civil ..................................... R$ 1.680.000,00 3.3.90.37.00 - Locação de Mão de Obra ...................................................................... R$ 200.000,00 3.3.90.46.00 - Auxílio Alimentação ............................................................................... R$ 50.000,00 3.1.90.92.00 - Despesas de Exercícios Anteriores ........................................................ R$ 120.000,00 3.1.91.13.00 - Obrigações Patronais Intra-orçamentário ............................................. R$ 350.000,00 01.032.0035.2093 - Manutenção da Atividade Legislativa 3.1.90.11.00 - Vencimentos e Vantagens Fixas Pessoal Civil .......................................... R$ 50.000,00\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O recurso para atender a abertura de crédito adicional suplementar, de que trata o art. 1º, é proveniente da anulação total e parcial das seguintes dotações orçamentárias, nos termos do inciso III do § 1° do art. 43 da Lei Federal n° 4.320, de 17 de março de 1964:\n3.3.90.30.00 - Material de Consumo ........................................................................... R$ 200.000,00 3.3.90.39.00 - Serviços de Terceiros Pessoa Jurídica ................................................. R$ 1.500.000,00 01.031.0035.2182 - Publicidade e Propaganda Institucional 3.3.90.39.00 - Serviços de Terceiros Pessoa Jurídica .................................................... R$ 750.000,00\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.694, de 18 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04693",
+   "short": "Lei 4693/2025",
+   "title": "Lei nº 4.693, de 13 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9608",
+   "first_law": "lei-2025-04693",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9608/lei4693.pdf",
+     "sha256": "cc8e8f2dcb024096e46069cc9d6a23c4fe193cbd3c3b01a0668d5f69960e3178",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.693, de 13 de novembro de 2025 Institui o Selo Municipal Empresa Amiga da Vida no âmbito do Município de São Vicente.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído o Selo Municipal Empresa Amiga da Vida, com intuito de reconhecer as pessoas jurídicas do Município que se destacam na promoção de ações de valorização da vida e prevenção ao suicídio em seu ambiente de trabalho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para obtenção do reconhecimento instituído no art. 1º, as empresas devem adotar as seguintes ações de valorização da vida e prevenção ao suicídio:\nI - conscientização e sensibilização dos funcionários sobre a importância da saúde mental e bem-estar emocional;\nII - promoção de um ambiente de trabalho saudável e acolhedor, livre de estigma e discriminação em relação a transtornos mentais;\nIII - oferta de programas de apoio psicológico e acompanhamento para funcionários em situação de vulnerabilidade;\nIV - capacitação de líderes e gestores para identificar e abordar precocemente sinais de sofrimento psíquico em suas equipes;\nV - divulgação de informações sobre recursos e serviços de saúde mental disponíveis na comunidade;\nVI - promoção de cursos, seminários, palestras e demais eventos com profissionais que versem sobre a temática.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As empresas que receberem o Selo Municipal Empresa Amiga da Vida poderão divulgar, para fins promocionais e publicitários, suas ações praticadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo regulamentará esta lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.693, de 13 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04688",
+   "short": "Lei 4688/2025",
+   "title": "Lei nº 4.688, de 10 de novembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9601",
+   "first_law": "lei-2025-04688",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9601/l4688.pdf",
+     "sha256": "8665be006ad9f9b729e45f417dfb21dd6b63e9561d2d60a6f4f12cb22fa5fb29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4688 Projeto de Lei n.º 17/25 de autoria do Vereador Fernando Paulino Considera de utilidade pública a Associação de Atletas Marciais Desenvolvendo Vidas.\nProc. n.º 3551009.401.00048074/2025-24 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.º - É considerada de utilidade pública a Associação de Atletas Marciais Desenvolvendo Vidas, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPátria, Cellula Mater da Nacionalidade, em 10 de novembro de 2025.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.688, de 10 de novembro de 2025; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
