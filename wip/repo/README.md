@@ -26,7 +26,7 @@ The first version of the Lei Orgânica is the text SAPL gives in force from 1990
 
 ## How it is built
 
-Each SAPL view of the Lei Orgânica becomes one file per Art.; each provision is one line, its label followed by its text; headings stand above the first article under them. The notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded and the amending acts' own blocks it shows inside the text are left out.
+Each SAPL view of the Lei Orgânica becomes one file per Art.; each provision is one line, its label followed by its text; headings stand above the first article under them. The notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded, the amending acts' own blocks it shows inside the text and amendment notes typed into the text ("(Redação dada pela Emenda ...)") are left out.
 
 ## How it is checked
 

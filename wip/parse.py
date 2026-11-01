@@ -143,7 +143,8 @@ DECISIONS = [
     'act, the units that changed are left uncredited and committed as publisher commits, not guessed.',
     'Each provision is one line: its label ("Art. 1º.", "§ 1º", "XV –") followed by its text; table rows are one line '
     'each, cells separated by " | ". Notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), '
-    'provisions it marks as superseded and the amending acts own blocks it shows inside the text are left out.',
+    'provisions it marks as superseded, the amending acts own blocks it shows inside the text and the amendment '
+    'notes typed into the text ("(Redação dada pela Emenda ...)", "(Incluído pela ...)") are left out.',
     'One file per Art.; headings stand above the first article under them; the "Ato das Disposições Orgânicas '
     'Transitórias", numbered from 1 again, is adt-*. "000-titulo" holds the preamble.',
 ]
