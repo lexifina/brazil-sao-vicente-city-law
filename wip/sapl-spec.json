@@ -1,0 +1,17 @@
+{
+ "folder": "brazil-sao-vicente-city-law",
+ "host": "sapl.saovicente.sp.leg.br",
+ "city": "São Vicente",
+ "uf": "SP",
+ "code": "BR-SP-SAO-VICENTE",
+ "slug": "brazil-sao-vicente-city",
+ "tz": "America/Sao_Paulo",
+ "email_domain": "saovicente.sp.leg.br",
+ "norma": 2325,
+ "ta": 157,
+ "lom_date": "1990-04-05",
+ "lom_year": 1990,
+ "lom_label": "Lei Orgânica do Município de São Vicente, de 5 de abril de 1990",
+ "lom_title": "Lei Orgânica do Município de São Vicente",
+ "laws": true
+}
