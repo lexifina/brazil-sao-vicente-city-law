@@ -10,8 +10,11 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `lei-organica/` | Lei Orgânica do Município de São Vicente (1990) and every amendment the Câmara's SAPL records | one per period of vigência (3) |
+| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (36) |
 
 **The Lei Orgânica with its history.** The Câmara's SAPL keeps the Lei Orgânica as a structured text with a view of the text in force for each period between amendments, so each amendment is a commit on the day its period starts, credited to the Emenda à Lei Orgânica that gave it.
+
+**Municipal laws, newest first.** Each law the Câmara's SAPL lists with a PDF that has a text layer of its own, as enacted, credited to itself. Laws are added in parts, working back in time; later amendments by other laws are not worked into earlier laws. Scans and laws that take effect on another day than their publication are left out.
 
 State law is in [brazil-sao-paulo-law](https://github.com/lexifina/brazil-sao-paulo-law); federal law is in [brazil-law](https://github.com/lexifina/brazil-law).
 
@@ -22,11 +25,11 @@ that page's sha256, in `data/versions.json`.
 
 ## Dates
 
-The first version of the Lei Orgânica is the text SAPL gives in force from 1990-04-05. Each later version is dated by the first day of the period of vigência SAPL gives it and credited to the act SAPL names for it ("Dada por ..."); a period SAPL starts without naming an act is committed as a publisher commit, not guessed. Commits are at noon in São Vicente.
+The first version of the Lei Orgânica is the text SAPL gives in force from 1990-04-05. Each later version is dated by the first day of the period of vigência SAPL gives it and credited to the act SAPL names for it ("Dada por ..."); a period SAPL starts without naming an act is committed as a publisher commit, not guessed. Each law is dated by the publication date SAPL records for it (else by its own date), and only laws whose own vigência clause says they take effect on their publication (or signature) are taken in (Decreto-Lei 4.657/1942, art. 1, would otherwise give 45 days). Commits are at noon in São Vicente.
 
 ## How it is built
 
-Each SAPL view of the Lei Orgânica becomes one file per Art.; each provision is one line, its label followed by its text; headings stand above the first article under them. The notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded, the amending acts' own blocks it shows inside the text and amendment notes typed into the text ("(Redação dada pela Emenda ...)") are left out.
+Each SAPL view of the Lei Orgânica becomes one file per Art.; each provision is one line, its label followed by its text; headings stand above the first article under them. The notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded, the amending acts' own blocks it shows inside the text and amendment notes typed into the text ("(Redação dada pela Emenda ...)") are left out. Each law's PDF is read from its heading to the closing line that ends in its date (signatures after it are left out); lines repeated at the top or bottom of two or more pages and page numbers are left out; lines are joined into paragraphs, one file per Art.
 
 ## How it is checked
 
@@ -41,7 +44,7 @@ address that cannot exist; the committer is always Lexifina.
 
 ## Limits
 
-The record is SAPL's: a version is only as exact as the Câmara's text for it. Ordinary and complementary laws are not in yet. The text is not the official version: only the Diário Oficial do Município is authoritative.
+The record is SAPL's: a version is only as exact as the Câmara's text for it. Only the newest laws are in so far; older ones follow in later parts. The text is not the official version: only the Diário Oficial do Município is authoritative.
 
 ## Licence
 
