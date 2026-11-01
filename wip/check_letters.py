@@ -5,7 +5,8 @@ parser, none of the builder's code).
 
 For each version the page is cut at every provision block ('<div class="dptt'); each block runs to the provision's
 notes ('<div class="dn"'), which are left out, as are blocks marked "desativado", blocks right after a
-'bloco_alteracao' opening (the amending act's own block) and SAPL's "nota-alteracao" links. The blocks' text, reduced to letters
+'bloco_alteracao' opening (the amending act's own block) and SAPL's "nota-alteracao" links, and amendment notes typed into the text
+("(Redação dada pela Emenda ...)"). The blocks' text, reduced to letters
 and digits, must equal the version's unit files (changes applied to the version before) reduced the same way, each unit
 found at its place in document order.
 """
@@ -31,7 +32,8 @@ def page_text(raw):
         chunk = chunk[chunk.index('>') + 1:]
         j = chunk.find('<div class="dn"')
         out.append(chunk[:j if j >= 0 else len(chunk)])
-    return html.unescape(re.sub(r'<[^>]+>', ' ', ' '.join(out)))
+    t = html.unescape(re.sub(r'<[^>]+>', ' ', ' '.join(out)))
+    return re.sub(r'\(\s*(?:Reda[çc][ãa]o\s+dada|Reda[çc][ãa]o\s+alterada|Inclu[íi]d[oa]s?|Acrescid[oa]s?|Acrescentad[oa]s?|Revogad[oa]s?|Alterad[oa]s?|Suprimid[oa]s?|Renumerad[oa]s?|Vide)\b[^()]*?(?:Emenda|Lei|ELO|Resolu|n\.?\s*[º°o])[^()]*\)', ' ', t, flags=re.I)  # the Câmara's typed amendment notes
 
 
 def main(paths):
