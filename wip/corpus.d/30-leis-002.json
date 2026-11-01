@@ -1,0 +1,2207 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "39 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-04749": {
+   "label": "Lei nº 4.749, de 3 de junho de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-06-03",
+   "published": "2026-06-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9834",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04748": {
+   "label": "Lei nº 4.748, de 3 de junho de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-06-03",
+   "published": "2026-06-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9833",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04747": {
+   "label": "Lei nº 4.747, de 3 de junho de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-06-03",
+   "published": "2026-06-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9832",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04746": {
+   "label": "Lei nº 4.746, de 28 de maio de 2026",
+   "title": "Denomina Pastor Essueiro Moreira de Carvalho a Rua Projetada \"G\" do Conjunto Residencial Tancredo Neves, no bairro Cidade Náutica.",
+   "kind": "law",
+   "enacted": "2026-05-28",
+   "published": "2026-06-02",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9831",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04745": {
+   "label": "Lei nº 4.745, de 19 de maio de 2026",
+   "title": "Revoga dispositivo da Lei nº 4733, de 10 de abril de 2026, que dispõe sobre a Política Municipal de Resíduos Sólidos do Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-19",
+   "published": "2026-05-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9811",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04744": {
+   "label": "Lei nº 4.744, de 15 de maio de 2026",
+   "title": "Autoriza o Poder Executivo Municipal a criar a Política Municipal de Fomento à Empregabilidade de Mães Atípicas e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-15",
+   "published": "2026-05-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9794",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04743": {
+   "label": "Lei nº 4.743, de 15 de maio de 2026",
+   "title": "Altera dispositivos da Lei nº 270-A, de 22 de agosto de 1994, e alterações, que dispõe sobre a política municipal de atendimento e defesa dos direitos da criança e do adolescente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-05-15",
+   "published": "2026-05-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9793",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04742": {
+   "label": "Lei nº 4.742, de 15 de maio de 2026",
+   "title": "Permite o uso do Espaço Público para fins de Implantação de Pista de Pouso de Voo Livre nas modalidades Asa Delta e Parapente.",
+   "kind": "law",
+   "enacted": "2026-05-15",
+   "published": "2026-05-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9792",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04741": {
+   "label": "Lei nº 4.741, de 30 de abril de 2026",
+   "title": "Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal do Esporte Inclusivo.",
+   "kind": "law",
+   "enacted": "2026-04-30",
+   "published": "2026-05-05",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9719",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01236": {
+   "label": "Lei Complementar nº 1.236, de 29 de abril de 2026",
+   "title": "Altera o Anexo XV da Lei Complementar nº 981/2020 e o art. 1º da Lei Complementar nº 1.143/2024.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-30",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9718",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04740": {
+   "label": "Lei nº 4.740, de 17 de abril de 2026",
+   "title": "Institui diretrizes para o Programa Municipal Itinerante de Educação para o Trânsito no âmbito do Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-17",
+   "published": "2026-04-23",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9717",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04739": {
+   "label": "Lei nº 4.739, de 17 de abril de 2026",
+   "title": "Considera de Utilidade Pública a Associação Amigos do Esporte, Cultura e Lazer.",
+   "kind": "law",
+   "enacted": "2026-04-17",
+   "published": "2026-04-23",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9716",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04738": {
+   "label": "Lei nº 4.738, de 16 de abril de 2026",
+   "title": "Institui o Programa Municipal PROCOR - Programa Somos Muitas Cores SV, vincula-o ao Selo Municipal de Escola Antirracista, estabelece mecanismos de avaliação e monitoramento e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-16",
+   "published": "2026-04-23",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9715",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04737": {
+   "label": "Lei nº 4.737, de 13 de abril de 2026",
+   "title": "Proíbe a instalação de plantas e arborização artificial em geral no âmbito do Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-13",
+   "published": "2026-04-13",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9708",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04736": {
+   "label": "Lei nº 4.736, de 13 de abril de 2026",
+   "title": "Altera dispositivos da Lei nº 4303, de 19 de julho de 2022, que dispõe sobre critérios para entrada, circulação e estacionamento de veículos de turismo e excursão e outros eventos, originários de outros Municípios, e adota providências correlatas.",
+   "kind": "law",
+   "enacted": "2026-04-13",
+   "published": "2026-04-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9707",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04735": {
+   "label": "Lei nº 4.735, de 13 de abril de 2026",
+   "title": "Altera o art. 7º da Lei nº 4.555/24, que instituiu a Governança Multi-Institucional do Plano São Vicente 500 anos.",
+   "kind": "law",
+   "enacted": "2026-04-13",
+   "published": "2026-04-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9706",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04734": {
+   "label": "Lei nº 4.734, de 13 de abril de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-04-13",
+   "published": "2026-04-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9705",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01233": {
+   "label": "Lei Complementar nº 1.233, de 13 de abril de 2026",
+   "title": "Dispõe sobre a alteração da fonte de custeio das despesas administrativas do Instituto de Previdência dos Servidores Municipais de São Vicente - IPRESV.",
+   "kind": "law",
+   "enacted": "2026-04-13",
+   "published": "2026-04-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9703",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01232": {
+   "label": "Lei Complementar nº 1.232, de 10 de abril de 2026",
+   "title": "Institui o Programa Municipal de Fiscalização Colaborativa de Resíduos Sólidos no Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-10",
+   "published": "2026-04-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9702",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04732": {
+   "label": "Lei nº 4.732, de 30 de março de 2026",
+   "title": "Institui o Conselho Municipal de Mobilidade Urbana - CMMU, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-04-02",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9697",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01230": {
+   "label": "Lei Complementar nº 1.230, de 30 de março de 2026",
+   "title": "Altera dispositivos da Lei Complementar nº 1.077, de 11 de novembro de 2022, que autoriza a criação do Programa Emergencial de Auxílio Desemprego no Município de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-04-02",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9696",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04731": {
+   "label": "Lei nº 4.731, de 27 de março de 2026",
+   "title": "Acrescenta, altera e revoga dispositivos da Lei nº 4615, de 17 de dezembro de 2024, que dispõe sobre a prestação do Serviço de Transporte Público Individual de Passageiros por Táxi e institui o Serviço de Táxi Acessível no Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-31",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9692",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04730": {
+   "label": "Lei nº 4.730, de 27 de março de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-31",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9691",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04729": {
+   "label": "Lei nº 4.729, de 27 de março de 2026",
+   "title": "Dispõe sobre a obrigatoriedade de disponibilização de cadeiras de rodas pelas farmácias e drogarias do Município de São Vicente para uso dos seus clientes e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-31",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9690",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04728": {
+   "label": "Lei nº 4.728, de 26 de março de 2026",
+   "title": "Autoriza o sepultamento de cães e gatos junto a seus tutores.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9683",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04727": {
+   "label": "Lei nº 4.727, de 12 de março de 2026",
+   "title": "Dispõe sobre inclusão de elemento de despesa na Lei Orçamentária Anual para o exercício de 2026.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9677",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04726": {
+   "label": "Lei nº 4.726, de 12 de março de 2026",
+   "title": "Autoriza o Poder Executivo a permitir o uso de área localizada na Travessa do Parque nº 888, pelo Instituto Canto do Rio, no período que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-17",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9676",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01225": {
+   "label": "Lei Complementar nº 1.225, de 12 de março de 2026",
+   "title": "Altera normas do Estatuto dos Servidores Públicos do Município de São Vicente, que dispõem sobre férias e sobre o acúmulo constitucional de cargos públicos.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-17",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9675",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01224": {
+   "label": "Lei Complementar nº 1.224, de 12 de março de 2026",
+   "title": "Altera a Lei Complementar nº 1.192, de 15 de abril de 2025, que reorganiza a carreira de Assistente -Técnico de Gestão e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-17",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9674",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01223": {
+   "label": "Lei Complementar nº 1.223, de 12 de março de 2026",
+   "title": "Altera a Lei Complementar nº 1.021, de 5 de fevereiro de 2021, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-17",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9673",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2026-01222": {
+   "label": "Lei Complementar nº 1.222, de 12 de março de 2026",
+   "title": "Dispõe sobre a reorganização parcial da Secretaria de Cultura, institui a Diretoria de Gestão da Encenação da Vila de São Vicente, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-12",
+   "published": "2026-03-17",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9672",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04725": {
+   "label": "Lei nº 4.725, de 10 de março de 2026",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2026-03-10",
+   "published": "2026-03-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9671",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04724": {
+   "label": "Lei nº 4.724, de 26 de fevereiro de 2026",
+   "title": "Denomina Sônia Maria de Oliveira a Via de Acesso 01, conhecida como Rua Mecanizada 0309, no bairro Parque Bitaru.",
+   "kind": "law",
+   "enacted": "2026-02-26",
+   "published": "2026-02-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9668",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04723": {
+   "label": "Lei nº 4.723, de 26 de fevereiro de 2026",
+   "title": "Denomina Evan Terra a Via de Acesso 06, conhecida como Rua Mecanizada 0310, no bairro Parque Bitaru.",
+   "kind": "law",
+   "enacted": "2026-02-26",
+   "published": "2026-03-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9667",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04722": {
+   "label": "Lei nº 4.722, de 26 de fevereiro de 2026",
+   "title": "Denomina Paulo dos Santos Paixão a Via de Acesso 02, conhecida como Rua Mecanizada 0308, no bairro Parque Bitaru.",
+   "kind": "law",
+   "enacted": "2026-02-26",
+   "published": "2026-03-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9666",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04721": {
+   "label": "Lei nº 4.721, de 24 de fevereiro de 2026",
+   "title": "Considera de Utilidade Pública a Associação Cabe No Meu Pé.",
+   "kind": "law",
+   "enacted": "2026-02-24",
+   "published": "2026-02-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9665",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04720": {
+   "label": "Lei nº 4.720, de 13 de fevereiro de 2026",
+   "title": "Considera de Utilidade Pública o Instituto Transformando Vidas Maranata.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9664",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04719": {
+   "label": "Lei nº 4.719, de 13 de janeiro de 2026",
+   "title": "Dispõe sobre a proibição, no âmbito de São Vicente, da promoção, exibição, produção, patrocínio ou divulgação de conteúdo que sexualize crianças, estabelece sanções administrativas e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-13",
+   "published": "2026-01-15",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9660",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-04718": {
+   "label": "Lei nº 4.718, de 6 de janeiro de 2026",
+   "title": "Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal da Empregada Doméstica.",
+   "kind": "law",
+   "enacted": "2026-01-06",
+   "published": "2026-01-08",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9658",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-04749",
+   "short": "Lei 4749/2026",
+   "title": "Lei nº 4.749, de 3 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9834",
+   "first_law": "lei-2026-04749",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9834/lei-4749.pdf",
+     "sha256": "3e441c4bfde1ae38a7b3ee7487a13ec9030c52b85fcad7aea0f8c5feb89c6b2a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.749, de 03 de junho de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.749, de 3 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04748",
+   "short": "Lei 4748/2026",
+   "title": "Lei nº 4.748, de 3 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9833",
+   "first_law": "lei-2026-04748",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9833/lei-4748.pdf",
+     "sha256": "f35f1a8a7bcffa86fa9f0118b21838c5173b49bd36009dede2aa52e038fa6070",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.748, de 03 de junho de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.748, de 3 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04747",
+   "short": "Lei 4747/2026",
+   "title": "Lei nº 4.747, de 3 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9832",
+   "first_law": "lei-2026-04747",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9832/lei-4747.pdf",
+     "sha256": "267e91de0ec279c941ab81732ca93cbd3141842776b9909362d63abedeba9515",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.747, de 03 de junho de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de junho de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.747, de 3 de junho de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04746",
+   "short": "Lei 4746/2026",
+   "title": "Lei nº 4.746, de 28 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9831",
+   "first_law": "lei-2026-04746",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9831/lei4746.pdf",
+     "sha256": "aed46102beced66f6d23b0c5a23f039e3421849111a5bd2ff3873308fc99e803",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.746, de 28 de maio de 2026 Denomina Pastor Essueiro Moreira de Carvalho a Rua Projetada \"G\" do Conjunto Residencial Tancredo Neves, no bairro Cidade Náutica.\nProjeto de Lei n.º 35/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada Pastor Essueiro Moreira de Carvalho a Rua Projetada \"G\" do Conjunto Residencial Tancredo Neves, no bairro Cidade Náutica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 28 de maio de 2026\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.746, de 28 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04745",
+   "short": "Lei 4745/2026",
+   "title": "Lei nº 4.745, de 19 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9811",
+   "first_law": "lei-2026-04745",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9811/lei4745.pdf",
+     "sha256": "515f4cf36eaaaf47a4ea29ef2da59f21f98a26083e890c8ab3fc45067d217ba2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.745, de 19 de maio de 2026 Revoga dispositivos da Lei nº 4733, de 10 de abril de 2026, que dispõe sobre a Política Municipal de Resíduos Sólidos do Município de São Vicente, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica revogado o parágrafo único do art. 53 da Lei n.º 4733, de 10 de abril de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 19 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.745, de 19 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04744",
+   "short": "Lei 4744/2026",
+   "title": "Lei nº 4.744, de 15 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9794",
+   "first_law": "lei-2026-04744",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9794/lei4744.pdf",
+     "sha256": "1a5600f8b5af962e2735f3a0b2b374f6291034e3c2e1b2a1120910220f68c3ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.744, de 15 de maio de 2026 Autoriza o Poder Executivo Municipal a criar a Política Municipal de Fomento à Empregabilidade de Mães Atípicas e dá outras providências.\nProjeto de Lei n.º 32/26 de autoria do Vereador Benevan Souza KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a instituir a Política Municipal de Fomento à Empregabilidade de Mães Atípicas, com o objetivo de apoiar e favorecer a inserção ou reinserção no mercado de trabalho de mulheres que assumem o cuidado diário e contínuo de filhos com deficiência ou transtornos do neurodesenvolvimento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Política Municipal de Incentivo à Empregabilidade de Mães Atípicas será executada em conformidade com as seguintes diretrizes e objetivos:\nI - promover a capacitação e qualificação profissional das mães atípicas, por meio da oferta de cursos, oficinas e treinamentos;\nII - garantir apoio psicológico e social às mães e suas famílias, assegurando acompanhamento especializado sempre que necessário;\nIII - favorecer a inclusão das mães atípicas no mercado de trabalho, com ênfase em modalidades de trabalho remoto ou flexível;\nIV - respeitar a vocação profissional das mães;\nV - buscar padrões remuneratórios compatíveis com os praticados no mercado de trabalho.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo Municipal poderá celebrar convênios e parcerias com pessoas jurídicas de direito privado para execução das diretrizes e objetivos estabelecidos no art. 2º.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo Municipal poderá oferecer incentivos fiscais às pessoas jurídicas de direito privado que aderirem à política estadual de fomento à empregabilidade de mães atípicas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Poder Executivo expedirá os regulamentos necessários para a fiel execução desta lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. As despesas decorrentes da execução desta lei correrão por conta de dotação orçamentária própria, observadas as disponibilidades financeiras do Município e parcerias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Fica o Poder Executivo autorizado a regulamentar esta lei no que couber.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.744, de 15 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04743",
+   "short": "Lei 4743/2026",
+   "title": "Lei nº 4.743, de 15 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9793",
+   "first_law": "lei-2026-04743",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9793/lei4743.pdf",
+     "sha256": "148d73e33226a0d08d604acf207be0e5b4d15066a671cd1f74571a366caa0561",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.743, de 15 de maio de 2026 Altera dispositivos da Lei nº 270-A, de 22 de agosto de 1994, e alterações, que dispõe sobre a política municipal de atendimento e defesa dos direitos da criança e do adolescente e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passam a ter a seguinte redação os seguintes dispositivos da Lei nº 270-A, de 22 de agosto de 1994: I - Art.\n2º, altera o inciso II, mantidos os demais incisos:\n\"Art. 2º...\nII - iniciativas que envolvam a implantação, a adequação ou a execução de atividades em espaços de convivência destinados ao público infantojuvenil, desde que vinculadas a programas, projetos ou ações com foco na promoção do desenvolvimento integral, da convivência familiar e comunitária e na prevenção de situações de risco e vulnerabilidade social, vedada a utilização de recursos para despesas genéricas de manutenção urbana desvinculadas dessas finalidades;\"\nII - Art. 3º, fica acrescido do §3º, mantidos os demais parágrafos:\n\"Art. 3º...\n§ 3º Recursos do Fundo poderão ser transferidos, com anuência do CMDCA, à execução de convênios celebrados com órgãos da administração municipal, para a promoção de Políticas Públicas que tratam o art. 2° desta Lei.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.743, de 15 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04742",
+   "short": "Lei 4742/2026",
+   "title": "Lei nº 4.742, de 15 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9792",
+   "first_law": "lei-2026-04742",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9792/lei4742.pdf",
+     "sha256": "32c45ca24ee51995fe412b960202e6e29106747083f9adfddbe69a6116f49e10",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.742, de 15 de maio de 2026 Permite o uso do Espaço Público para fins de Implantação de Pista de Pouso de Voo Livre nas modalidades Asa Delta e Parapente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A área de pouso da prática de voo livre, localizada na Av. Manoel da Nóbrega, bairro Itararé, São Vicente - SP, poderá ser utilizada sob o seguinte regramento:\nI - o esporte de voo livre terá exclusividade na área diariamente, no período das 9h às 18h;\nII - as demais práticas esportivas poderão utilizar a área nos demais horários, desde que não sejam prejudiciais às condições de uso e qualidade do campo.\nParágrafo único A exclusividade prevista no inciso I poderá ser suspensa para a realização de campeonatos de outras modalidades esportivas previamente autorizados pela Secretaria de Esportes e Lazer, devendo os clubes autorizados cessar as atividades de voo livre na área durante o período do evento, mediante notificação da Secretaria de Esportes e Lazer, com antecedência mínima de 5 (cinco) dias.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Em caso de utilização da área por atividades previstas no inciso II do art. 1º fora do horário determinado, poderá incidir:\nI - multa no valor de R$ 1.000,00 (mil reais) e, em caso de reincidência, o dobro do último valor aplicado em multa;\nII - apreensão dos equipamentos e itens esportivos utilizados na infração;\nIII - proibição do desenvolvimento de atividades no local.\n§ 1º Denúncias com provas e assinadas por duas testemunhas poderão ser utilizadas para embasar o auto de infração.\n§ 2º Os recursos provenientes das multas serão destinados ao Fundo Pró Esportes.\n§ 3º A Guarda Civil Municipal poderá prestar apoio operacional às ações de fiscalização realizadas pela Secretaria de Esportes e Lazer, inclusive no recolhimento de materiais e equipamentos utilizados em desacordo com os horários estabelecidos nesta Lei.\n§ 4º Os materiais e equipamentos eventualmente apreendidos serão encaminhados à Secretaria de Esportes e Lazer, que ficará responsável por seu armazenamento, controle e demais providências administrativas cabíveis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A utilização da área descrita no art. 1º para a prática de voo livre nas modalidades asa delta e parapente por clubes de voo livre não cadastrados e não autorizados pelo Município sujeitará os infratores à multa no valor de R$ 10.000,00 (dez mil reais), sem prejuízo da apreensão dos equipamentos utilizados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Secretaria de Esportes e Lazer definirá, por meio de ato normativo próprio, os critérios e procedimentos para o cadastro e autorização dos Clubes de Voo Livre que poderão utilizar a área de pouso de que trata esta Lei.\n§ 1º O cadastro e a autorização previstos no caput não dispensam o cumprimento das demais exigências legais aplicáveis, inclusive aquelas relativas ao licenciamento de atividades econômicas previstas na legislação municipal.\n§ 2º As atividades de natureza econômica eventualmente desenvolvidas no local por clubes, escolas, instrutores ou demais entidades relacionadas à prática do voo livre deverão possuir Alvará de Licença e Funcionamento válido, estando sujeitas à fiscalização da Secretaria de Comércio, Indústria e Negócios Portuários - SECINP, nos termos da legislação municipal vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Ficam os clubes de voo livre cadastrados e autorizados pelo Município a utilizar este espaço público destinado à prática de pouso de voo livre nas modalidades asa delta e parapente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Os clubes autorizados ficam obrigados a:\nI - manter a área em condições de uso adequadas após a sua utilização, não podendo alterar a destinação do bem público objeto desta Lei;\nII - observar e fazer observar por seus membros as normas de segurança de voo aplicáveis, expedidas pelos órgãos competentes e entidades desportivas reguladoras;\nIII - manter apólice de seguro de responsabilidade civil vigente, com cobertura para eventuais danos a terceiros decorrentes da atividade de voo livre na área;\nIV - instalar e manter sinalização informativa no local, conforme modelo a ser aprovado pela Secretaria de Esportes e Lazer, indicando os horários de uso exclusivo e as principais regras desta Lei;\nV - coordenar entre si, ou conforme orientação da Secretaria de Esportes e Lazer, o uso da área durante o horário exclusivo, de forma a garantir a segurança e a organização.\n§ 1º O descumprimento das obrigações previstas neste artigo sujeitará o clube autorizado infrator às sanções cabíveis e à revogação da autorização.\n§ 2º Os clubes autorizados observarão também as demais normas vigentes de utilização de áreas municipais, bem como os dispositivos legais referentes à saúde e ao sossego público.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A fiscalização do cumprimento dos horários e das obrigações estabelecidas nesta Lei, bem como a aplicação das sanções de advertência, multa e apreensão de materiais, são de responsabilidade da Secretaria de Esportes e Lazer.\n§ 1º A Guarda Civil Municipal poderá prestar apoio operacional às ações de fiscalização quando solicitada pela Secretaria de Esportes e Lazer.\n§ 2º Compete à Secretaria de Esportes e Lazer a guarda, controle e gestão administrativa dos materiais e equipamentos eventualmente apreendidos em decorrência do descumprimento desta Lei.\n§ 3º As denúncias de descumprimento desta Lei, a serem apuradas pela Secretaria de Esportes e Lazer, deverão conter o máximo de informações possíveis sobre a ocorrência, incluindo, se possível, fotos e vídeos que comprovem a irregularidade.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. A realização de eventos esportivos relacionados ao voo livre na área dependerá de autorização específica prévia da Secretaria de Esportes, que poderá estabelecer condições adicionais.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de maio de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.742, de 15 de maio de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04741",
+   "short": "Lei 4741/2026",
+   "title": "Lei nº 4.741, de 30 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9719",
+   "first_law": "lei-2026-04741",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9719/lei.4741.pdf",
+     "sha256": "09e95137ea0992c86407a495cf40b4fa4bc9912d31010a7525fc8c5e60743ad2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.741, de 30 de abril de 2026 Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal do Esporte Inclusivo.\nProjeto de Lei n.º 28/26 de autoria do Vereador Edivaldo da Autoescola KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Dia Municipal do Esporte Inclusivo, a ser celebrado anualmente no dia 6 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Dia Municipal do Esporte Inclusivo tem por finalidade promover a conscientização sobre a importância do esporte como instrumento de inclusão social, especialmente para pessoas com deficiência, incentivando a prática esportiva acessível e igualitária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá, em parceria com entidades públicas e privadas, promover atividades, campanhas educativas, eventos esportivos e ações de incentivo à inclusão por meio do esporte, durante a referida data.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. As despesas decorrentes desta lei correrão por dotações orçamentárias próprias, podendo ser suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.741, de 30 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01236",
+   "short": "LC 1236/2026",
+   "title": "Lei Complementar nº 1.236, de 29 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9718",
+   "first_law": "lc-2026-01236",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9718/lc1236.pdf",
+     "sha256": "3254796b56844cf1428cc694d7432550b2250da7c38ffbd09f21c6240fe08294",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.236, de 29 de abril de 2026 Altera o Anexo XV da Lei Complementar nº 981/2020 e o art. 1º da Lei Complementar nº 1.143/2024.\nProjeto de Lei Complementar n.º 15/26 de autoria da Mesa da Câmara KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica acrescida à tabela constante do Anexo XV da Lei Complementar n° 981, de 6 de março de 2020, a Função Gratificada FG-D - exclusivamente para o Gestor de Contrato, com valor de R$ 3.967,27 (três mil, novecentos e sessenta e sete reais e vinte e sete centavos).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica acrescido o inciso III ao art. 1º da Lei Complementar nº 1.143, de 16 de fevereiro de 2024, com a seguinte redação:\nArt. 1º ...\nIII - Gestor de Contratos: R$ 3.967,27 (três mil, novecentos e sessenta e sete reais e vinte e sete centavos).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas decorrentes desta Lei Complementar correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 29 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.236, de 29 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04740",
+   "short": "Lei 4740/2026",
+   "title": "Lei nº 4.740, de 17 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9717",
+   "first_law": "lei-2026-04740",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9717/lei4740.pdf",
+     "sha256": "d9575717725e3ea1ab07bdd46e5784e231ea9507e59b72aded3acb3687515ff8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.740, de 17 de abril de 2026 Institui diretrizes para o Programa Municipal Itinerante de Educação para o Trânsito no âmbito do Município de São Vicente e dá outras providências.\nProjeto de Lei n.º 120/25 de autoria do Vereador Fernando Paulino SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam estabelecidas as diretrizes para implementação do Programa Municipal Itinerante de Educação para o Trânsito no Município de São Vicente, com o objetivo de promover a conscientização e educação voltadas à segurança no trânsito, especialmente em comunidades com acesso limitado a informações e campanhas educativas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Constituem diretrizes do programa de que trata esta lei:\nI - priorização do atendimento a comunidades periféricas, áreas rurais e localidades com acesso limitado a campanhas educativas de trânsito;\nII - desenvolvimento de ações educativas mediante palestras, oficinas, simulações, apresentações teatrais, distribuição de materiais informativos, dentre outras ações de caráter educativo;\nIII - promoção do respeito às normas de trânsito e uso adequado de dispositivos de segurança como capacetes, cintos de segurança, assentos apropriados, dentre outros;\nIV - contribuição para a redução de sinistros e vítimas no trânsito, por meio de ações preventivas e educativas;\nV - articulação com instituições de ensino públicas e privadas para ampliar o alcance das ações educativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo poderá estabelecer parcerias e convênios com:\nI - órgãos e entidades do Sistema Nacional de Trânsito e órgãos de segurança pública, tais como Secretaria Nacional de Trânsito - SENATRAN, Departamento Estadual de Trânsito - DETRAN-SP, Guarda Civil Municipal - GCM, Polícia Militar do Estado de São Paulo, Polícia Militar Rodoviária, dentre outros;\nII - instituições de ensino e centros de formação de condutores;\nIII - organizações da sociedade civil;\nIV - empresas privadas e demais entidades interessadas, mediante celebração de convênios, termos de cooperação ou parcerias público-privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Para a execução das ações previstas no Programa Municipal Itinerante de Educação para o Trânsito, poderão ser utilizadas unidades móveis devidamente equipadas para fins educativos, compreendendo:\nI - veículos adaptados com recursos didáticos, equipamentos de multimídia, jogos interativos e materiais instrutivos;\nII - estrutura móvel para realização de palestras, oficinas e dinâmicas educativas;\nIII - equipamentos de simulação de direção, vídeos demonstrativos e demais ferramentas pedagógicas compatíveis com os objetivos do programa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As ações desenvolvidas no âmbito do Programa Municipal Itinerante de Educação para o Trânsito deverão observar:\nI - as diretrizes da Política Nacional de Trânsito;\nII - o Código de Trânsito Brasileiro;\nIII - as normas do Conselho Nacional de Trânsito - CONTRAN;\nIV - O Plano Nacional de Redução de Mortes e Lesões no Trânsito - PNATRANS.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Poder Executivo poderá regulamentar esta Lei, no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. As despesas decorrentes da execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 17 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.740, de 17 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04739",
+   "short": "Lei 4739/2026",
+   "title": "Lei nº 4.739, de 17 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9716",
+   "first_law": "lei-2026-04739",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9716/lei.4739.pdf",
+     "sha256": "08b7979fdb5963ca10024084f4d8cf45f0bcd3a597c14775ce6aa6c6bbed69e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.739, de 17 de abril de 2026 Considera de Utilidade Pública a Associação Amigos do Esporte, Cultura e Lazer.\nProjeto de Lei n.º 9/26 de autoria do Vereador Benevan Souza SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É considerada de Utilidade Pública a Associação Amigos do Esporte, Cultura e Lazer, com sede e foro neste município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 17 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.739, de 17 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04738",
+   "short": "Lei 4738/2026",
+   "title": "Lei nº 4.738, de 16 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9715",
+   "first_law": "lei-2026-04738",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9715/lei.4738.pdf",
+     "sha256": "02b46237e26a6b42939acd11274f23ad8da88816bcdb34c6b54899737323ebea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.738, de 16 de abril de 2026 Institui o Programa Municipal PROCOR - Programa Somos Muitas Cores SV, vincula-o ao Selo Municipal de Escola Antirracista, estabelece mecanismos de avaliação e monitoramento e dá outras providências.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, no âmbito do Município de São Vicente, o PROCOR - Programa Somos Muitas Cores SV, com a finalidade de promover a educação para as relações étnico-raciais, o enfrentamento ao racismo e a valorização da diversidade étnico- cultural na e de Municipal de Ensino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São objetivos do PROCOR:\nI - promover práticas pedagógicas antirracistas e inclusivas;\nII - assegurar a implementação da Educação das Relações Étnico-Raciais - ERER no currículo escolar;\nIII - valorizar a história e a cultura afro-brasileira, africana e indígena;\nIV - fomentar a equidade, o respeito às diferenças e os direitos humanos no ambiente escolar;\nV - prevenir e combater quaisquer formas de discriminação racial nas unidades educacionais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O PROCOR será desenvolvido por meio de ações pedagógicas, formativas e institucionais, incluindo, entre outras:\nI - formação continuada dos profissionais da educação;\nII - desenvolvimento de projetos nas unidades educacionais dentro dos Projetos Políticos Pedagógicos;\nIII - produção e disseminação de materiais didáticos e orientadores;\nIV - realização de ações educativas junto à comunidade escolar;\nV - incentivo a práticas que promovam a equidade racial e o reconhecimento da diversidade cultural.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A coordenação, a execução, o acompanhamento e a avaliação do PROCOR caberão à Secretaria Municipal da Educação, podendo esta instituir grupos de trabalho, comissões, parcerias intersetoriais e demais mecanismos necessários ao cumprimento de seus objetivos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Fica instituído o Selo Municipal de Escola Antirracista, como instrumento oficial de reconhecimento das unidades educacionais da Rede Municipal de Ensino que desenvolverem, de forma contínua e sistematizada, ações e projetos no âmbito do PROCOR.\n§ 1º A participação efetiva no PROCOR constitui requisito indispensável para a habilitação das unidades educacionais ao Selo Municipal de Escola Antirracista.\n§ 2º Os critérios, procedimentos e prazos para concessão do Selo serão definidos em regulamento próprio, observadas as diretrizes do PROCOR e da Educação para as Relações Étnico-Raciais.\n§ 3º O Selo terá caráter educativo, pedagógico e institucional, não gerando vantagens financeiras diretas, salvo se previstas em legislação específica.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A implementação do PROCOR observará a legislação vigente, em especial:\nI - a Constituição Federal;\nII - a Lei Federal nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional, no artigo 26-A;\nIII - as Diretrizes Curriculares Nacionais para a Educação das Relações ÉtnicoRaciais e para o Ensino da História e Cultura Africana e Afro-brasileira - Parecer 003/2004.\nIV - a Resolução CNE/CP nº 1, de 17 de junho de 2004;\nV - o Estatuto da Igualdade Racial - Lei Federal nº 12.288, de 20 de julho de 2010;\nVI - a Portaria nº 470, de 14 de maio de 2024 - MEC/Secadi, que institui o Programa Nacional de Equidade Racial, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola - PNEERQ.\nVII - o Plano Nacional de Implementação das Diretrizes Curriculares Nacionais para Educação para as Relações Étnico-Raciais e História e Cultura Africana e Afro-brasileira. MEC/SECADI - 2013.\nVIII - as Portarias nº 85/2023 e 11/2026 - SEDUC, que institui o Grupo de Trabalho de Estudos para as Relações Étnico-Raciais - GT-ERER;\nIX - as políticas públicas municipais de promoção da igualdade racial e combate ao racismo institucional.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. A execução do PROCOR será objeto da avaliação e monitoramento contínuos, sob a coordenação da Secretaria Municipal da Educação.\n§ 1º A Secretaria Municipal da Educação deverá elaborar relatório anual de avaliação, contendo, no mínimo:\nI - descrição das ações desenvolvidas no âmbito do PROCOR;\nII - número de unidades educacionais participantes;\nIII - indicadores qualitativos e quantitativos de implementação da Educação das Relações Étnico-Raciais;\nIV - resultados alcançados no âmbito do Selo Municipal de Escola Antirracista;\nV - recomendações para o aprimoramento das políticas públicas de educação antirracista.\n§ 2º O relatório anual deverá ser disponibilizado nos canais oficiais do Município, assegurada a transparência das informações.\n§ 3º Para fins de avaliação e monitoramento, a Secretaria Municipal da Educação poderá articular-se com outros órgãos da Administração Pública, conselhos municipais, instituições de ensino superior e entidades da sociedade civil.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 16 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.738, de 16 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04737",
+   "short": "Lei 4737/2026",
+   "title": "Lei nº 4.737, de 13 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9708",
+   "first_law": "lei-2026-04737",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9708/lei4737.pdf",
+     "sha256": "5f9a55b3b149e73885d414ccd7de30c9a472409aabe13e2dc33568eaa1f584ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.737, de 13 de abril de 2026 Proíbe a instalação de plantas e arborização artificial em geral no âmbito do Município de São Vicente e dá outras providências.\nProjeto de Lei n.º 143/25 de autoria do Vereador Jefferson Cezarolli SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica proibida a instalação de plantas e arborização artificial em áreas públicas no Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A proibição prevista no art. 1º abrange:\nI - praças, parques e jardins públicos; e\nII - calçadas, passeios, canteiros e áreas de estacionamento.\nParágrafo único as proibições elencadas no caput não se aplicam a campos de futebol, quadras esportivas e similares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Poder Executivo regulamentará esta lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.737, de 13 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04736",
+   "short": "Lei 4736/2026",
+   "title": "Lei nº 4.736, de 13 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9707",
+   "first_law": "lei-2026-04736",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9707/lei4736.pdf",
+     "sha256": "086b00428be9f5b8407c694f61d79fe73057325bb4d9b3a41b8acc12a2a92a20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.736, de 13 de abril de 2026 Altera o(a) Lei Ordinária nº 4.303, de 19 de julho de 2022 Altera dispositivos da Lei nº 4303, de 19 de julho de 2022, que dispõe sobre critérios para entrada, circulação e estacionamento de veículos de turismo e excursão e outros eventos, originários de outros Municípios, e adota providências correlatas.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O art. 2º da Lei nº 4303, de 19 de julho de 2022, passa a vigorar acrescido do seguinte parágrafo único: \"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º ...\nParágrafo único . Aplicam-se igualmente as disposições desta Lei aos veículos com capacidade superior a 8 (oito) lugares, quando destinados ao transporte de pessoas que venham ao Município exclusivamente para visitar parentes residentes em São Vicente, sendo obrigatória a prévia autorização junto ao órgão competente e o pagamento da taxa correspondente.\"\nArt. 2º. O caput do art. 4º da Lei nº 4303, de 19 de julho de 2022, passa a vigorar com a seguinte redação, mantidos os incisos:\n\"Art. 4º Para ingresso e permanência no Município, a pessoa física ou jurídica deverá requerer mediante preenchimento de formulário eletrônico disponibilizado pelo órgão responsável, no prazo de 5 (cinco) dias úteis de antecedência, a emissão de autorização no qual deverão ser enviados os seguintes dados:\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O parágrafo único do art. 4º da Lei nº 4303, de 19 de julho de 2022, passa a ser §1º, acrescido dos §2º e §3º, com a seguinte redação:\n\"Art. 4º ...\n§ 1º A autorização será indeferida no caso de ausência dos dados referidos no artigo anterior.\n§2º O pedido apresentado fora do prazo estabelecido poderá, em caráter excepcional, ser analisado e autorizado diretamente pelo Secretário Municipal responsável pela área de turismo, mediante justificativa formal do interessado.\n§3º - Poderá ser concedida autorização temporária às empresas de atuação comprovada no turismo receptivo estabelecidas na Região Metropolitana da Baixada Santista, para cadastramento de até 03 (três) veículos, conforme as modalidades previstas nesta Lei, com validade de até 90 (noventa) dias, prorrogável por mais 30 (trinta) dias , mediante justificativa e a critério da Secretaria Municipal de Turismo.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O caput e os §§ 1º e 2º do art. 6º da Lei nº 4303, de 19 de julho de 2022, passam a vigorar com a seguinte redação, acrescido do §3º:\n\"Art. 6º Para os efeitos desta Lei serão cobrados os seguintes valores: R$ 1.200,00 (um mil e duzentos reais) para vans;\nR$ 1.500,00 (um mil e quinhentos reais) para micro-ônibus; R$ 2.000,00 (dois mil reais) para ônibus, por emissão de autorização.\n§ 1º Os valores previstos neste artigo serão reajustados bienalmente pelo poder Executivo, com base na variação acumulada do Índice Nacional de Preços ao Consumidor -INPC.\n§ 2º Os valores arrecadados decorrentes das autorizações expedidas serão destinados exclusivamente ao Fundo Especial de Apoio e Investimento para o Turismo -FATUR do Município.\n§ 3º Em caso de cancelamento da viagem ou excursão, a taxa paga não será devolvida, podendo o interessado solicitar a transferência da autorização para nova data, respeitando o prazo e as condições estabelecidas pelo órgão competente.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O art. 7º da Lei nº 4303, de 19 de julho de 2022, passa a vigorar com a seguinte redação:\n\"Art. 7º O pagamento da taxa prevista deverá ser realizado exclusivamente via PIX, e o comprovante de pagamento deverá ser encaminhado ao endereço de correio eletrônico informado no formulário, para que a autorização seja validada pelo órgão competente da Administração Municipal.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O parágrafo único do art. 12 da Lei nº 4303, de 19 de julho de 2022, passa a ser §1º, acrescido do § 2º:\n\"Art. 12 ...\n§ 1º Para a circulação de roteiros, tours, passeios ou congêneres é necessária a contratação de Agência de Turismo Receptiva cadastrada no CADASTUR e/ou guia de turismo local, cadastrado no CADASTUR e credenciado no Município. § 2º Após o desembarque, os veículos deverão obrigatoriamente retornar ao estacionamento discriminado na autorização, sendo proibido o estacionamento em local diferente do indicado, até o momento do retorno à sua origem, não sendo permitida a livre circulação de veículos sem a devida autorização em todo o Município de São Vicente.\"\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. O caput e os incisos I, II, III e IV do art. 13 da Lei nº 4303, de 19 de julho de 2022, passam a vigorar com a seguinte redação, mantido o seu parágrafo único:\n\" Art. 13 Estão isentos das taxas previstas no art. 6º os seguintes casos:\nI - excursões para participações em eventos públicos, desde que previamente informada a realização com data e local, via ofício para Secretaria de Municipal de Turismo.\nII - vans daqueles que comprovarem cadastro imobiliário predial no Município, permitido o estacionamento, embarque e desembarque nos locais previamente autorizados.\nIII - instituições de ensino públicas para fins de turismo educacional.\nIV - utilização de meios de hospedagem no Município, cadastrados no CADASTUR, obrigatoriamente com pernoite no número total de passageiros referente aos dias de solicitação da autorização.\nParágrafo único. Os veículos que apresentarem autorização para entrada e circulação em qualquer um dos demais Municípios da Região Metropolitana da Baixada Santista, emitidos pelo Selo Metropolitano que manifestarem interesse em transitar por São Vicente terão isenção de taxa desde que atendam quaisquer dos itens previstos no art.\n13. \"\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O caput e os incisos I, II e III do art. 14 da Lei nº 4303 de 19 de julho de 2022 passam a vigorar com a seguinte redação, acrescido do parágrafo único:\n\"Art. 14. Serão concedidos descontos de até 50% (cinquenta por cento) não cumulativos, somente sob os valores previstos no art. 6º, nos seguintes casos:\nI - utilização de restaurantes, cafeterias, bares e similares cadastrados no CADASTUR, obrigatoriamente com anexação na nota fiscal do CPF ou CNPJ da empresa da reserva paga antecipadamente no número total de passageiros, permitido o estacionamento, embarque e desembarque nos locais previamente autorizados.\nII - utilização de marinas e empreendimentos de Apoio ao Turismo Náutico cadastrados no CADASTUR, obrigatoriamente com reserva do número total de passageiros, permitido o estacionamento, embarque e desembarque nos locais previamente autorizados.\nIII - contratação de Agência de Turismo Receptivo registrada no Município ou na Região Metropolitana da Baixada Santista e de guia de turismo local devidamente credenciado, conforme regulamentação do órgão competente.\nParágrafo único. Compete à Secretaria Municipal de Turismo, a seu critério, solicitar quaisquer documentos adicionais necessários à comprovação do serviço utilizado para obtenção de desconto ou à motivação da viagem, podendo indeferir a emissão da autorização caso sejam identificadas informações inconsistentes ou insuficientes prestadas pelo solicitante.\"\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.736, de 13 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04735",
+   "short": "Lei 4735/2026",
+   "title": "Lei nº 4.735, de 13 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9706",
+   "first_law": "lei-2026-04735",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9706/lei4735.pdf",
+     "sha256": "a74d8c4adbfa554b9abf7ad58953aa26b7c18965e58e1908289cf901a0712307",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.735, de 13 de abril de 2026 Altera o(a) Lei Ordinária nº 4.555, de 14 de junho de 2024 Altera o art. 7º da Lei nº 4.555/24, que instituiu a Governança Multi-Institucional do Plano São Vicente 500 anos.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O parágrafo único do art. 7º da Lei nº 4.555, de 14 de junho de 2024, passa a ser o § 1º, acrescidos a este artigo os §§ 2º e 3º, incisos I, II e III, com a seguinte redação:\n\"Art. 7º\n§ 1º Os recursos deste Fundo serão utilizados exclusivamente para financiar o planejamento, a formulação, a implementação, o monitoramento, a avaliação e a divulgação do Plano São Vicente 500 anos e seus projetos estratégicos.\n§ 2º O Fundo poderá financiar programas e iniciativas de gestão pública municipal, voltados ao aprimoramento institucional, à qualificação da governança, à transformação digital, à melhoria de processos e ao fortalecimento da capacidade administrativa do Município;\n§ 3º Os recursos do Fundo poderão, ainda, ser utilizados para ações:\nI - de reconhecimento e valorização de servidores públicos municipais, especialmente aquelas voltadas à promoção da inovação, modernização administrativa e melhoria da eficiência no setor público;\nII - premiação em pecúnia a servidores premiados no Programa Inova.São.Vicente,.regulamentado.pela.Lei.nº.4555/2024;\nIII - atividades de residência em gestão pública.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.735, de 13 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04734",
+   "short": "Lei 4734/2026",
+   "title": "Lei nº 4.734, de 13 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9705",
+   "first_law": "lei-2026-04734",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9705/lei4734.pdf",
+     "sha256": "3b09d1ca03f91cf13ac256a0dfde56601e7ea8ecc5fcfe338147f0364744dbfa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.734, de 13 de abril de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.734, de 13 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01233",
+   "short": "LC 1233/2026",
+   "title": "Lei Complementar nº 1.233, de 13 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9703",
+   "first_law": "lc-2026-01233",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9703/lc1233.pdf",
+     "sha256": "57d890389bf1aaf2f5eda99c662bd0c769b280721110c1f4da7f021b9d10bbb6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.233, de 13 de abril de 2026 Dispõe sobre a alteração da fonte de custeio das despesas administrativas do Instituto de Previdência dos Servidores Municipais de São Vicente - IPRESV.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O caput do artigo 5º, da Lei Complementar nº 1.124, de 1º de setembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 5º O Plano Financeiro será formado para atender exclusivamente às despesas previdenciárias do RPPSSV com os servidores ativos e inativos e pensionistas da primeira massa, de que tratam as alíneas \"a\" e \"b\", do inciso I, do art. 3º desta Lei Complementar.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O caput do artigo 6º, da Lei Complementar nº 1.124, de 1º de setembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 6º O Plano Previdenciário será formado para atender às despesas previdenciárias dos servidores referidos no inciso II do art. 3º desta Lei Complementar, bem como às despesas administrativas do IPRESV.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O artigo 7º, da Lei Complementar nº 1.124, de 1º de setembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 7º Todos os direitos acumulados em razão da primeira massa de segurados, compreendendo o fundo de oscilação de risco, créditos de contribuições previdenciárias, compensação previdenciária, créditos de acordos de parcelamentos, aportes e outras receitas serão destinados exclusivamente para pagamento dos benefícios da massa vinculada ao Plano Financeiro.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O artigo 8º, da Lei Complementar nº 1.124, de 1º de setembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 8º Fica vedada qualquer espécie de transferência de segurados, recursos ou obrigações entre o Plano Financeiro e o Plano Previdenciário, bem como a previsão ou destinação de recursos de um Plano para o financiamento dos benefícios.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O caput do artigo 13, da Lei Complementar nº 1.124, de 1º de setembro de 2023, passa a vigorar com a seguinte redação:\n\"Art. 13. As despesas administrativas do IPRESV serão suportadas integralmente pelo Plano Previdenciário - Fundo em Capitalização de que trata o inciso II, do art. 4º, desta Lei Complementar.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial o inciso VII, do parágrafo único, do artigo 5º, da Lei Complementar nº 1.124, de 1º de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.233, de 13 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01232",
+   "short": "LC 1232/2026",
+   "title": "Lei Complementar nº 1.232, de 10 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9702",
+   "first_law": "lc-2026-01232",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9702/lc-1232.pdf",
+     "sha256": "7c7cb5ff51aa0d02b101174557d555f1fd30bf5487a1248a0c42bdc8da93aefa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.232, de 10 de abril de 2026 Vide Lei Complementar nº 1.177, de 11 de dezembro de 2024 Institui o Programa Municipal de Fiscalização Colaborativa de Resíduos Sólidos no Município de São Vicente, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DO PROGRAMA MUNICIPAL DE FISCALIZAÇÃO COLABORATIVA DE RESÍDUOS SÓLIDOS\nArt. 1º. Fica instituído, no Município de São Vicente, o Programa Municipal de Fiscalização Colaborativa de Resíduos Sólidos, destinado a incentivar a participação da população na identificação e comunicação ao Poder Público de infrações relacionadas ao descarte irregular de resíduos sólidos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Programa tem por objetivos:\nI - ampliar a eficiência da fiscalização ambiental e urbana;\nII - incentivar a participação cidadã na preservação do meio ambiente;\nIII - prevenir e combater o descarte irregular de resíduos sólidos;\nIV - promover a educação ambiental e o controle social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DAS DENÚNCIAS\nArt. 3º. Qualquer pessoa poderá comunicar ao Poder Público a ocorrência de infrações relacionadas ao descarte irregular de resíduos sólidos no território do Município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A denúncia deverá conter, sempre que possível, elementos mínimos que permitam a identificação da infração, tais como:\nI - registro fotográfico ou audiovisual do fato;\nII - indicação do local da ocorrência;\nIII - data e horário aproximado;\nIV - identificação do veículo, do responsável ou de qualquer outro elemento que contribua para a apuração.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Será admitida denúncia anônima para fins de fiscalização, hipótese em que não haverá direito ao recebimento da recompensa.\nParágrafo único A denúncia anônima poderá subsidiar ações fiscalizatórias, mas não ensejará qualquer direito subjetivo ao denunciante.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO III DA APURAÇÃO\nArt. 6º. A denúncia será analisada pela autoridade competente, podendo subsidiar a apuração administrativa e a aplicação das penalidades cabíveis, observado o devido processo legal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DA RECOMPENSA\nArt. 7º. O denunciante identificado fará jus ao recebimento de recompensa, desde que cumulativamente:\nI - a denúncia resulte em autuação válida;\nII - a penalidade seja definitivamente constituída;\nIII - haja o efetivo recolhimento da multa.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. A recompensa corresponderá a 20% (vinte por cento) do valor efetivamente arrecadado da multa aplicada ao infrator.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. O pagamento da recompensa não gera qualquer vínculo jurídico de qualquer natureza com a Administração Pública.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O pagamento da recompensa será realizado após o efetivo ingresso da receita nos cofres públicos, no prazo e forma definidos em regulamento.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Para fins de recebimento da recompensa, o denunciante deverá:\nI - estar devidamente identificado;\nII - possuir cadastro junto ao Município;\nIII - atender aos requisitos estabelecidos em regulamento.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO V DA PROTEÇÃO DE DADOS\nArt. 12. Os dados pessoais do denunciante serão mantidos sob sigilo pelo Poder Público, sendo utilizados exclusivamente para:\nI - apuração da denúncia;\nII - eventual pagamento da recompensa;\nIII - responsabilização em caso de denúncia de má-fé.\nParágrafo único O tratamento dos dados pessoais observará as disposições da Lei nº 13709/18 - Lei Geral de Proteção de Dados Pessoais (LGPD).\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO VI DA RESPONSABILIZAÇÃO POR MÁ-FÉ\nArt. 13. O denunciante que agir de má-fé, apresentando denúncia falsa ou fraudulenta, ficará sujeito a:\nI - à perda do direito à recompensa;\nII - à aplicação de multa de até 50% (cinquenta por cento) do valor da infração indevidamente denunciada, tomando-se como referência as penalidades previstas no Código de Posturas do Município de São Vicente - Lei Complementar nº 1177/24;\nIII - à responsabilização civil, administrativa e penal cabível.\nParágrafo único Considera-se má-fé a apresentação de denúncia sabidamente falsa ou com o objetivo de prejudicar terceiros.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO VII DISPOSIÇÕES FINAIS\nArt. 14. O Poder Executivo regulamentará esta Lei Complementar, dispondo especialmente sobre:\nI - os canais oficiais de denúncia;\nII - os procedimentos de apuração das infrações;\nIII - os mecanismos de proteção e sigilo da identidade do denunciante;\nIV - a forma de pagamento da recompensa;\nV - a integração com sistemas de videomonitoramento urbano.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 10 de abril de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.232, de 10 de abril de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04732",
+   "short": "Lei 4732/2026",
+   "title": "Lei nº 4.732, de 30 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9697",
+   "first_law": "lei-2026-04732",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9697/lei4732.pdf",
+     "sha256": "1b196c2a2c3b030719c71e619e2c4bc57fb6d7f2bc45048c39900c4a2568dae1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.732, de 30 de março de 2026 Institui o Conselho Municipal de Mobilidade Urbana - CMMU, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído o Conselho Municipal de Mobilidade Urbana - CMMU, órgão consultivo e deliberativo, vinculado à Secretaria Municipal de Mobilidade Urbana - SEMOB, com o objetivo de promover o planejamento, a execução e o acompanhamento das políticas públicas de mobilidade urbana no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. São atribuições e competências do Conselho Municipal de Mobilidade Urbana:\nI - propor diretrizes para o planejamento, a execução e a avaliação de políticas públicas de mobilidade urbana no Município;\nII - acompanhar e avaliar a implementação de planos e projetos relacionados à mobilidade urbana, garantindo a observância das diretrizes estabelecidas;\nIII - promover o diálogo entre o Poder Público, a sociedade civil e os diversos segmentos sociais sobre temas relacionados à mobilidade urbana;\nIV - emitir pareceres e recomendações sobre projetos, propostas e intervenções que impactem a mobilidade urbana;\nV - zelar pela acessibilidade e pela inclusão de pessoas com deficiência nas políticas públicas de mobilidade urbana;\nVI - estimular ações que promovam o uso de modais de transporte alternativos e sustentáveis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Conselho Municipal de Mobilidade Urbana será composto por representantes titulares dos seguintes órgãos e segmentos:\nI - 2 (dois) representantes da Secretaria Municipal de Mobilidade Urbana - SEMOB;\nII - 1 (um) representante da Secretaria Municipal de Planejamento e Governança - SEPLAG;\nIII - 1 (um) representante da Secretaria Municipal de Meio Ambiente - SEMAM;\nIV - 1 (um) representante da Secretaria Municipal de Desenvolvimento Urbano - SEDURB;\n§ 1º Poderão ser convidados a participar do Conselho, com direito a voz e voto, representantes dos seguintes segmentos da sociedade civil:\nI - 1 (um) representante dos ciclistas;\nII - 1 (um) representante dos motoristas de transporte público individual;\nIII - 1 (um) representante dos usuários de transporte público coletivo, sendo uma pessoa com deficiência;\nIV - 1 (um) representante das vans escolares;\nV - 1 (um) representante do segmento acadêmico.\n§ 2º Todos os membros do Conselho serão titulares, nomeados pelo Prefeito Municipal, com mandato de 2 (dois) anos, permitida uma única recondução.\n§ 3º O Conselho Municipal de Mobilidade Urbana terá uma Diretoria Executiva eleita com mandato de 02 (dois) anos, permitida a recondução, sendo assim constituída:\nI - Presidente;\nII - Vice-Presidente;\nIII - 1º Secretário(a);\nIV - 2º Secretário(a).\n§ 4º As funções de membros do Conselho não serão remuneradas, sendo consideradas de relevante interesse público.\n§ 5º As entidades representantes da Sociedade Civil e do Poder Público poderão, a qualquer tempo, realizar a substituição dos respectivos representantes através de comunicação formal, por escrito, direcionada à Presidência do Conselho, que deverá encaminhar o nome indicado para nomeação por ato da Administração Municipal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Conselho Municipal de Mobilidade Urbana reunir-se-á:\nI - ordinariamente, uma vez por trimestre;\nII - extraordinariamente, mediante convocação do Presidente ou de, no mínimo, 1/3 (um terço) de seus membros.\n§ 1º As deliberações do Conselho serão registradas em atas e publicadas no Boletim Oficial do Município.\n§ 2º O quórum para as reuniões será de maioria simples, e as decisões serão tomadas por maioria dos presentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Conselho Municipal de Mobilidade Urbana elaborará o seu Regimento Interno em 90 (noventa) dias, a contar da data de sua instalação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.732, de 30 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01230",
+   "short": "LC 1230/2026",
+   "title": "Lei Complementar nº 1.230, de 30 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9696",
+   "first_law": "lc-2026-01230",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9696/lc1230.pdf",
+     "sha256": "10044ddcf4330b67163d4e2f5e9a3e3a08eaca0bd3e6499901795eac1f67e771",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.230, de 30 de março de 2026 Altera dispositivos da Lei Complementar nº 1.077, de 11 de novembro de 2022, que autoriza a criação do Programa Emergencial de Auxílio Desemprego no Município de São Vicente, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a vigorar com a seguinte redação o artigo 1º e seu § 1º da Lei Complementar nº 1.077, de 11 de novembro de 2022:\n\"Art. 1º Fica o Executivo autorizado a criação do Programa Emergencial de Auxílio - Desemprego, de caráter assistencial, a ser coordenado pela Secretaria de Serviços Públicos, objetivando proporcionar ocupação, qualificação profissional e renda para cidadãos, conforme disponibilidade orçamentária, para todas as idades, inclusive os jovens de 18 (dezoito) a 25 (vinte e cinco) anos, integrantes de parte da população desempregada residente no Município de São Vicente.\n§1º Serão criadas vagas para Supervisores, responsáveis pela gestão dos trabalhos dos Coordenadores, conforme disponibilidade orçamentária, cujos bolsistas serão escolhidos por meio de seleção simples, observando as mesmas condições dispostas no artigo 3º.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.230, de 30 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04731",
+   "short": "Lei 4731/2026",
+   "title": "Lei nº 4.731, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9692",
+   "first_law": "lei-2026-04731",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9692/lei4731.pdf",
+     "sha256": "9d68d5c2a929285e929b554858b7436f2733304f52e1e9f5160bb8ea678e57ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.731, de 27 de março de 2026 Acrescenta, altera e revoga dispositivos da Lei nº 4615, de 17 de dezembro de 2024, que dispõe sobre a prestação do Serviço de Transporte Público Individual de Passageiros por Táxi e institui o Serviço de Táxi Acessível no Município de São Vicente e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Passa a ter a seguinte redação o art. 18 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 18 - Os pontos de estacionamento serão de duas categorias:\nI - livres;\nII - eventuais.\n§ 1º Os Pontos Livres destinam-se à utilização por qualquer Táxi licenciado no Município, observada a quantidade de vagas fixadas em Portaria da Secretaria de Mobilidade Urbana - SEMOB.\n§ 2º Os Pontos Eventuais destinam-se, especialmente, a atender uma demanda eventual: Shows, Feiras e outros eventos esporádicos, cuja utilização poderá ser realizada por qualquer Táxi licenciado no Município, observada a quantidade de vagas fixadas em Portaria da Secretaria de Mobilidade Urbana - SEMOB.\n§ 3º A partir da publicação desta Lei, todos os pontos de estacionamento de táxi passam a ser da categoria Livre.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica acrescida a alínea 'g\" ao inciso 'I', do art. 23 da Lei nº 4615, de 17 de dezembro de 2024:\n\"Art. 23 ...\nI. De Expediente, referente a:\na) ...\nb) ...\nc) ...\nd) ...\ne) ...\nf) ...\ng ) Expedição de Alvará de Estacionamento de Nova Outorga de Táxi, após classificação em Edital de Chamamento, no valor de R$ 15.000,00 (quinze mil reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial os parágrafos únicos dos artigos. 7º e 14; o art. 20; o inciso \"x\" do art. 22; e a alínea \"g\" do inciso \"VIII\" do art. 26, da Lei nº 4615, de 17 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.731, de 27 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04730",
+   "short": "Lei 4730/2026",
+   "title": "Lei nº 4.730, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9691",
+   "first_law": "lei-2026-04730",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9691/lei4730.pdf",
+     "sha256": "d0166ec373ea9c5dfd86626d3c556d3386108bc8b4f5f73adef5b4cd65966c32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.730, de 27 de março de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.730, de 27 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04729",
+   "short": "Lei 4729/2026",
+   "title": "Lei nº 4.729, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9690",
+   "first_law": "lei-2026-04729",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9690/lei4729.pdf",
+     "sha256": "d174ca3e7e6a8e4e68cb69f634aee6b3ec1c5d28e37b762029e4eec2f3af71c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.729, de 27 de março de 2026 Dispõe sobre a obrigatoriedade de disponibilização de cadeiras de rodas pelas farmácias e drogarias do Município de São Vicente para uso dos seus clientes e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. As farmácias e drogarias do Município de São Vicente ficam obrigadas a disponibilizar duas cadeiras de rodas para uso de seus clientes, sendo uma de porte padrão (mediano) e uma de porte reforçado (obeso), durante a prestação de serviços farmacêuticos e no ato de compra de medicamentos e insumos.\nParágrafo único A obrigatoriedade prevista no caput abrange o deslocamento do cliente desde o estacionamento da farmácia ou drogaria até o interior do estabelecimento, bem como o retorno ao veículo, sempre que necessário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As farmácias e drogarias terão o prazo de 90 (noventa) dias para se adequarem às exigências desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O descumprimento desta Lei sujeitará o estabelecimento às seguintes penalidades:\nI - multa no valor de R$ 5.000,00 (cinco mil reais) na primeira autuação;\nII - multa no valor de R$ 10.000,00 (dez mil reais) em caso de reincidência;\nIII - suspensão do alvará de funcionamento no caso de nova autuação após reincidência, sem prejuízo da cobrança das multas anteriormente aplicadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.729, de 27 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04728",
+   "short": "Lei 4728/2026",
+   "title": "Lei nº 4.728, de 26 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9683",
+   "first_law": "lei-2026-04728",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9683/lei4728.pdf",
+     "sha256": "75e85ac518f13fcf3438da846dfe0cf995720131844268c4712f52f73b9f2089",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.728, de 26 de março de 2026 Autoriza o sepultamento de cães e gatos junto a seus tutores.\nProjeto de Lei nº 08/26 de autoria do Vereador Edivaldo da Autoescola.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica autorizado, no município de São Vicente, o sepultamento de cães e gatos em campas e jazigos cujas concessões pertençam às famílias de seus tutores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As disposições e regras para o sepultamento deverão ser regulamentadas pelo Poder Executivo.\nParágrafo único As despesas com o sepultamento de que trata esta Lei serão de responsabilidade da família do concessionário da campa ou jazigo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os cemitérios pertencentes a entidades particulares poderão, respeitadas as regulamentações legais, estabelecer regramento próprio para o sepultamento de cães gatos em campas e jazigos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo regulamentará esta lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.728, de 26 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04727",
+   "short": "Lei 4727/2026",
+   "title": "Lei nº 4.727, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9677",
+   "first_law": "lei-2026-04727",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9677/lei4727.pdf",
+     "sha256": "aeaa754de8a488fd83ffa00bae382cd219a2047496c26a915f9ea3ff6104e97e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.727, de 12 de março de 2026 Dispõe sobre inclusão de elemento de despesa na Lei Orçamentária Anual para o exercício de 2026 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Ficam incluídos, na Lei Orçamentária Anual para o exercício de 2026, os seguintes elementos de despesa:\nI - 3.3.50.43.00 - Subvenções Sociais;\nII - 3.1.91.13.00 - Obrigações Patronais - Intra OFSS.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os elementos de despesa incluídos pelo art. 1º desta Lei integrarão os seguintes programas e ações do orçamento vigente:\nI - Programa 0024 - Atenção às Urgências e Emergências no SUS, Ação 2166 - Rede de Urgência e Emergência;\nII - Programa 0019 - Promoção da Cidade e Estímulo Turístico, Ação 2012 - Obrigações Patronais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As classificações orçamentárias correspondentes aos elementos incluídos são as seguintes:\nI - 02.18.01.10.302.0024.2166.3.3.50.43.00.01.310.0000;\nII - 02.14.01.10.331.0019.2012.3.1.91.13.00.01.110.0000.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Os recursos necessários para a inclusão dos elementos de despesa previstos nesta Lei decorrerão da anulação parcial de dotações orçamentárias, até o limite de R$ 800.000,00 (oitocentos mil reais), conforme segue:\nI - 02.14.01.10.331.0019.2012.3.1.90.13.00.01.110.0000 - R$ 50.000,00;\nII - 02.10.01.28.846.0033.0003.3.3.90.91.00.01.110.0000 - R$ 750.000,00.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.727, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04726",
+   "short": "Lei 4726/2026",
+   "title": "Lei nº 4.726, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9676",
+   "first_law": "lei-2026-04726",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9676/lei4726.pdf",
+     "sha256": "85cc842c9a27a94aab7f737a05b729cba0cd5247cc4102fdc81d07b5c82e54a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.726, de 12 de março de 2026 Autoriza o Poder Executivo a permitir o uso de área localizada na Travessa do Parque nº 888, pelo Instituto Canto do Rio, no período que especifica.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a permitir o uso de área localizada na Travessa do Parque nº 888, pelo prazo de 10 (dez) anos, pelo Instituto Canto do Rio, onde mantém sua sede provisória, obedecidas às normas sanitárias aplicáveis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica estabelecido, como contrapartida pela permissão de uso de área mencionada no art. 1º desta Lei, o ensino gratuito de modalidades esportivas à comunidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.726, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01225",
+   "short": "LC 1225/2026",
+   "title": "Lei Complementar nº 1.225, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9675",
+   "first_law": "lc-2026-01225",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9675/lc1225.pdf",
+     "sha256": "4358f311876e195231b2a78ac7f1e54124088cf87bc434c611ef8920d3009763",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.225, de 12 de março de 2026 Altera normas do Estatuto dos Servidores Públicos do Município de São Vicente, que dispõem sobre férias e sobre o acúmulo constitucional de cargos públicos.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 178, da Lei nº 1.780, de 06 de junho de 1978, passa a vigorar com as seguintes alterações:\n\"Art. 178 ...\n§ 1º Não haverá restrição do direito de férias a servidor licenciado na forma dos arts. 191 a 198 desta Lei.\n§ 2º É vedado descontar faltas justificadas ou abonadas do período de férias a que o servidor tiver direito.\n§ 3º As faltas injustificadas acarretarão a perda dos dias correspondentes do período de férias do respectivo exercício.\"\n(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Revogam-se as disposições em contrário, em especial o parágrafo único, do artigo 173, da Lei nº 1.780, de 06 de junho de 1978.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.225, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01224",
+   "short": "LC 1224/2026",
+   "title": "Lei Complementar nº 1.224, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9674",
+   "first_law": "lc-2026-01224",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9674/lc1224.pdf",
+     "sha256": "fd0fb47a1e4a0605a51537e9441ddc1823adc065497eaa9c2b9f92ca56bedf43",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.224, de 12 de março de 2026 Altera a Lei Complementar nº 1.192, de 15 de abril de 2025, que reorganiza a carreira de Assistente -Técnico de Gestão e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 13, da Lei Complementar nº 1.192, de 15 de abril de 2025, passa a vigorar acrescido do seguinte parágrafo 3º:\n\"Art. 13 ...\n...\n§ 3º Os servidores oriundos do extinto cargo de Técnico de Compras, aproveitados na forma deste artigo, poderão optar pelo desempenho preferencial das atribuições relativas à licitação, gestão e fiscalização de contratos previstas na Lei Federal nº 14.133, de 1º de abril de 2021.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.224, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01223",
+   "short": "LC 1223/2026",
+   "title": "Lei Complementar nº 1.223, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9673",
+   "first_law": "lc-2026-01223",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9673/lc1223.pdf",
+     "sha256": "6e289726fc4d773e8c898c73dfd76e2da610a8aaa16ffc020859b88f054e7bd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.223, de 12 de março de 2026 Altera a Lei Complementar nº 1.021, de 5 de fevereiro de 2021, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º, da Lei Complementar nº 1021, de 5 de fevereiro de 2021, passa a vigorar com as seguintes alterações:\n\"Art. 2º ...\n...\nII - assistência a situações de emergência em saúde pública decorrentes de epidemias ou pandemias, quando reconhecidas, na forma da lei, pelas autoridades sanitárias municipal, regionais ou nacional, que demandem elevação temporária do efetivo de servidores da saúde até a normalização da demanda extraordinária de acessos à Rede Municipal de Saúde;\n...\nVI - quando o concurso público promovido para o provimento de cargos efetivos restar deserto ou fracassado, e desde que, concomitantemente a essa situação fática:\na) seja promovida a abertura de novo certame para supri-las em definitivo, com previsão de encerramento do contrato temporário tão logo os novos servidores tomem posse;\nb) não se trate de carreira permanente e típica de Estado, assim consideradas aquelas relacionadas à Administração Tributária, à Procuradoria do Município, à segurança pública e à Administração do Estado;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Revogam-se as disposições em contrário, em especial os incisos III, IV e V, e os §§ 1º e 2º, todos do artigo 2º, da Lei Complementar nº 1021, de 5 de fevereiro de 2021.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.223, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01222",
+   "short": "LC 1222/2026",
+   "title": "Lei Complementar nº 1.222, de 12 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9672",
+   "first_law": "lc-2026-01222",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9672/lc1222.pdf",
+     "sha256": "788988588442697f0a5473cab4d43f59086e21a895bd9c2bfbb7d45e4ce96523",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar nº 1.222, de 12 de março de 2026 Dispõe sobre a reorganização parcial da Secretaria de Cultura, institui a Diretoria de Gestão da Encenação da Vila de São Vicente, e dá outras providências.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 37, da Lei Complementar nº 1.065, de 23 de setembro de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 37 ...\n...\nIII - coordenar, planejar, organizar, produzir e executar a Encenação da Fundação da Vila de São Vicente, de caráter anual, bem como demais ações que visem à preservação, valorização e difusão do patrimônio histórico-cultural da cidade;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O artigo 38, da Lei Complementar nº 1.065, de 23 de setembro de 2022, passa a vigorar com as seguintes alterações e acréscimos:\n\"Art. 38 ...\n...\nII-A - Diretoria de Gestão da Encenação da Vila de São Vicente -ENCENA-SV;\n...\nIV - Diretoria de Pesquisa e Formação Cultural - DIPEF;\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Fica transferido, sem aumento de despesa, 1 (um) cargo de Diretor, ref. \"M\", da Secretaria de Governo - SEGOV para a Secretaria de Cultura - SECULT.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Revogam-se as disposições em contrário, em especial:\nI - os incisos XXXIII e XXXIV, do artigo 6º, da Lei Complementar nº 984, de 13 de março de 2020;\nII - o inciso X-A, do artigo 8º, da Lei Complementar nº 1.065, de 23 de setembro de 2022;\nIII - o artigo 1º, da Lei Complementar nº 1.208, de 24 setembro de 2025;\nIV - o caput, do artigo 221, da Lei nº 1.780, de 06 de junho de 1978.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 12 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.222, de 12 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04725",
+   "short": "Lei 4725/2026",
+   "title": "Lei nº 4.725, de 10 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9671",
+   "first_law": "lei-2026-04725",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9671/lei.4725.pdf",
+     "sha256": "db4b7ada42e7399d43050daf7afb1e16424ca7944d50f6daaa2bd5f5ac9fc518",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.725, de 10 de março de 2026 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 10 de março de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.725, de 10 de março de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04724",
+   "short": "Lei 4724/2026",
+   "title": "Lei nº 4.724, de 26 de fevereiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9668",
+   "first_law": "lei-2026-04724",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9668/lei.4724.pdf",
+     "sha256": "9190adaa05986cc86aacbd881a455e736e2a2fe8a2e1a5113803557feacfe3a7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.724, de 26 de fevereiro de 2026 Denomina Sônia Maria de Oliveira a Via de Acesso 01, conhecida como Rua Mecanizada 0309, no bairro Parque Bitaru.\nProjeto de Lei nº 165/25 de autoria do Vereador Dercinho Negão do Caminhão.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada Sônia Maria de Oliveira a Via de Acesso 01, conhecida como Rua Mecanizada 0309, localizada no Conjunto Habitacional Bitaru II, no bairro Parque Bitaru.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de fevereiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.724, de 26 de fevereiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04723",
+   "short": "Lei 4723/2026",
+   "title": "Lei nº 4.723, de 26 de fevereiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9667",
+   "first_law": "lei-2026-04723",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9667/lei.4723.pdf",
+     "sha256": "e3c8d4f6a574e0395d80eefcd69a08b5fac3cbc3db189d88bdf15bcda667294d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.723, de 26 de fevereiro de 2026 Denomina Evan Terra a Via de Acesso 06, conhecida como Rua Mecanizada 0310, no bairro Parque Bitaru.\nProjeto de Lei nº 167/25 de autoria do Vereador Dercinho Negão do Caminhão.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeita do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada Evan Terra a Via de Acesso 06, conhecida como Rua Mecanizada 0310, localizada no Conjunto Habitacional Bitaru II, no bairro Parque Bitaru.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de fevereiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.723, de 26 de fevereiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04722",
+   "short": "Lei 4722/2026",
+   "title": "Lei nº 4.722, de 26 de fevereiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9666",
+   "first_law": "lei-2026-04722",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9666/lei.4722.pdf",
+     "sha256": "f1b33c96228140e3a6f3e82618b2c1cb8c322c8eb426ddec207a3a12367dbeb6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.722, de 26 de fevereiro de 2026 Denomina Paulo dos Santos Paixão a Via de Acesso 02, conhecida como Rua Mecanizada 0308, no bairro Parque Bitaru.\nProjeto de Lei n.º 166/25 de autoria do Vereador Dercinho Negão do Caminhão SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada Paulo dos Santos Paixão a Via de Acesso 02, conhecida como Rua Mecanizada 0308, localizada no Conjunto Habitacional Bitaru II, no bairro Parque Bitaru.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de fevereiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.722, de 26 de fevereiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04721",
+   "short": "Lei 4721/2026",
+   "title": "Lei nº 4.721, de 24 de fevereiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9665",
+   "first_law": "lei-2026-04721",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9665/lei.4721.pdf",
+     "sha256": "b71ba0d19fafac5a51866c73585bfa066387e71d7d8ece99bd61923d57fcc034",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.721, de 24 de fevereiro de 2026 Considera de Utilidade Pública a Associação Cabe No Meu Pé.\nProjeto de Lei n.º 162/25 de autoria do Vereador Adilson da Farmácia.\nSANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeita do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É considerada de Utilidade Pública a Associação Cabe No Meu Pé, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 24 de fevereiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.721, de 24 de fevereiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04720",
+   "short": "Lei 4720/2026",
+   "title": "Lei nº 4.720, de 13 de fevereiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9664",
+   "first_law": "lei-2026-04720",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9664/lei4720.pdf",
+     "sha256": "342454ad3cacceb44063d7c667e943b4c3fc54942a91f45230f93c3040d4a453",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.720, de 13 de fevereiro de 2026 Considera de Utilidade Pública o Instituto Transformando Vidas Maranata.\nProjeto de Lei n.º 157/25 de autoria do Vereador Tiago Peretto KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. É considerado de Utilidade Pública o Instituto Transformando Vidas Maranata, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de fevereiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.720, de 13 de fevereiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04719",
+   "short": "Lei 4719/2026",
+   "title": "Lei nº 4.719, de 13 de janeiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9660",
+   "first_law": "lei-2026-04719",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9660/lei4719.pdf",
+     "sha256": "c7088df291c84da266bd95d79a6372553b080e75ca426a050810c1088d274d45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.719, de 13 de janeiro de 2026 Dispõe sobre a proibição, no âmbito de São Vicente, da promoção, exibição, produção, patrocínio ou divulgação de conteúdo que sexualize crianças, estabelece sanções administrativas e dá outras providências.\nProjeto de Lei n.º 87/25 de autoria do Vereador Rodrigo Digão KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica proibida, no âmbito do Município de São Vicente, por pessoas físicas ou jurídicas com sede, filial, atuação ou licenciamento no município, a promoção, exibição, produção, patrocínio ou divulgação, em qualquer meio, físico ou digital, de conteúdo que sexualize ou adultize crianças.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para fins desta lei, considera-se:\nI - criança: pessoa até doze anos de idade incompletos;\nII - sexualização: toda representação, encenação ou exposição de criança com conotação erótica ou sexual, real ou simulada;\nIII - adultização: indução de crianças a comportamentos, vestimentas, coreografias ou falas de cunho sexual, sem finalidade pedagógica ou protetiva.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O descumprimento desta lei sujeitará o infrator à multa de até R$ 100.000,00 (cem mil reais), além de suspensão ou cassação do alvará de funcionamento, sem prejuízo de outras sanções previstas em lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A fiscalização caberá aos órgãos competentes da Prefeitura, que deverão comunicar imediatamente o Conselho Tutelar e o Ministério Público quando houver indícios de crime.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O valor arrecadado com as multas será destinado integralmente ao Fundo Municipal dos Direitos da Criança e do Adolescente - FMDCA.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O Poder Executivo regulamentará esta lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de janeiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.719, de 13 de janeiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04718",
+   "short": "Lei 4718/2026",
+   "title": "Lei nº 4.718, de 6 de janeiro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9658",
+   "first_law": "lei-2026-04718",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9658/lei4718.pdf",
+     "sha256": "1d4392e0f43e37bfcb68bf4d09f041ffb4142666b40cc760a0fdc8776852f7fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Ordinária nº 4.718, de 06 de janeiro de 2026 Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal da Empregada Doméstica.\nProjeto de Lei n.º 139/25 de autoria do Vereador Adilson da Farmácia KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Dia Municipal da Empregada Doméstica, a ser celebrado anualmente em 27 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A data de que trata esta lei tem por objetivo homenagear e valorizar a categoria das empregadas domésticas, reconhecendo sua importância para a sociedade vicentina.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Câmara Municipal de São Vicente poderá, em sessão solene a ser realizada no dia 27 de abril de cada ano, prestar homenagens às empregadas domésticas e às profissionais da área que se destacarem por sua dedicação e profissionalismo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de janeiro de 2026.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.718, de 6 de janeiro de 2026; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}

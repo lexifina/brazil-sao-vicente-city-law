@@ -10,7 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `lei-organica/` | Lei Orgânica do Município de São Vicente (1990) and every amendment the Câmara's SAPL records | one per period of vigência (3) |
-| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (36) |
+| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (75) |
 
 **The Lei Orgânica with its history.** The Câmara's SAPL keeps the Lei Orgânica as a structured text with a view of the text in force for each period between amendments, so each amendment is a commit on the day its period starts, credited to the Emenda à Lei Orgânica that gave it.
 
