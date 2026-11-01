@@ -1,0 +1,1359 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "27 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-04609": {
+   "label": "Lei nº 4.609, de 11 de dezembro de 2024",
+   "title": "Institui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença.",
+   "kind": "law",
+   "enacted": "2024-12-11",
+   "published": "2024-12-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9099",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2024-01176": {
+   "label": "Lei Complementar nº 1.176, de 11 de dezembro de 2024",
+   "title": "Altera dispositivos da Lei nº 1745/77 - Código Tributário do Município, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-11",
+   "published": "2024-12-11",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9105",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2024-01174": {
+   "label": "Lei Complementar nº 1.174, de 11 de dezembro de 2024",
+   "title": "Altera dispositivos da Lei Complementar n° 34, de 19 de abril de 1993",
+   "kind": "law",
+   "enacted": "2024-12-11",
+   "published": "2024-12-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9103",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04602": {
+   "label": "Lei nº 4.602, de 10 de dezembro de 2024",
+   "title": "Autoriza o Poder Executivo a celebrar Convênio com a Fundação de apoio à universidade Federal de São Paulo - FAPUNIFESP e a Universidade Federal de São Paulo - UNIFESP, para a finalidade que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-10",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9092",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04607": {
+   "label": "Lei nº 4.607, de 9 de dezembro de 2024",
+   "title": "Abre crédito adicional suplementar no valor de R$ 1.150.000,00 ( um milhão e cento e cinquenta mil reais), a dotação do orçamento vigente do legislativo municipal, é dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-09",
+   "published": "2024-12-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9098",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04605": {
+   "label": "Lei nº 4.605, de 9 de dezembro de 2024",
+   "title": "Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia do Educador Social e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-09",
+   "published": "2024-12-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9096",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04603": {
+   "label": "Lei nº 4.603, de 9 de dezembro de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-12-09",
+   "published": "2024-12-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9094",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04601": {
+   "label": "Lei nº 4.601, de 27 de novembro de 2024",
+   "title": "Considera de Utilidade Pública a ONG ALTAR DE RUA",
+   "kind": "law",
+   "enacted": "2024-11-27",
+   "published": "2024-12-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9085",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04598": {
+   "label": "Lei nº 4.598, de 27 de novembro de 2024",
+   "title": "Autoriza o Poder Executivo a aderir ao Programa de Acompanhamento e Transparência Fiscal e ao Plano de Promoção do Equilíbrio Fiscal de que tratam a Lei Complementar Federal n.º 178, de 13 de janeiro de 2021.",
+   "kind": "law",
+   "enacted": "2024-11-27",
+   "published": "2024-12-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9082",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04596": {
+   "label": "Lei nº 4.596, de 14 de novembro de 2024",
+   "title": "Cria o título de \"Protetor Independente de Animais\" e reconhece como de interesse público primário o trabalho realizado pelos protetores no Município de São Vicente",
+   "kind": "law",
+   "enacted": "2024-11-14",
+   "published": "2024-11-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9077",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04594": {
+   "label": "Lei nº 4.594, de 14 de novembro de 2024",
+   "title": "Dispõe sobre a criação da Política Municipal de Apoio e Incentivo à Mulher no Esporte e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-11-14",
+   "published": "2024-11-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9075",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04593": {
+   "label": "Lei nº 4.593, de 14 de novembro de 2024",
+   "title": "Institui a Campanha Idosos Órfãos de Filhos Vivos, de conscientização e combate ao abandono de idosos no Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-11-14",
+   "published": "2024-11-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9074",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04597": {
+   "label": "Lei nº 4.597, de 13 de novembro de 2024",
+   "title": "Acrescenta o inciso XIV ao § 1º do art. 2º da Lei n.º 2686-A, de 22 de julho de 2011, que dispõe sobre a prática de maus-tratos contra animais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-11-13",
+   "published": "2024-11-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9079",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04590": {
+   "label": "Lei nº 4.590, de 11 de novembro de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-11-11",
+   "published": "2024-11-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9068",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04588": {
+   "label": "Lei nº 4.588, de 31 de outubro de 2024",
+   "title": "Altera a Lei Municipal n° 4.339, de 27 de outubro de 2022, que dispõe sobre o Sistema de Estágios no âmbito da Administração Direta do Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-10-31",
+   "published": "2024-11-05",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9064",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04587": {
+   "label": "Lei nº 4.587, de 21 de outubro de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-10-21",
+   "published": "2024-10-24",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9055",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04586": {
+   "label": "Lei nº 4.586, de 18 de outubro de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-10-18",
+   "published": "2024-10-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9048",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04584": {
+   "label": "Lei nº 4.584, de 30 de setembro de 2024",
+   "title": "Institui e inclui no Calendário Oficial de Datas e Eventos do Município a Festa do Peixe.",
+   "kind": "law",
+   "enacted": "2024-09-30",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8787",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04582": {
+   "label": "Lei nº 4.582, de 30 de setembro de 2024",
+   "title": "Denomina Praça Tia Regina Aparecida Silva Nascimento a praça localizada entre a Rua Nova Rio de Janeiro e a Rua Campo Belo, no bairro Vila Ponte Nova.",
+   "kind": "law",
+   "enacted": "2024-09-30",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8785",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04581": {
+   "label": "Lei nº 4.581, de 30 de setembro de 2024",
+   "title": "Estabelece que a empresa concessionária de distribuição de energia elétrica deve determinar e sinalizar de forma eficaz o perímetro de segurança acerca de energização de fiação elétrica em casos de catástrofes naturais no Munícipio de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-09-30",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8784",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04580": {
+   "label": "Lei nº 4.580, de 30 de setembro de 2024",
+   "title": "Denomina Cátia Fraga Kigar a Rua D, localizada entre as ruas Matheus Ferreira Amado e Antonio da Costa, no bairro Cidade Náutica.",
+   "kind": "law",
+   "enacted": "2024-09-30",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8783",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04579": {
+   "label": "Lei nº 4.579, de 30 de setembro de 2024",
+   "title": "Denomina Frei Guilherme a Rua \"L\", Mecanizada 3023, no bairro Jardim Irmã Dolores.",
+   "kind": "law",
+   "enacted": "2024-09-30",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8782",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04576": {
+   "label": "Lei nº 4.576, de 26 de setembro de 2024",
+   "title": "Autoriza o Poder Executivo Municipal a celebrar convênio com o Governo do Estado de São Paulo, através da Secretaria de Segurança Pública - SSP, tendo por objeto a transferência de recursos financeiros para a execução de ações no âmbito da Guarda Civil Municipal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-09-26",
+   "published": "2024-10-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8781",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04578": {
+   "label": "Lei nº 4.578, de 24 de setembro de 2024",
+   "title": "Altera o art. 1º da Lei nº 4474, de 19 de outubro de 2023, que institui o Casamento Civil Comunitário no Município de São Vicente, estabelece a celebração de convênio e parceria para a sua realização e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-09-24",
+   "published": "2024-09-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8779",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04577": {
+   "label": "Lei nº 4.577, de 24 de setembro de 2024",
+   "title": "Denomina Etevaldo Almeida Pereira a quadra de esportes localizada na Praça Maria Lydia Henrique Ramos, no bairro Samaritá.",
+   "kind": "law",
+   "enacted": "2024-09-24",
+   "published": "2024-09-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8778",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04575": {
+   "label": "Lei nº 4.575, de 9 de setembro de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-09-09",
+   "published": "2024-09-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8777",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04574": {
+   "label": "Lei nº 4.574, de 8 de agosto de 2024",
+   "title": "Denomina Salvador da Conceição o campo de futebol localizado na Rua Archimedes Bava S/N, no cruzamento da Avenida Antônio Bueno Capolupo, no bairro Gleba II.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-13",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8745",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-04609",
+   "short": "Lei 4609/2024",
+   "title": "Lei nº 4.609, de 11 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9099",
+   "first_law": "lei-2024-04609",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9099/l4609.pdf",
+     "sha256": "cbdf23ac5608b0efb2975cc693cdb58ed3ca02bdf0cf578729d8b5108b17ffbb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4609 Projeto de Lei n.º 197/24 de autoria do Vereador Benevan Souza Institui no Calendário Oficial de Datas e Eventos do Município o Dia Municipal de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença.\nProc. n.º 3551009.401.00042224/2024-13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Dia Municipal de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença, a ser celebrado no dia 22 de agosto, em alusão ao Dia Internacional de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Municipal de Homenagem às Vítimas de Atos de Violência Baseada na Religião ou Crença não será considerado feriado civil.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No mês de agosto, serão encorajadas ações visando promover campanhas, atividades e atos públicos que condenem comportamentos de intolerância e de terrorismo contra indivíduos que pertencem a diferentes grupos religiosos ou minorias, através de medidas educativas e divulgação de memórias de violações de direitos realizados por força da intolerância, dentre outras medidas pertinentes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 11 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.609, de 11 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01176",
+   "short": "LC 1176/2024",
+   "title": "Lei Complementar nº 1.176, de 11 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9105",
+   "first_law": "lc-2024-01176",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9105/lc1176.pdf",
+     "sha256": "5f48e90f07d0171d0ffb683d4d6d8e5c8fdf33d2faaf91eb0fa3e39328e5d1cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1176 Altera dispositivos da Lei n.º 1745/77 - Código Tributário do Município, e dá outras providências.\nProc. n.º 00042808/2024-81 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a vigorar com a seguinte redação os incisos I, II e III do § 12 do art. 250 da Lei n.º 1745, de 29 de setembro de 1977 - Código Tributário do Município:\n\"Art. 250... §12...\nI - quiosques de praia ........................................................R$ 8.069,31\nII - revogado III - revogado\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Acrescenta o inciso IV no § 1º do art. 326 da Lei n.º 1745, de 29 de setembro de 1977 - Código Tributário do Município, com a seguinte redação:\n\"Art.326... § 1º...\nIV - nos quiosques de praia, pela realização do serviço de coleta e remoção do lixo o permissionário pagará taxa anual correspondente a R$ 729,24 em até 12 (doze) parcelas mensais.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 11 de dezembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.176, de 11 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01174",
+   "short": "LC 1174/2024",
+   "title": "Lei Complementar nº 1.174, de 11 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9103",
+   "first_law": "lc-2024-01174",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9103/lc1174.pdf",
+     "sha256": "e4dd45522c830ae8ecaeb80dd88beda12265582c146eb8af50bfc333fbdc2582",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1174 Altera dispositivos da Lei Complementar n.º 34, de 19 de abril de 1993.\nProc. n.º 3551009.401.00041323/2024-70 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a vigorar com a seguinte redação o art. 1º da Lei Complementar n.º 34, de 19 de abril de 1993:\n\"Art. 1º Fica assegurada a redução de 15% (quinze por cento) do Imposto Predial aos proprietários, titulares de domínio útil ou possuidores a qualquer título, de imóveis situados nos trechos das vias públicas onde são realizadas feiras-livres e nos trechos de pontas de feiras-livres, desde que, nestes casos, ocorra a obstrução do acesso de veículos ou pessoas nos mesmos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Passa a vigorar com a seguinte redação o art. 2º da Lei Complementar n.º 34, de 19 de abril de 1993:\n\"Art. 2º Para gozar da redução a que se refere o artigo anterior, o interessado deverá comprovar documentalmente que o imóvel encontra-se ocupado e solicitar anualmente a partir do mês de fevereiro até o último dia útil do mês de julho do ano imediatamente anterior ao do favor fiscal pretendido, mediante requerimento assinado pelo proprietário titular de domínio útil ou possuidor a qualquer título.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 11 de dezembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.174, de 11 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04602",
+   "short": "Lei 4602/2024",
+   "title": "Lei nº 4.602, de 10 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9092",
+   "first_law": "lei-2024-04602",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9092/l4602.pdf",
+     "sha256": "f3cb5086d41ddbd9a4b1affc87828025664454a2c3a0f0a29d310ddc09e1da99",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4602 Autoriza o Poder Executivo a celebrar Convênio com a Fundação de apoio à universidade Federal de São Paulo - FAPUNIFESP e a Universidade Federal de São Paulo - UNIFESP, para a finalidade que especifica, e dá outras providências.\nProc. n.º 00033451/2024-40 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art 1º",
+       "kind": "article",
+       "text": "Art 1º Fica o Poder Executivo autorizado a celebrar Convênio e Termos Aditivos com a Fundação de Apoio à Universidade Federal de São Paulo - FAPUNIFESP e a Universidade Federal de São Paulo - UNIFESP, visando à execução do Plano de Trabalho devidamente aprovado pela Secretaria da Saúde, nos termos do Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º As despesas com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 10 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.602, de 10 de dezembro de 2024; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04607",
+   "short": "Lei 4607/2024",
+   "title": "Lei nº 4.607, de 9 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9098",
+   "first_law": "lei-2024-04607",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9098/l4607.pdf",
+     "sha256": "5d2b641c064524a0238085325ef4413966750555052bebd1e969c9c2f0689ee0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4607 Projeto de Lei n.º 236/24 de autoria da Mesa.\nAbre Crédito Adicional Suplementar no valor de R$ 1.150.000,00 (um milhão e cento e cinquenta mil reais), à Dotação do Orçamento vigente do Legislativo Municipal, e dá outras providências.\nProc. n.º 3551009.401.00043082/2024-01.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto na Contabilidade da Câmara Municipal de São Vicente, um Crédito Adicional Suplementar de R$ 1.150.000,00 (um milhão e cento e cinquenta mil reais), suplementar à dotação do orçamento vigente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Crédito Adicional aberto pelo artigo 1º desta Lei suplementará as seguintes dotações:\nÓRGÃO - 01 CÂMARA MUNICIPAL 01.01 - LEGISLATIVA 01.031.0035.2092 - Manutenção do Expediente da Câmara Municipal 3.1.90.92.00 - Despesas de Exercícios Anteriores......................R$ 950.000,00 ÓRGÃO - 01 CÂMARA MUNICIPAL 01.01 - LEGISLATIVA 01.031.0035.2092 - Manutenção do Expediente da Câmara Municipal 3.3.90.37.00 - Locação de Mão de Obra......................R$ 200.000,00\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O recurso para atender a abertura de crédito adicional suplementar, de que trata o art. 1º, é proveniente da anulação parcial das seguintes dotações orçamentárias, nos termos do inciso III do § 1° do art. 43 da Lei Federal n° 4.320, de 17 de março de 1964:\nÓRGÃO - 01 CÂMARA MUNICIPAL 01.01 - LEGISLATIVA 01.031.0035.2092 - Manutenção do Expediente da Câmara Municipal 3.1.90.11.00 - Vencimentos e Vantagens Fixas Pessoal Civil......................R$ 950.000,00 ÓRGÃO - 01 CÂMARA MUNICIPAL 01.01 - LEGISLATIVA 01.031.0035.2092 - Manutenção do Expediente da Câmara Municipal 3.3.90.30.00 - Material de Consumo......................R$ 200.000,00\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 9 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.607, de 9 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04605",
+   "short": "Lei 4605/2024",
+   "title": "Lei nº 4.605, de 9 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9096",
+   "first_law": "lei-2024-04605",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9096/l4605.pdf",
+     "sha256": "7cc850b3de17a043d79f5dc48e5e9dde9d319bce130de4734d400865dc32989a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4605 Projeto de Lei n.º 188/24 de autoria do Vereador Dercinho Negão do caminhão Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia do Educador Social e dá outras providências.\nProc. n.º 3551009.401.00041056/2024-31 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Educador Social, a ser celebrado anualmente no dia 19 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia do Educador Social passará a integrar o Calendário Oficial de Datas e Eventos do Município de São Vicente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Nesta data, o Poder Público Municipal, em parceria com instituições educacionais, sociais e organizações da sociedade civil, poderá promover eventos, palestras, workshops e outras atividades que valorizem e reconheçam a importância do Educador Social no Município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 9 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.605, de 9 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04603",
+   "short": "Lei 4603/2024",
+   "title": "Lei nº 4.603, de 9 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9094",
+   "first_law": "lei-2024-04603",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9094/l4603.pdf",
+     "sha256": "f5cfd3cfa6ed548e62f976ea869a934f2086537899296a86766ec054a5dc1c83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4603 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 00037714/2024-90 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 9 de dezembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.603, de 9 de dezembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04601",
+   "short": "Lei 4601/2024",
+   "title": "Lei nº 4.601, de 27 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9085",
+   "first_law": "lei-2024-04601",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9085/l4601.pdf",
+     "sha256": "4bcf0ffbdc8a5631e2bfd812524c54a54893052c326cec5243d852b8983694a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4601 Projeto de Lei n.º 145/24 de autoria do Vereador Tiago Peretto Considerada de utilidade pública a ONG ALTAR DE RUA.\nProc. n.º 3551009.401.00039589/2024-52 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de utilidade pública a ONG ALTAR DE RUA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.601, de 27 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04598",
+   "short": "Lei 4598/2024",
+   "title": "Lei nº 4.598, de 27 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9082",
+   "first_law": "lei-2024-04598",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9082/l4598.pdf",
+     "sha256": "963528ea97389593765517ab5a709f0f281f09719b6e4984479f2241c4715042",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4598 Autoriza o Poder Executivo a aderir ao Programa de Acompanhamento e Transparência Fiscal e ao Plano de Promoção do Equilíbrio Fiscal de que tratam a Lei Complementar Federal n.º 178, de 13 de janeiro de 2021.\nProc. n.º 00035120/2024-44 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a aderir ao Programa de Acompanhamento e Transparência Fiscal de que trata o art. 1º da Lei Complementar Federal n.º 178, de 13 de janeiro de 2021. Art.\n2º Fica o Poder Executivo autorizado a aderir ao Plano de Promoção do Equilíbrio Fiscal - PEF de que trata o art. 3º da Lei Complementar Federal n.º 178/21.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.598, de 27 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04596",
+   "short": "Lei 4596/2024",
+   "title": "Lei nº 4.596, de 14 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9077",
+   "first_law": "lei-2024-04596",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9077/l4596.pdf",
+     "sha256": "f8b8ed3520065ada7a717d40c227aaf267cb11e944539aa006de107136635fa8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4596 Projeto de Lei n.º 99/24 de autoria do Vereador Dr. Palmieri Cria o título de \"Protetor Independente de Animais\" e reconhece como de interesse público primário o trabalho realizado pelos protetores no Município de São Vicente.\nProc. n.º 00036898/2024-71 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o título de \"Protetor Independente de Animais\", a ser atribuído às pessoas que voluntariamente prestam assistência a animais abandonados, necessitados de socorro ou em situação de perigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É de interesse público primário o trabalho realizado pelos \"Protetores Independente de Animais\" no Município de São Vicente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São consideradas iniciativas favoráveis à obtenção do título a realização permanente de ações, campanhas, projetos, atividades e trabalhos de fomento à adoção, castração, vacinação, acolhimento e bons tratos aos animais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A indicação do título poderá ser feita por pessoa comum, entidades e outros, que devem requerê-lo ao órgão competente designado pelo Poder Executivo, ao qual caberá avaliar as iniciativas e deferir, ou não, a atribuição ao candidato.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O título de que trata esta Lei possui validade de dois anos, podendo ser renovado por iguais períodos, desde que seu proprietário mantenha as iniciativas que geraram a certificação anterior ou desenvolva novas iniciativas para a causa animal.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para execução desta Lei, o Poder Público poderá realizar parceria com a iniciativa privada e colaboradores, bem como fazer uso de doações e emendas.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.596, de 14 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04594",
+   "short": "Lei 4594/2024",
+   "title": "Lei nº 4.594, de 14 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9075",
+   "first_law": "lei-2024-04594",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9075/l4594.pdf",
+     "sha256": "0949bb57f0b58da2ce7e2bfd0833e5fcbee452b1f0aa11b3e9c9a3f426a0f496",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4594 Projeto de Lei n.º 71/24 de autoria do Vereador Dercinho Negão do Caminhão Dispõe sobre a criação da Política Municipal de Apoio e Incentivo à Mulher no Esporte e dá outras providências.\nProc. n.º 00036884/2024-57 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Municipal de Apoio e Incentivo à Mulher no Esporte, com o objetivo de promover a igualdade de gênero, a valorização e a inserção da mulher em todas as modalidades esportivas, bem como estimular a prática esportiva feminina no Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Municipal de Apoio e Incentivo à Mulher no Esporte compreenderá um conjunto de ações integradas, visando:\nI - promover a equidade de gênero no acesso às práticas esportivas em São Vicente;\nII - estimular a participação das mulheres em todas as modalidades esportivas, incentivando desde a base até o alto rendimento;\nIII - criar programas de formação e capacitação de técnicas, árbitras e gestoras esportivas, visando aumentar a presença feminina nos diferentes âmbitos do esporte;\nIV - incentivar a realização de eventos esportivos voltados exclusivamente para mulheres, tais como campeonatos, torneios e competições;\nV - fomentar a criação de espaços esportivos inclusivos e seguros para as mulheres, com instalações adequadas e acessíveis;\nVI - estabelecer parcerias com instituições públicas e privadas para o desenvolvimento de projetos e programas que promovam a participação feminina no esporte;\nVII - implementar políticas de incentivo fiscal para empresas que apoiem financeiramente projetos esportivos voltados para mulheres;\nVIII - garantir a divulgação e promoção das conquistas e feitos das mulheres no esporte local, reconhecendo e valorizando suas trajetórias e resultados;\nIX - criar mecanismos de monitoramento e avaliação da eficácia das ações implementadas, visando ao aprimoramento contínuo da política.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos desta Lei, o Poder Executivo poderá celebrar convênios, acordos, parcerias e contratos com entidades públicas e privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.594, de 14 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04593",
+   "short": "Lei 4593/2024",
+   "title": "Lei nº 4.593, de 14 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9074",
+   "first_law": "lei-2024-04593",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9074/l4593.pdf",
+     "sha256": "5c05278d39c5fb8e5098595306ac3dc612ab72756084feae0b654a42e8f44962",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4593 Projeto de Lei n.º 163/24 de autoria do Vereador Alfredo Moura Institui a Campanha Idosos Órfãos de Filhos Vivos, de conscientização e combate ao abandono de idosos no Município de São Vicente.\nProc. n.º 00036916/2024-14 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, passando a integrar o Calendário Oficial de Datas e Eventos do Município, a Campanha Idosos Órfãos de Filhos Vivos, de conscientização e combate ao abandono de idosos, a ser realizada anualmente no mês de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Durante a campanha de que trata esta Lei, serão realizadas atividades e mobilizações direcionadas à conscientização sobre o abandono de idosos, com foco no combate a essa problemática, destacando-se a importância da proteção, bem como do cuidado aos idosos dentro do ambiente familiar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Por meio de colaboração serão implementadas iniciativas em conformidade com os preceitos do Estatuto do Idoso, de maneira articulada com os Poderes Executivo, Legislativo e Judiciário, assim como em estreita cooperação com organizações e instituições do movimento social e órgãos governamentais.\nParágrafo único. Essa abordagem tem como finalidade fortalecer o engajamento na conscientização sobre o abandono de idosos, abrangendo uma variedade de ações, entre outras medidas:\nI - realização de eventos;\nII - promoção de palestras e atividades educativas, nos núcleos de convivência de idosos;\nIII - veiculação de campanhas na mídia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.593, de 14 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04597",
+   "short": "Lei 4597/2024",
+   "title": "Lei nº 4.597, de 13 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9079",
+   "first_law": "lei-2024-04597",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9079/l4597.pdf",
+     "sha256": "4e54d934d232b028397236ccd9e52527b7cd80fdc70d8c1f2f6f5c43ad23ff94",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4597 Projeto de Lei n.º 78/24 de autoria do Vereador Dr. Palmieri Acrescenta o inciso XIII ao § 1º do art. 2º da Lei n.º 2686-A, de 22 de julho de 2011, que dispõe sobre a prática de maus-tratos contra animais e dá outras providências.\nProc. n.º 38903/2011 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescentado o inciso XIII ao § 1º do art. 2º da Lei Municipal n.º 2686-A, de 22 de julho de 2011, que dispõe sobre a prática de maus-tratos contra animais e dá outras providências, com a seguinte redação:\n\"Art. 2º - ...\n§ 1º - …\nXIII - impedimento, por qualquer meio, do fornecimento de alimentação, água ou assistência médico-veterinária aos animais comunitários ou que estejam em situação de rua.\"\n(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.597, de 13 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04590",
+   "short": "Lei 4590/2024",
+   "title": "Lei nº 4.590, de 11 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9068",
+   "first_law": "lei-2024-04590",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9068/l4590.pdf",
+     "sha256": "9f2e6b48358d1edcb7714dad659f6aafe3faa6e8fe3e0a37928de852ea4fee87",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4590 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente. Proc.\nn.º 35912/2024-19 SANDRA CONTI, Vice-Prefeita no exercício do cargo de Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 11 de novembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.590, de 11 de novembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04588",
+   "short": "Lei 4588/2024",
+   "title": "Lei nº 4.588, de 31 de outubro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9064",
+   "first_law": "lei-2024-04588",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9064/l4588.pdf",
+     "sha256": "17c305b273eec83ef2ec5305dfba6be4743c424edcb697674af75789d385380c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4588 Altera a Lei Municipal n.º 4.339, de 27 de outubro de 2022, que dispõe sobre o Sistema de Estágios no âmbito da Administração Direta do Município de São Vicente. Proc. 12732/93 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O caput do artigo 6º da Lei Municipal n.º 4.339, de 27 de outubro de 2022, passa a vigorar com a seguinte redação, mantido seu parágrafo único:\n\"Art. 6º A Administração poderá oportunizar a realização de estágios obrigatórios, não suscetíveis de remuneração com as bolsas-auxílio instituídas no art. 5º, § 1º, desta Lei, nas áreas de saúde, assistência social, educação, cultura, esportes, gestão, meio ambiente, e de tecnologia da informação e comunicação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 31 de outubro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.588, de 31 de outubro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04587",
+   "short": "Lei 4587/2024",
+   "title": "Lei nº 4.587, de 21 de outubro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9055",
+   "first_law": "lei-2024-04587",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9055/l4587.pdf",
+     "sha256": "08198a0f16ef153afa63a58b471ab1715324e69d2d1eaa8739e87243ffd56aee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4587 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 3551009.401.00034732/2024-10 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 21 de outubro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.587, de 21 de outubro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04586",
+   "short": "Lei 4586/2024",
+   "title": "Lei nº 4.586, de 18 de outubro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9048",
+   "first_law": "lei-2024-04586",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9048/l4586.pdf",
+     "sha256": "950277ff992353b9b76d1c88f385e893d42956d822e0ba084a727a1673bb124e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4586 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 3551009.401.00030219/2024-50 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de outubro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.586, de 18 de outubro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04584",
+   "short": "Lei 4584/2024",
+   "title": "Lei nº 4.584, de 30 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8787",
+   "first_law": "lei-2024-04584",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8787/l4584.pdf",
+     "sha256": "81280550e778414704d4fc06024bf251196c1e3231efee3f61acdb9f975c9d6d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4584 Projeto de Lei n.º 150/24 de autoria do Vereador Higor Ferreira Institui e inclui no Calendário Oficial de Datas e Eventos do Município a Festa do Peixe.\nProc. n.º 3551009.401.00030487/2024-71 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, passando a integrar o Calendário Oficial de Datas e Eventos do Município, a Festa do Peixe, a ser celebrada anualmente no primeiro final de semana de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.584, de 30 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04582",
+   "short": "Lei 4582/2024",
+   "title": "Lei nº 4.582, de 30 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8785",
+   "first_law": "lei-2024-04582",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8785/l4582.pdf",
+     "sha256": "9d0c10144245d5395116ba4402880f811037c41941a35b2fbc1ca136bb7c9f77",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4582 Projeto de Lei n.º 48/24 de autoria do Vereador Dercinho Negão do Caminhão Denomina Praça Tia Regina Aparecida Silva Nascimento, Mecanizada 0294, localizada entre a Rua Nova Rio de Janeiro e a Rua Campo Belo, no bairro Vila Ponte Nova.\nProc. n.º 3551009.401.00030497/2024-15 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Praça Tia Regina Aparecida Silva Nascimento, Mecanizada 0294, localizada entre a Rua Nova Rio de Janeiro e a Rua Campo Belo, no bairro Vila Ponte Nova, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.582, de 30 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04581",
+   "short": "Lei 4581/2024",
+   "title": "Lei nº 4.581, de 30 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8784",
+   "first_law": "lei-2024-04581",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8784/l4581.pdf",
+     "sha256": "9dcc5c9346efdbc625f7118bd7887781a0fd58373e744c5d0a308ac248a1ebf5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4581 Projeto de Lei n.º 124/24 de autoria do Vereador Benevan Souza Estabelece que a empresa concessionária de distribuição de energia elétrica deve determinar e sinalizar de forma eficaz o perímetro de segurança acerca de energização de fiação elétrica em casos de catástrofes naturais no Município de São Vicente e dá outras providências.\nProc. n.º 3551009.401.00030496/2024-62 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estabelecido que a empresa concessionária de distribuição de energia elétrica deve determinar e sinalizar de forma eficaz o perímetro de segurança acerca de energização de fiação elétrica em casos de catástrofes naturais no Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em caso de fiação energizada e sinalizada, equipes de poda e/ou manutenção de árvores ou postes deverão aguardar a liberação do perímetro pela concessionária de energia, para início da execução dos respectivos reparos, situação que será identificada por cones e bandeirolas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.581, de 30 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04580",
+   "short": "Lei 4580/2024",
+   "title": "Lei nº 4.580, de 30 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8783",
+   "first_law": "lei-2024-04580",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8783/l4580.pdf",
+     "sha256": "9aaff57c525219ef9f16faf306713d49739cc3844903f25c104815538b304a66",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4580 Projeto de Lei n.º 138/24 de autoria do Vereador Jatobá Denomina Cátia Fraga Kigar a Rua D, Mecanizada 2387, localizada entre as ruas Matheus Ferreira Amado e Antonio da Costa, no bairro Cidade Náutica.\nProc. n.º 3551009.401.00030493/2024-29 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Cátia Fraga Kigar a Rua D, Mecanizada 2387, localizada entre as ruas Matheus Ferreira Amado e Antonio da Costa, no bairro Cidade Náutica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.580, de 30 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04579",
+   "short": "Lei 4579/2024",
+   "title": "Lei nº 4.579, de 30 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8782",
+   "first_law": "lei-2024-04579",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8782/l4579.pdf",
+     "sha256": "5501f7f7a305b9a88f59ce1868b30ff257c3d70df1977456844ace9cab3e965f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4579 Projeto de Lei n.º 147/24 de autoria do Vereador Jefferson Cezarolli Denomina Frei Guilherme a Rua \"L\" Mecanizada 3023, no bairro Jardim Irmã Dolores.\nProc. n.º 3551009.401.00030475/2024-47 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Frei Guilherme a Rua \"L\", mecanizada 3023, com início na Rua Marlene Miran, mecanizada 3014, e término no alinhamento dos lotes emplacados com os n.º 160 e 170 da quadra cadastral 7063, de um lado, e do outro lado confronta com o alinhamento dos lotes emplacados com n.º 302 e 503 da quadra cadastral 7064, no bairro Jardim Irmã Dolores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.579, de 30 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04576",
+   "short": "Lei 4576/2024",
+   "title": "Lei nº 4.576, de 26 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8781",
+   "first_law": "lei-2024-04576",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8781/l4576.pdf",
+     "sha256": "58da82a7f9615fad89c299fd292cb1ef21b48c3dccc6f4df9043fd7573356a31",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4576 Autoriza o Poder Executivo Municipal a celebrar convênio com o Governo do Estado de São Paulo, através da Secretaria de Segurança Pública - SSP, tendo por objeto a transferência de recursos financeiros para a execução de ações no âmbito da Guarda Civil Municipal e dá outras providências.\nProc. n.º 3551009.401.00010485/2024-66 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo Municipal autorizado a celebrar Convênio com o Estado de São Paulo, através da Secretaria de Segurança Pública - SSP, tendo por objeto a transferência de recursos financeiros para execução de ações no âmbito da Guarda Civil Municipal nos termos do anexo desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.576, de 26 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04578",
+   "short": "Lei 4578/2024",
+   "title": "Lei nº 4.578, de 24 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8779",
+   "first_law": "lei-2024-04578",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8779/l4578.pdf",
+     "sha256": "963cfcdd07bea26cc09d7e35aae7df81621f18e420e75403367f7dc202b69e8a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4578 Projeto de Lei n.º 139/24 de autoria do Vereador Jatobá Altera o art. 1º da Lei n.º 4474, de 19 de outubro de 2023, que institui o Casamento Civil Comunitário no Município de São Vicente, estabelece a celebração de convênio e parceria para a sua realização e dá outras providências.\nProc. n.º 3551009.401.00002074/2023-16 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei n.º 4474, de 19 de outubro de 2023, passa a ter a seguinte redação:\n\"Art. 1º Fica instituído o Casamento Civil Comunitário no Município de São Vicente, a ser realizado anualmente no mês de junho.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 24 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.578, de 24 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04577",
+   "short": "Lei 4577/2024",
+   "title": "Lei nº 4.577, de 24 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8778",
+   "first_law": "lei-2024-04577",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8778/l4577.pdf",
+     "sha256": "1bbe2c248a271db96793c1d16142d4258abdd030ec026235f7e60385f8fd8d7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4577 Projeto de Lei n.º 161/24 de autoria do Vereador Prof. Thiago Alexandre Denomina Etevaldo Almeida Pereira a quadra de esportes localizada na Praça Maria Lydia Henrique Ramos, no bairro Samaritá.\nProc. n.º 3551009.401.00030152/2024-53 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Etevaldo Almeida Pereira a quadra de esportes localizada na Praça Maria Lydia Henrique Ramos, no bairro Samaritá.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 24 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.577, de 24 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04575",
+   "short": "Lei 4575/2024",
+   "title": "Lei nº 4.575, de 9 de setembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8777",
+   "first_law": "lei-2024-04575",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8777/l4575.pdf",
+     "sha256": "1db449481bee9683e2f14192515de5fb5642f98363cb6435796ead273fa8dab1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4575 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 3551009.401.00025037/2024-67 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 9 de setembro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.575, de 9 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04574",
+   "short": "Lei 4574/2024",
+   "title": "Lei nº 4.574, de 8 de agosto de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8745",
+   "first_law": "lei-2024-04574",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8745/l4574.pdf",
+     "sha256": "955996f8cdfc2a7ca48b2c7a8840f5b3f9adca1314eca2a70a56a97fbec45fc6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4574 Projeto de Lei n.º 83/24 de autoria do Vereador Prof. Thiago Alexandre Denomina Salvador da Conceição o campo de futebol localizado na Rua Archimedes Bava S/N, no cruzamento da Avenida Antônio Buieno Capolupo, no bairro Gleba II.\nProc. n.º 3551009.401.00021698/2024-13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Salvador da Conceição o campo de futebol localizado na Rua Archimedes Bava S/N, no cruzamento da Avenida Antônio Buieno Capolupo, no bairro Gleba II.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 8 de agosto de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.574, de 8 de agosto de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
