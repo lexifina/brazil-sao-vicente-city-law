@@ -1,0 +1,9 @@
+# Lei nº 4.524, de 26 de março de 2024
+
+Lei 4524/2024 · 1 versions, from 2024-03-28 (latest in force: 2024-03-28) · <https://sapl.saovicente.sp.leg.br/norma/6167>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |

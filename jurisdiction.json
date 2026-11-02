@@ -1,0 +1,9 @@
+{
+  "path": "br-sp-sao-vicente",
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente (city)",
+  "level": "municipality",
+  "parent": "br-sp",
+  "repo": "https://github.com/lexifina/brazil-sao-vicente-city-law",
+  "build": "built: the law of São Vicente from the Câmara Municipal's SAPL"
+}
