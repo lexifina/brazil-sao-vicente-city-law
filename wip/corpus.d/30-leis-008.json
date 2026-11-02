@@ -1,0 +1,1246 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "25 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-04534": {
+   "label": "Lei nº 4.534, de 25 de abril de 2024",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município o Dia da Carreata de Ogún. Proc. n.º 00010034/2024-29",
+   "kind": "law",
+   "enacted": "2024-04-25",
+   "published": "2024-04-30",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7963",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04533": {
+   "label": "Lei nº 4.533, de 17 de abril de 2024",
+   "title": "Considera de Utilidade Pública a Associação de Assistência Social Projeto Afeto em Ação.",
+   "kind": "law",
+   "enacted": "2024-04-17",
+   "published": "2024-04-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7358",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04532": {
+   "label": "Lei nº 4.532, de 17 de abril de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2024-04-17",
+   "published": "2024-04-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7357",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04531": {
+   "label": "Lei nº 4.531, de 17 de abril de 2024",
+   "title": "Denomina \"Giusfredo Santini\" a ciclovia.",
+   "kind": "law",
+   "enacted": "2024-04-17",
+   "published": "2024-04-18",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7356",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04530": {
+   "label": "Lei nº 4.530, de 15 de abril de 2024",
+   "title": "Institui o \"Fevereiro Laranja - Campanha de Conscientização sobre a Leucemia\" e dá outras providências",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-16",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7272",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04528": {
+   "label": "Lei nº 4.528, de 4 de abril de 2024",
+   "title": "Altera dispositivo da Lei n.º 2401-A, de 16.06.10, que dispõe sobre serviços de táxi e dá outras providências. Proc. n.º 23777/10",
+   "kind": "law",
+   "enacted": "2024-04-04",
+   "published": "2024-04-11",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6960",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04527": {
+   "label": "Lei nº 4.527, de 27 de março de 2024",
+   "title": "Denomina Praça da Árvore o logradouro que especifica. Proc. n.º 00007392/2024-54",
+   "kind": "law",
+   "enacted": "2024-03-27",
+   "published": "2024-04-02",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6478",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04524": {
+   "label": "Lei nº 4.524, de 26 de março de 2024",
+   "title": "Redenomina a \"Praça Vicente de Carvalho\" como \"`Praça Padre Feliciano Arrastia Martinez\", no bairro Vila Valença. Proc. n.º 3551009.401.00005841/2024-20",
+   "kind": "law",
+   "enacted": "2024-03-26",
+   "published": "2024-03-28",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6167",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04523": {
+   "label": "Lei nº 4.523, de 26 de março de 2024",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente. Proc. n.º 3551009.401.00005945/2024-34",
+   "kind": "law",
+   "enacted": "2024-03-26",
+   "published": "2024-03-28",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6168",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04522": {
+   "label": "Lei nº 4.522, de 26 de março de 2024",
+   "title": "Regulamenta a identificação da responsabilidade técnica referente a projetos obras, instalações e serviços de qualquer natureza através de placas. Proc. n.º 3551009.401.00001225/2024-08",
+   "kind": "law",
+   "enacted": "2024-03-26",
+   "published": "2024-03-28",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6169",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04519": {
+   "label": "Lei nº 4.519, de 19 de março de 2024",
+   "title": "Considera de Utilidade Pública a Associação MIRO'S - Movimento Independente Realizando Obras Sociais. Proc. n.º 3551009.401.00007390/2024-65",
+   "kind": "law",
+   "enacted": "2024-03-19",
+   "published": "2024-03-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5808",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04518": {
+   "label": "Lei nº 4.518, de 14 de março de 2024",
+   "title": "Institui o Dia do Jovem Empreendedor no Município de São Vicente. Proc. n.º 00005152/2024-15",
+   "kind": "law",
+   "enacted": "2024-03-14",
+   "published": "2024-03-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5700",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04517": {
+   "label": "Lei nº 4.517, de 8 de março de 2024",
+   "title": "Institui e inclui no Calendário de Eventos do Munícipio a Semana Municipal do Empreendedorismo Feminino.",
+   "kind": "law",
+   "enacted": "2024-03-08",
+   "published": "2024-03-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5052",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04516": {
+   "label": "Lei nº 4.516, de 6 de março de 2024",
+   "title": "Cria o Programa de Capacitação e Amparo em Saúde Mental para mães ou tutores legais de pessoas com Transtorno do Espectro Autista (TEA) e dá outras providências. Proc. n.º 00003886/2024-60",
+   "kind": "law",
+   "enacted": "2024-03-06",
+   "published": "2024-03-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4653",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2024-01143": {
+   "label": "Lei Complementar nº 1.143, de 16 de fevereiro de 2024",
+   "title": "Regulamenta a Resolução nº 1/24, que disciplina a Lei Federal n.º 14.133/21 no âmbito da Câmara Municipal.",
+   "kind": "law",
+   "enacted": "2024-02-16",
+   "published": "2024-02-16",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3849",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04514": {
+   "label": "Lei nº 4.514, de 5 de janeiro de 2024",
+   "title": "Denomina Ali Bei Murad a Rua Projetada K, no bairro Esplanada dos Barreiros.",
+   "kind": "law",
+   "enacted": "2024-01-05",
+   "published": "2024-01-09",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2860",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04512": {
+   "label": "Lei nº 4.512, de 3 de janeiro de 2024",
+   "title": "Dispõe sobre a preferência de uso de todos os assentos do transporte público coletivo de São Vicente por idosos, gestantes, lactantes, pessoas com criança de colo, pessoas com deficiência ou mobilidade reduzida e autistas.",
+   "kind": "law",
+   "enacted": "2024-01-03",
+   "published": "2024-01-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2710",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04511": {
+   "label": "Lei nº 4.511, de 3 de janeiro de 2024",
+   "title": "Declara Patrimônio Cultural Imaterial do Município de São Vicente o Brigadeiro Raiz do Brasil.",
+   "kind": "law",
+   "enacted": "2024-01-03",
+   "published": "2024-01-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2709",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04510": {
+   "label": "Lei nº 4.510, de 2 de janeiro de 2024",
+   "title": "Denomina Praça da Bíblia o logradouro que específica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-01-02",
+   "published": "2024-01-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2708",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-04509": {
+   "label": "Lei nº 4.509, de 2 de janeiro de 2024",
+   "title": "Altera a redação da ementa e do art. 1º da Lei nº 1.895-A, de 27 de junho de 2007",
+   "kind": "law",
+   "enacted": "2024-01-02",
+   "published": "2024-01-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2707",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04508": {
+   "label": "Lei nº 4.508, de 22 de dezembro de 2023",
+   "title": "Institui a Semana de Prevenção e Combate à Nomofobia no Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-12-22",
+   "published": "2023-12-26",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2536",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01140": {
+   "label": "Lei Complementar nº 1.140, de 22 de dezembro de 2023",
+   "title": "Altera a Lei Complementar nº 1.135, de 1º de dezembro de 2023, para estabelecer novas regras de transição ao. primeiro processo de promoção realizado pela Administração Municipal para a carreira de Guarda Civil Municipal.",
+   "kind": "law",
+   "enacted": "2023-12-22",
+   "published": "2023-12-22",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2277",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01137": {
+   "label": "Lei Complementar nº 1.137, de 22 de dezembro de 2023",
+   "title": "Altera dispositivo da Lei Complementar nº 988, de 16 de março de 2020, que desafeta da classe de bens em comum do povo e transfere para os bens patrimoniais do Município, área que especifica, cessão de uso e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-12-22",
+   "published": "2023-12-22",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2274",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04505": {
+   "label": "Lei nº 4.505, de 18 de dezembro de 2023",
+   "title": "Institui o Dia Municipal do Motoboy e Motogirl.",
+   "kind": "law",
+   "enacted": "2023-12-18",
+   "published": "2023-12-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2192",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04504": {
+   "label": "Lei nº 4.504, de 15 de dezembro de 2023",
+   "title": "Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia do Diaconato.",
+   "kind": "law",
+   "enacted": "2023-12-15",
+   "published": "2023-12-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2191",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-04534",
+   "short": "Lei 4534/2024",
+   "title": "Lei nº 4.534, de 25 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7963",
+   "first_law": "lei-2024-04534",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/7963/lei-4234.pdf",
+     "sha256": "894eca904482f8776db95aa2b27e8cc57868f7f5b3dbce86b89d2b9d6966fe44",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4534 Projeto de Lei nº 20/24 de autoria do Vereador Tiago Peretto Institui e inclui no Calendário Oficial de Eventos do Município o Dia da Carreata de Ogún.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica instituído, passando a constar do Calendário Oficial de Eventos do Município, o Dia da Carreata de Ogún, a ser celebrado anualmente no dia 1º de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Poder Executivo Municipal, por intermédio das secretarias competentes, providenciará a realização de eventos alusivos à data de que trata esta lei, visando à participação da comunidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 25 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.534, de 25 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04533",
+   "short": "Lei 4533/2024",
+   "title": "Lei nº 4.533, de 17 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7358",
+   "first_law": "lei-2024-04533",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/7358/l4533.pdf",
+     "sha256": "6c9b85687def0c37f51bf9307df5b755edf3f7618faaead33380c1e7577f0e14",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4533 Projeto de Lei n.º 31/24 de autoria do Vereador Adilson da Farmácia Considera de Utilidade Pública a Associação de Assistência Social Projeto Afeto em Ação.\nProc. n.º 3551009.401.00010590/2024-03 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de Utilidade Pública a Associação de Assistência Social Afeto em Ação, com sede e foro no Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 17 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.533, de 17 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04532",
+   "short": "Lei 4532/2024",
+   "title": "Lei nº 4.532, de 17 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7357",
+   "first_law": "lei-2024-04532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/7357/l4532.pdf",
+     "sha256": "dab1bd46d1cd8c98afa6bc374eb84cd72baed04f605dfd2d314222be229d74a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4532 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 3551009.401.00009463/2024-53 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 17 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.532, de 17 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04531",
+   "short": "Lei 4531/2024",
+   "title": "Lei nº 4.531, de 17 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7356",
+   "first_law": "lei-2024-04531",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/7356/l4531.pdf",
+     "sha256": "5b161a289da39196fa8090d71800c5be8caddb66c31a69a3c2109744f2ee9e60",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4531 Projeto de Lei n.º 41/24 de autoria do Vereador Adilson da Farmácia Denomina \"Giusfredo Santini\" a ciclovia.\nProc. n.º 3551009.401.00009311/2024-51 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"Giusfredo Santini\" a ciclovia existente no começo da Orla do Itararé, nas proximidades do Parque Municipal Roberto Mario Santini, até a Estação Barreiros, nas proximidades da Ponte A tribuna, no Bairro Vila Margarida, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 17 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.531, de 17 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04530",
+   "short": "Lei 4530/2024",
+   "title": "Lei nº 4.530, de 15 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/7272",
+   "first_law": "lei-2024-04530",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/7272/l4530.pdf",
+     "sha256": "ba044d785d7e401438da147595bf239bd3bd38a2b64a2dcc3ed3203dd26f409f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4530 Projeto de Lei n.º 13/24 de autoria do Vereador Dercinho Negão do Caminhão Institui o \"Fevereiro Laranja - Campanha de Conscientização sobre a Leucemia\" e dá outras providências.\nProc. n.º 00008259/2024-15 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de São Vicente o \"Fevereiro Laranja - Campanha de Conscientização sobre a Leucemia\", de alerta e orientação sobre o tema, a ser realizado anualmente na primeira semana do mês de fevereiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O \"Fevereiro Laranja - Campanha de Conscientização sobre a Leucemia\" tem por objetivo o esclarecimento sobre o diagnóstico e tratamento da leucemia, ressaltando a importância da doação de medula óssea.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Na semana do \"Fevereiro Laranja - Campanha de Conscientização sobre a Leucemia\", poderão ser promovidos eventos e atividades para conscientização dos munícipes acerca do tema.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os eventos e atividades promovidas poderão ser realizadas através de parcerias com entidades públicas ou privadas, organizações da sociedade civil e profissionais capacitados.\nParágrafo único. As parceiras com entidades privadas, organizações da sociedade civil e profissionais capacitados será por ato voluntário e bilateral, não havendo remuneração pelos envolvimentos nas atividades.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.530, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04528",
+   "short": "Lei 4528/2024",
+   "title": "Lei nº 4.528, de 4 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6960",
+   "first_law": "lei-2024-04528",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6960/l4528.pdf",
+     "sha256": "7f5cdaf11b25d033eda0c9f5804331a64f1f3313062237c61c58979604c3449b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4528 Altera dispositivo da Lei n.º 2401-A, de 16.06.10, que dispõe sobre serviços de táxi e dá outras providências.\nProc. n.º 23777/10 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 11 da Lei n.º 2401-A, de 16 de junho de 2010, passa a vigorar com a seguinte redação:\n\"Art. 11 O Alvará de Estacionamento requerido somente poderá ser expedido ou renovado para veículo que tenha, no máximo, 15 (quinze) anos de fabricação, atendidas as demais exigências previstas nos artigos anteriores e as que foram estabelecidas em Decreto regulamentar.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei n.º 4344, de 11 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.528, de 4 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04527",
+   "short": "Lei 4527/2024",
+   "title": "Lei nº 4.527, de 27 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6478",
+   "first_law": "lei-2024-04527",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6478/l4527.pdf",
+     "sha256": "9279c1362d2f52c6c375d6be2df9294193e784f991db72b6c02157dee4c8a9bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4527 Projeto de Lei n.º 24/24 de autoria do Vereador Jatobá Denomina Praça da Árvore o logradouro que especifica.\nProc. n.º 00007392/2024-54 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a denominar-se Praça da Árvore (Mecanizada n.º 0195), antiga Praça da Bíblia, o logradouro situado no bairro Vila Valença, em São Vicente, com as seguintes medidas e confrontações:\nDESCRIÇÃO PERIMETRAL DA PRAÇA:\n\"Tem início no P1, de coordenadas E 359383.9344; N 7349087.7200 e segue em linha reta por uma distância de 1,55 m confrontando com o leito carroçável denominado Praça da Bíblia até o P2, de coordenadas E 359382.5423; N 7349087.0278. Daí segue no mesmo alinhamento por uma distância de 30,72 m até o P3, situado na confluência do Viaduto Tércio Garcia com Rua Sem Denominação, com coordenadas E 359356.7742; N 7349070.3174. Do vértice P3 deflete à esquerda, confrontando com Rua Sem Denominação e segue numa distância de 28,25 m até o P4, de coordenadas E 359383.0139; N 7349059.7868. Deste ponto segue na mesma confrontação por uma distância de 21,36m até o P5, de coordenadas E 359402.8811; N 7349051.9076. Deste vértice segue no mesmo alinhamento com distância de 7,37m até o P6, de coordenadas E 359409.9313; N 7349049.7378. Daí segue no mesmo alinhamento da Rua Sem Denominação por uma distância de 5,97m até o P7, de coordenadas E 359415.6796; N 7349048.0979. Deste vértice segue em linha reta na mesma rua por uma distância de 5,08m até o P8, situado na confluência da Rua Sem Denominação com a Avenida Marechal Deodoro, de coordenadas E 359420.6707; N 7349047.1291. Deste ponto deflete à esquerda e segue confrontando com a Avenida Marechal Deodoro por uma distância de 4,97m até o P09, com coordenadas E 359416.2135; N 7349049.3244. Daí segue no alinhamento da mesma Avenida Marechal Deodoro por uma distância de 6,08m até o vértice P10, de coordenadas E 359411.0647; N 7349052.4628. Do ponto P10 segue confrontando com o leito carroçável denominado Praça da Árvore por uma distância de 4,72m até o P11, de coordenadas E 359407.6886; N 7349055.7542. Daí segue com distância de 7,16m até o vértice P12, de coordenadas E 359403.6049; N 7349061.6169. Deste vértice, segue com distância de 18,10m até o vértice P13, de coordenadas E 359393.6984; N 7349076.7177. Daí segue por uma distância de 10,78m até o P14, de coordenadas E 359388.0810; N 7349085.8899. Deste ponto, segue com distância de 1,04m até o vértice P15, de coordenadas E 359387.2896; N 7349086.5656. Daí segue confrontando com o leito carroçável denominado Praça da Árvore, com distância de 3,55m até o marco inicial P01. Os vértices P11, P12, P13, P14 e P15 confrontam com o leito carroçável denominado Praça da Árvore. A Praça tem perímetro de 156,70m e área total de 857,12m².\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.527, de 27 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04524",
+   "short": "Lei 4524/2024",
+   "title": "Lei nº 4.524, de 26 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6167",
+   "first_law": "lei-2024-04524",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6167/l4524.pdf",
+     "sha256": "91bbaca693fea7c02f53b99bdf6256001dfdb5773539e93986ed9199f7f61fbf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4524 Redenomina a \"Praça Vicente de Carvalho\" como \"`Praça Padre Feliciano Arrastia Martinez\", no bairro Vila Valença.\nProc. n.º 3551009.401.00005841/2024-20 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica a \"Praça Vicente de Carvalho\" redenominada \"Praça Padre Feliciano Arrastia Martinez\", localizada entre as ruas Julio Prestes e Pero Vaz de Caminha, no bairro Vila Valença.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei n.º 330, de 11 de dezembro de 1954.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.524, de 26 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04523",
+   "short": "Lei 4523/2024",
+   "title": "Lei nº 4.523, de 26 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6168",
+   "first_law": "lei-2024-04523",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6168/l4523.pdf",
+     "sha256": "87cee38ae5a3a271a53c887b4adfa75498e863822e0d906215911bb825e908c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4523 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 3551009.401.00005945/2024-34 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.523, de 26 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04522",
+   "short": "Lei 4522/2024",
+   "title": "Lei nº 4.522, de 26 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6169",
+   "first_law": "lei-2024-04522",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6169/l4522.pdf",
+     "sha256": "df64eb5e8d38db2b40f43eaa1967e60594ffa93269ffb9c2a522abfda9d596f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4522 Regulamenta a identificação da responsabilidade técnica referente a projetos obras, instalações e serviços de qualquer natureza através de placas.\nProc. n.º 3551009.401.00001225/2024-08 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Determina a obrigatoriedade de instalação da placa de identificação no local da obra ou serviços particulares, em local visível, durante todo o período de execução do mesmo, devendo estar de acordo com as normas do CREASP/CAU-SP ou outro conselho profissional que se enquadre.\nParágrafo único. É dever do responsável técnico da obra, serviço ou instalação, a manutenção da placa durante todo o período de execução, assim como seu devido descarte após a finalização do mesmo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A placa deverá ter no mínimo 1 (um) metro de comprimento por 1 (um) metro de altura e conter as seguintes informações:\nI - nomes dos profissionais responsáveis;\nII - título profissional e número de registro em seu respectivo Conselho profissional;\nIII - endereço, e-mail ou telefone do profissional responsável;\nIV - número do alvará e do processo de aprovação junto à PMSV;\nV - assunto da obra.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O responsável técnico que não cumprir o caput do artigo 1º desta Lei será intimado e terá o prazo de 7 (sete) dias para o cumprimento do mesmo.\nParágrafo único. O não cumprimento da intimação acarretará multa no valor de R$1.000,00 (mil reais) e embargo da obra, até que o mesmo seja atendido. A reincidência da infração na mesma obra ocasionará multa em dobro.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Não apresentada ou julgada improcedente a defesa no prazo de 30 (trinta) dias, o infrator será intimado por edital a pagá-la no prazo de 10 (dez) dias.\nParágrafo único. As multas não pagas nos prazos legais serão inscritas na dívida ativa.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 26 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.522, de 26 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04519",
+   "short": "Lei 4519/2024",
+   "title": "Lei nº 4.519, de 19 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5808",
+   "first_law": "lei-2024-04519",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/5808/l4519.pdf",
+     "sha256": "65a850f573d83ce3bb4fbbf3c884c70999c264259ece87024d8467f7333d0fd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4519 Projeto de Lei n.º 11/24 de autoria do Vereador Jefferson Cezarolli Considera de Utilidade Pública a Associação MIRO'S - Movimento Independente Realizando Obras Sociais.\nProc. n.º 3551009.401.00007390/2024-65 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de Utilidade Pública a Associação MIRO'S - Movimento Independente Realizando Obras Sociais, com sede e foro neste Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 19 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.519, de 19 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04518",
+   "short": "Lei 4518/2024",
+   "title": "Lei nº 4.518, de 14 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5700",
+   "first_law": "lei-2024-04518",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/5700/l4518.pdf",
+     "sha256": "92ccc4608e55f34df3a72f28b60ca88c53979bd50913474d35e3b97e3c7c0aed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4518 Projeto de Lei n.º 02/24 de autoria do Vereador Benevan Souza Institui o Dia do Jovem Empreendedor no Município de São Vicente.\nProc. n.º 00005152/2024-15 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Jovem Empreendedor no Município de São Vicente, a ser celebrado anualmente ao dia 19 de novembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.518, de 14 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04517",
+   "short": "Lei 4517/2024",
+   "title": "Lei nº 4.517, de 8 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5052",
+   "first_law": "lei-2024-04517",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/5052/l4517.pdf",
+     "sha256": "bd3ae63e4d921a5305f3c68c059b703ebaa433aec8d2394abd0322c5bdb3f9e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4517 Projeto de Lei n.º 03/24 de autoria do Vereador Edinho Ferrugem Institui e inclui no Calendário de Eventos do Município a Semana Municipal do Empreendedorismo Feminino.\nProc. n.º 5871/2024-36 SANDRA CONTI, Vice-Prefeita em exercício no cargo de Prefeita do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, passando a integrar o Calendário Oficial de Eventos do Município, a Semana Municipal do Empreendedorismo Feminino, a ser realizada anualmente na semana que compreende o dia 19 de novembro, no qual se comemora o Dia Internacional do Empreendedorismo Feminino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A data a que se refere o art. 1º será comemorada, anualmente, com a realização de feiras, workshops, palestras, oficinas ou outros eventos para divulgar, apoiar e incentivar as mulheres empreendedoras e as que queriam empreender.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É assegurada a participação da sociedade civil, entidades assistenciais, universidades, empresas privadas e imprensa na realização das atividades, bem como na doação de recursos e patrocínios aos eventos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 08 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.517, de 8 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04516",
+   "short": "Lei 4516/2024",
+   "title": "Lei nº 4.516, de 6 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4653",
+   "first_law": "lei-2024-04516",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/4653/l4516.pdf",
+     "sha256": "52bd83315743e141833ded0e7d7bc3939d22f1809c64878126793bb5d4155e46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4516 Projeto de Lei n.º 198/23 de autoria do Vereador Alfredo Moura Cria o Programa de Capacitação e Amparo em Saúde Mental para mães ou tutores legais de pessoas com Transtorno do Espectro Autista (TEA) e dá outras providências.\nProc. n.º 00003886/2024-60 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Capacitação e Amparo em Saúde Mental para mães ou tutores legais de pessoas com Transtorno do Espectro Autista (TEA), nos termos das diretrizes estabelecidas nesta Lei.\n§ 1º O programa de que trata o caput tem por objetivo proteger e capacitar, auxiliando com treinamentos, as mães e tutores legais de pessoas com Transtorno do Espectro Autista em todas as áreas pertinentes aos cuidados necessários.\n§ 2º O apoio às mães e tutores dar-se-á de modo a possibilitar maior conhecimento sobre o transtorno e sobre como cuidar corretamente de seus filhos.\n§ 3º O programa contará com a presença de psiquiatra, psicólogo e terapeuta ocupacional, dentre outros agentes necessários a todo o processo de atendimento das mães e tutores legais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o Município autorizado a firmar convênios com instituições e profissionais cadastrados capazes de dar o atendimento previsto em lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Eventuais despesas poderão advir de dotação orçamentária própria da pasta.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei poderá ser regulamentada pelo Poder Executivo em 90 (noventa) dias contados da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de março de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.516, de 6 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01143",
+   "short": "LC 1143/2024",
+   "title": "Lei Complementar nº 1.143, de 16 de fevereiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3849",
+   "first_law": "lc-2024-01143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/3849/lc1143.pdf",
+     "sha256": "e602010facfc2ebe6cdd2efa24bc062d403414100314209de1efd1081ec03576",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1143 Projeto de Lei Complementar n.º 55/23 de autoria da Mesa da Câmara.\nRegulamenta a Resolução nº 1/24, que disciplina a Lei Federal n.º 14.133/21 no âmbito da Câmara Municipal.\nProcesso nº 3896/2024-03 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam estabelecidos os seguintes valores das funções gratificadas abaixo:\nI - Fiscal de Contrato: R$ 1.500,00 (mil e quinhentos reais);\nII - Agente de Contratação: R$ 4.297,20 (quatro mil, duzentos e noventa e sete mil reais e vinte centavos).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei Complementar correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 16 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.143, de 16 de fevereiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04514",
+   "short": "Lei 4514/2024",
+   "title": "Lei nº 4.514, de 5 de janeiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2860",
+   "first_law": "lei-2024-04514",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/2860/lei4514.pdf",
+     "sha256": "5f4f9aa81a36f2a12a6569594d025e2ab90e005a0553f42dd839d3a2270ed6bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4514 Projeto de Lei n.º 195/23 de autoria do Vereador Higor Ferreira Denomina Ali Bei Murad a Rua Projetada K, no bairro Esplanada dos Barreiros.\nProc. n.º 00008060/2023-03 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada Ali Bei Murad a Rua Projetada K, no bairro Esplanada dos Barreiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 05 de janeiro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.514, de 5 de janeiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04512",
+   "short": "Lei 4512/2024",
+   "title": "Lei nº 4.512, de 3 de janeiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2710",
+   "first_law": "lei-2024-04512",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/2710/lei4512.pdf",
+     "sha256": "34b1de02fc4778510baa42c30abe610b7f3d2231b6123863a6c2d0160e7efaf0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4512 Projeto de Lei nº 9/23 de autoria do Vereador Jefferson Cezarolli Dispõe sobre a preferência de uso de todos os assentos do transporte público coletivo de São Vicente por idosos, gestantes, lactantes, pessoas com criança de colo, pessoas com deficiência ou mobilidade reduzida e autistas.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Todos os assentos instalados nos veículos de transporte público coletivo do Município de São Vicente ficam destinados ao uso preferencial de idosos, gestantes, lactantes, pessoas com criança de colo, pessoas com deficiência ou mobilidade reduzida, com limitação temporária de locomoção, e autistas.\n§ 1º - Na ausência de usuários preferenciais enquadrados no caput, os assentos serão livres para uso dos demais passageiros.\n§ 2º - O uso preferencial de que trata o caput se aplica aos modais sob contrato de permissão ou concessão com o Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Poder Executivo regulamentará a presente lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de janeiro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.512, de 3 de janeiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04511",
+   "short": "Lei 4511/2024",
+   "title": "Lei nº 4.511, de 3 de janeiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2709",
+   "first_law": "lei-2024-04511",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/2709/l4511.pdf",
+     "sha256": "865116a62dde7a018de8305b6e2032fc5490a283ec8ffbdc80187c8ce8389b39",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4511 Projeto de Lei nº 190/23 de autoria do Vereador Adilson da Farmácia Declara Patrimônio Cultural Imaterial do Município de São Vicente o Brigadeiro Raiz do Brasil.\nProc. n.º 00008058/2023-37 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica declarado Patrimônio Cultural Imaterial do Município de São Vicente o Brigadeiro Raiz do Brasil.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de janeiro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.511, de 3 de janeiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04510",
+   "short": "Lei 4510/2024",
+   "title": "Lei nº 4.510, de 2 de janeiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2708",
+   "first_law": "lei-2024-04510",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/2708/l4510.pdf",
+     "sha256": "01c86b1ce440cee7c42e125c3f4762b3c227f084e70bc741a470ed4f7d74a0d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4510 Projeto de Lei n.º 200/23 de autoria do Vereador Jatobá Denomina Praça da Bíblia o logradouro que especifica e dá outras providências.\nProc. n.º 00007457/2023-81 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.º - Art. 1º - Passa a denominar-se Praça da Bíblia o logradouro situado em trecho da Av. Newton Prado, bairro Japão, em São Vicente, com as seguintes medidas e confrontações.\nDESCRIÇÃO PERIMETRAL DA PRAÇA:\n\"Tem início no P1, coordenadas E 358507.1715, N 7348025.8854; e segue em linha reta por uma distância de 28,73m confrontando com o imóvel de nº 261 da Av. Newton Prado até o P2, coordenadas E 358532.2281, N 7348039.9334; daí deflete à direita e segue no alinhamento da Av.\nNewton Prado por uma distância de 11,21m até o P3, de coordenadas E 358531.2978, N 7348028.7639; deste vértice continua seguindo em curva por uma distância de 7,28m até o P4, de coordenadas E 358531.6128, N 7348021.4909; daí segue em curva por uma distância de 6,93m até o P5, de coordenadas E 358530.8494, N 7348014.6053; deste ponto segue em curva por uma distância de 5,35m até o P6, de coordenadas E 358532.4207, N 7348009.4878; daí segue em curva por uma distância de 11,56m até o P7, coordenadas E 358538.4588, N 7347999.6338; deste vértice segue em linha reta por uma distância de 2,78m até o P8, de coordenadas E 358541.2294, N 7347999.3455; seguindo em linha reta por uma distância de 1,01m até o P09, com coordenadas E 358541.9760, N 7347998.6538; do vértice P2 ao vértice P9 o terreno segue pelo alinhamento da Avenida Newton Prado. Partindo do vértice P9, deflete à direita e segue em linha reta por uma distância de 13,60m, confrontando com o imóvel de nº 179 da Avenida Newton Prado até o P10, de coordenadas E 358531.2279, N 7347990.3132, deste vértice deflete à direita e segue em linha reta, confrontado com o Mar Pequeno por uma distância de 25,88m até o P11, de coordenadas E 358518.7290, N 7348012.9742; daí segue em linha reta ainda confrontando com o Mar Pequeno por uma distância de 17,33m, até o marco inicial P1, encerrando-se assim uma área total de 645,28m2.\nLEI N.º 4510\n"
+      },
+      "art-0002": {
+       "label": "Art. 2",
+       "kind": "article",
+       "text": "Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por conta de dotações próprias do orçamento vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3",
+       "kind": "article",
+       "text": "Art. 3.º - Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 2 de janeiro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.510, de 2 de janeiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04509",
+   "short": "Lei 4509/2024",
+   "title": "Lei nº 4.509, de 2 de janeiro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2707",
+   "first_law": "lei-2024-04509",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/2707/l4509.pdf",
+     "sha256": "e674dab2e5e89421b553c4df12b7825ef7487c99510978c8aef569703a0906b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4509 Projeto de Lei n.º 132/23 de autoria do Vereador Castelinho Altera a redação da ementa e do art. 1º da Lei n.º 1895-A, de 27 de junho de 2007.\nProc. n.º 28373/07 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.º - A ementa da Lei 1895-A, de 27 de junho de 2007, passa a vigorar com a seguinte redação:\n\"Denomina São José de Anchieta a Praça 1287, localizada defronte à Paróquia São José de Anchieta, no Humaitá.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2",
+       "kind": "article",
+       "text": "Art. 2.º - O art. 1º da Lei n.º 1895-A, de 27 de junho de 2007, passa a vigorar a seguinte redação:\n\"Art. 1º Fica denominada São José de Anchieta a Praça 128, localizada defronte à Paróquia São José de Anchieta, no Humaitá.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 2 de janeiro de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.509, de 2 de janeiro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04508",
+   "short": "Lei 4508/2023",
+   "title": "Lei nº 4.508, de 22 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2536",
+   "first_law": "lei-2023-04508",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2536/l4508.pdf",
+     "sha256": "63911cc169021511be152b26a182ca18412763cd9cd3d75339fef878f76901e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4508 Projeto de Lei n.º 192/23 de autoria do Vereador Benevan Souza Institui a Semana de Prevenção e Combate à Nomofobia no Município de São Vicente e dá outras providências.\nProc. nº 00007484/2023-53 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, passando a integrar o Calendário Oficial de Datas e Eventos do Município, a Semana de Prevenção e Combate à Nomofobia, a ser realizada anualmente na segunda semana do mês de junho.\nParágrafo único. Para fins da instituição do evento de que trata o caput, considera-se nomofobia a sensação de angústia que surge quando alguém se sente impossibilitado de se comunicar, ou se vê incontatável, ao estar em algum lugar sem seu aparelho celular ou qualquer outro aparelho eletrônico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 22 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.508, de 22 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01140",
+   "short": "LC 1140/2023",
+   "title": "Lei Complementar nº 1.140, de 22 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2277",
+   "first_law": "lc-2023-01140",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2277/lc1140...pdf",
+     "sha256": "907bbfc7bd917bbf12f8c089248de9f67aa1697fcf16cc252bfe7829a1619544",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1140 Altera a Lei Complementar n.º 1.135, de 1º de dezembro de 2023, para estabelecer novas regras de transição ao primeiro processo de promoção realizado pela Administração Municipal para a carreira de Guarda Civil Municipal.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O caput do artigo 5º da Lei Complementar n.º 1.135, de 1º de dezembro de 2023, passa a vigorar com a seguinte redação, mantidos os incisos:\n\"Art. 5º Após a publicação desta Lei Complementar, o primeiro processo de promoção realizado pela Administração Municipal para a carreira de GCM poderá excepcionar, nos requisitos de provimento, as exigências previstas nos incisos I e V, do artigo 24 da Lei Complementar n.º 1.055, de 07 de julho de 2022, além do tempo mínimo de efetivo exercício na classe imediatamente inferior, na seguinte conformidade:\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Este Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 22 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.140, de 22 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01137",
+   "short": "LC 1137/2023",
+   "title": "Lei Complementar nº 1.137, de 22 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2274",
+   "first_law": "lc-2023-01137",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2274/lc1137...pdf",
+     "sha256": "4afab42542916daacc134120ec248aae6773fb7896fc70c5e75223affdabcf22",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1137 Altera dispositivo da Lei Complementar n.º 988, de 16 de março de 2020, que desafeta da classe de bens em comum do povo e transfere para os bens patrimoniais do Município, área que especifica, cessão de uso e dá outras providências.\nProc. n.º 3551009.401.00008055/2023-01 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a vigorar com a seguinte redação o art. 2º da Lei Complementar n.º 988, de 16 de março de 2020:\n\"Art. 2º Fica o Poder Executivo autorizado a outorgar mediante licitação, concessão de uso, de área descrita no art. 1º, pelo prazo de 30 (trinta) anos, visando sua utilização para finalidade comercial, de baixo impacto urbanístico, respeitando o zoneamento do local, quanto ao uso, obedecendo a taxa de ocupação de 60% (sessenta por cento) do imóvel, coeficiente de aproveitamento 1,0 (um virgula zero) para edificação com até 2 (dois) pavimentos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 22 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.137, de 22 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04505",
+   "short": "Lei 4505/2023",
+   "title": "Lei nº 4.505, de 18 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2192",
+   "first_law": "lei-2023-04505",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2192/l4505.pdf",
+     "sha256": "3b82b101734383b533287fb1ed8cdd23017d0d486cad4d0e7362f4a99fd4a91b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4505 Projeto de Lei n.º 206/23 de autoria do Vereador Prof. Thiago Alexandre Institui o Dia Municipal do Motoboy e Motogirl.\nProc. n.º 07447/2023-45 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica instituído o Dia Municipal do Motoboy e Motogirl, a ser celebrado anualmente em 27 de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comemoração ora instituída passa a integrar o Calendário Oficial de Datas e Eventos do Município de São Vicente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º -Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 18 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.505, de 18 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04504",
+   "short": "Lei 4504/2023",
+   "title": "Lei nº 4.504, de 15 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2191",
+   "first_law": "lei-2023-04504",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2191/l4504.pdf",
+     "sha256": "d03bda7bfdfe2e5b00c8c8a633a389b0a62da65d75a94c383af41a4f8ed04178",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4504 Projeto de Lei n.º 201/23 de autoria do Vereador Dercinho Negão do Caminhão Institui e inclui no Calendário Oficial de Datas e Eventos do Município o Dia do Diaconato.\nProc. n.º 7450/2023-69 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica instituído, passando a integrar o Calendário Oficial de Datas e Eventos do Município, o Dia do Diaconato, a ser celebrado anualmente no dia 1º de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 15 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.504, de 15 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
