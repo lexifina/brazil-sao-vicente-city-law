@@ -2870,6 +2870,146 @@
    ]
   },
   {
+   "slug": "lei-2023-04502",
+   "short": "Lei 4502/2023",
+   "title": "Lei nº 4.502, de 14 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2189",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2189/l4502.pdf",
+     "sha256": "db522dc86cdb196d3e298f856937b3580cc60a794996194f43e37e7875b41a11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04499",
+   "short": "Lei 4499/2023",
+   "title": "Lei nº 4.499, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1991",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1991/l4499.pdf",
+     "sha256": "aadc3518e408bfdcd00ffbc7d755a70a855f73b96ffc821e333d780135a8da95"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04498",
+   "short": "Lei 4498/2023",
+   "title": "Lei nº 4.498, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1992",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1992/lei4498.pdf",
+     "sha256": "e5d52eccba82083c63c22784b9b7e5c77ed55ef615e2b8001ab72b0a76f9e89b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04497",
+   "short": "Lei 4497/2023",
+   "title": "Lei nº 4.497, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1993",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1993/lei4497.pdf",
+     "sha256": "6a89e4ac14340f380c421d7eb931e3b3e39cd6678ccbdea5a88065fcdfa90fe0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04496",
+   "short": "Lei 4496/2023",
+   "title": "Lei nº 4.496, de 5 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1994",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1994/lei4496.pdf",
+     "sha256": "a8edce10db7e72e43947c4eb1471ae8179680ca8bbccb4c5ffdb6696ab5bb398"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04495",
+   "short": "Lei 4495/2023",
+   "title": "Lei nº 4.495, de 4 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1935",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1935/l4495.pdf",
+     "sha256": "b76b5d6f6edee8814e8ed6c142b630a57c230b90a4843d660fd3d3cf013a8afd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04489",
+   "short": "Lei 4489/2023",
+   "title": "Lei nº 4.489, de 16 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1363",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1363/l4489.pdf",
+     "sha256": "73edd9e044589a1d4834e273c6db76dba97dc6b7bbddc7a5ea9ccf351d0dc3f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04488",
+   "short": "Lei 4488/2023",
+   "title": "Lei nº 4.488, de 14 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1362",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1362/l4488.pdf",
+     "sha256": "6abfb5ff87862f8db071a844a02ff115cc94d6249a9fd37b8d33fb1cbe8d140d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04486",
+   "short": "Lei 4486/2023",
+   "title": "Lei nº 4.486, de 14 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1360",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1360/l4486.pdf",
+     "sha256": "3f526ade3b86a789663934df66e8fea99c3c056efd17d4475c5bdbe92479d8d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04483",
+   "short": "Lei 4483/2023",
+   "title": "Lei nº 4.483, de 10 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1055",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1055/l4483.pdf",
+     "sha256": "c83ea2c0a2843ca0787df05f939924e586e11d86a1d003a521f36d98e73fafd4"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
