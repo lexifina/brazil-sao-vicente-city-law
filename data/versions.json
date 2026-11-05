@@ -2868,6 +2868,748 @@
      "sha256": "d03bda7bfdfe2e5b00c8c8a633a389b0a62da65d75a94c383af41a4f8ed04178"
     }
    ]
+  },
+  {
+   "slug": "lc-2026-01248",
+   "short": "LC 1248/2026",
+   "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9947",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9947/lc1248.pdf",
+     "sha256": "195c7c4ee0adb8063ff65ab89902af2b98fdb1ede7e7af04a91cce8158286702"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04772",
+   "short": "Lei 4772/2026",
+   "title": "Lei nº 4.772, de 15 de setembro de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9940",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9940/lei4772.pdf",
+     "sha256": "f4e1ee648cea34d28a89fca1efd45088a68dc81dcbd65c106ae2127fb75aae32"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01246",
+   "short": "LC 1246/2026",
+   "title": "Lei Complementar nº 1.246, de 31 de agosto de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9926",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9926/lc1246.pdf",
+     "sha256": "33ee3a72656403df7f5f91a0498f14ee509ed13f6de1c526d702403d821e33b0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01242",
+   "short": "LC 1242/2026",
+   "title": "Lei Complementar nº 1.242, de 22 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9853",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9853/lc1242.pdf",
+     "sha256": "6f090fff3dcf0ee78b312a1d9e624d169f19ea10460717cd6bdf9cc39e199875"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01241",
+   "short": "LC 1241/2026",
+   "title": "Lei Complementar nº 1.241, de 15 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9849",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9849/lc1241.pdf",
+     "sha256": "b9a5ef94d078dde0978abf72cf6af09ea8d807716fb8ce6d05d15e752abed913"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01240",
+   "short": "LC 1240/2026",
+   "title": "Lei Complementar nº 1.240, de 11 de junho de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9841",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9841/lc1240.pdf",
+     "sha256": "6c2dbe7af10fec8183211c86a558ee4182077809db7bd4140da9af22c1d1c2e9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01238",
+   "short": "LC 1238/2026",
+   "title": "Lei Complementar nº 1.238, de 22 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9816",
+   "versions": [
+    {
+     "from": "2026-05-26",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9816/lc1238.pdf",
+     "sha256": "8e7f9700eb8df284b61e20fa3f960af2658ec431f192f85388da6a50fc904888"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01237",
+   "short": "LC 1237/2026",
+   "title": "Lei Complementar nº 1.237, de 7 de maio de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9721",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9721/lc1237.pdf",
+     "sha256": "fccf40f72e454ea218d2c915ccad29280f9844952185388919f79949bd946531"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01235",
+   "short": "LC 1235/2026",
+   "title": "Lei Complementar nº 1.235, de 23 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9713",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9713/lc-1235.pdf",
+     "sha256": "3c7491c1a66a6a2b9913d04cc0d2f6d83cad92a7146d958013196defa384fb99"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01231",
+   "short": "LC 1231/2026",
+   "title": "Lei Complementar nº 1.231, de 6 de abril de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9698",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9698/lc1231.pdf",
+     "sha256": "d516f52385f43f73c012ca0a912cbada8fdc4a7b499377d1add687eaaa1b60e7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01229",
+   "short": "LC 1229/2026",
+   "title": "Lei Complementar nº 1.229, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9689",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9689/lc1229.pdf",
+     "sha256": "f0d41e4350427d22ae22fe416da22c9df4ce72b242f14727fa31cb11b8a98bf6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01228",
+   "short": "LC 1228/2026",
+   "title": "Lei Complementar nº 1.228, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9688",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9688/lc1228.pdf",
+     "sha256": "c9dea340bbff16fff52f476ae01d614c8d51ad9650a9ce1288c4f3d9d709f349"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01227",
+   "short": "LC 1227/2026",
+   "title": "Lei Complementar nº 1.227, de 27 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9687",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9687/lc1227.pdf",
+     "sha256": "0ae6251eb854993318b19c2df1f02cc8872ed5d98fcd8c94df3eae875021aa57"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-01226",
+   "short": "LC 1226/2026",
+   "title": "Lei Complementar nº 1.226, de 24 de março de 2026",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9678",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2026/9678/lc1226.pdf",
+     "sha256": "807950f99ef87790b48aa49309276305db5e89f672239eee70dac3c38ce73372"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01218",
+   "short": "LC 1218/2025",
+   "title": "Lei Complementar nº 1.218, de 18 de dezembro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9643",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9643/lc-1218.pdf",
+     "sha256": "91dc56ca1d5cff1979188a2d242cdda4d164e4ff770a63795f289e652d6c148c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01210",
+   "short": "LC 1210/2025",
+   "title": "Lei Complementar nº 1.210, de 23 de outubro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9597",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9597/lc1210.pdf",
+     "sha256": "039171f99e964418315ccc6c5a766a08d45aa4a5f72acc5b06185b318458980d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04684",
+   "short": "Lei 4684/2025",
+   "title": "Lei nº 4.684, de 15 de outubro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9588",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9588/l4684.pdf",
+     "sha256": "e7687dc217a34504765a932553ad185891af663f266893d4310f8b34c965b476"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04683",
+   "short": "Lei 4683/2025",
+   "title": "Lei nº 4.683, de 14 de outubro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9587",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9587/l4683.pdf",
+     "sha256": "96a99da662d7954e0bb1b8bd7b07906ea7435ef9d4e0b006264df57018a7748d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04668",
+   "short": "Lei 4668/2025",
+   "title": "Lei nº 4.668, de 15 de agosto de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9535",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9535/l4668.pdf",
+     "sha256": "0051e05beb7234db37511258979110f38cba9dbc455ea7c19f141c4b65fc29c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04667",
+   "short": "Lei 4667/2025",
+   "title": "Lei nº 4.667, de 15 de agosto de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9534",
+   "versions": [
+    {
+     "from": "2025-08-19",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9534/l4667.pdf",
+     "sha256": "6e8329166154831ae2f6b8bfab04e71207d2b85c14862714ea0d587a8bdf2490"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04665",
+   "short": "Lei 4665/2025",
+   "title": "Lei nº 4.665, de 15 de agosto de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9525",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9525/l4665.pdf",
+     "sha256": "1dc348e093b51cef20904fb11e6408b209876364a61cc2563d3c0fb2beca3538"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01202",
+   "short": "LC 1202/2025",
+   "title": "Lei Complementar nº 1.202, de 15 de agosto de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9527",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9527/lc1202.pdf",
+     "sha256": "0df6dd6989bebb9e703d4adb5c2846a7f4b88b8858e134da01b8515fa2accf51"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01201",
+   "short": "LC 1201/2025",
+   "title": "Lei Complementar nº 1.201, de 1 de agosto de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9521",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9521/lc1201.pdf",
+     "sha256": "bc35f2f95b5cc35baed094ff428651c701efdafd2a0af8395b870be9a02e2051"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04646",
+   "short": "Lei 4646/2025",
+   "title": "Lei nº 4.646, de 16 de junho de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9493",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9493/l4646.pdf",
+     "sha256": "b52ba7bc54f4ce9b0bac7d946aee2733ad3c4ebaa12b190f802cb3fa939b3489"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01197",
+   "short": "LC 1197/2025",
+   "title": "Lei Complementar nº 1.197, de 13 de maio de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9456",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9456/lc1197.pdf",
+     "sha256": "4c63a46641088227515f3d13334a70522e537bc0814cd25c7555f99326a34adf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01190",
+   "short": "LC 1190/2025",
+   "title": "Lei Complementar nº 1.190, de 8 de abril de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9434",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9434/lc1190.pdf",
+     "sha256": "6b9247e8d0dfd21ad7998eee6826b74cd1b0a2ecf076fdb5a3f9275455dfb8fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04633",
+   "short": "Lei 4633/2025",
+   "title": "Lei nº 4.633, de 21 de março de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9410",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9410/l4633.pdf",
+     "sha256": "28efbf07af5e4b9290697d2d032fca9bbad8e12635ec6501e43d1d03487d590e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01188",
+   "short": "LC 1188/2025",
+   "title": "Lei Complementar nº 1.188, de 19 de março de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9406",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9406/lc1188.pdf",
+     "sha256": "ad857a28e6191834bc6f7cb535c924cc8391b709dd53747b71521a00c31ed29f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04631",
+   "short": "Lei 4631/2025",
+   "title": "Lei nº 4.631, de 17 de março de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9401",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9401/l4631.pdf",
+     "sha256": "9244f3a43ed86a824cbdffb9740a2ad72bd7858cfcebe453b1f902ce44e2162f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01186",
+   "short": "LC 1186/2025",
+   "title": "Lei Complementar nº 1.186, de 17 de março de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9402",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9402/lc1186.pdf",
+     "sha256": "b10c28487c09dad9bbff662090471cbf02cc94ec77fbe668b69e2bb2bfd276dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04627",
+   "short": "Lei 4627/2025",
+   "title": "Lei nº 4.627, de 10 de fevereiro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9349",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9349/l4627.pdf",
+     "sha256": "1e97956a781d0d662108e271b0bf42f7c200f14b185949100a98eb18c39d5ad8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-01185",
+   "short": "LC 1185/2025",
+   "title": "Lei Complementar nº 1.185, de 10 de fevereiro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9348",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9348/lc1185.pdf",
+     "sha256": "98038e6c6c3384b615f46c1c90f34412926a1a50a2acb20a311fadc324ff63b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04626",
+   "short": "Lei 4626/2025",
+   "title": "Lei nº 4.626, de 3 de janeiro de 2025",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9135",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2025/9135/l4626.pdf",
+     "sha256": "76340883d362c7d5625700502f0c0230b530ba54a76fe19823cb5f0dad80d0c0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01184",
+   "short": "LC 1184/2024",
+   "title": "Lei Complementar nº 1.184, de 26 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9127",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9127/lc1184.pdf",
+     "sha256": "b83b18ed98d614755ea9474fecfbbefdadfa5fb6bb999537906fce24717d3542"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01180",
+   "short": "LC 1180/2024",
+   "title": "Lei Complementar nº 1.180, de 13 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9114",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9114/lc1180.pdf",
+     "sha256": "24245ebb85bf33fa6af64aab7ac2c71d3af009aac40c38e8dc72154fec87b47e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01179",
+   "short": "LC 1179/2024",
+   "title": "Lei Complementar nº 1.179, de 13 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9113",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9113/lc1179.pdf",
+     "sha256": "a797fcd83dad1bc51a5e4841d4fc146058b53dde05f4905f22df0a39469ce077"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01178",
+   "short": "LC 1178/2024",
+   "title": "Lei Complementar nº 1.178, de 11 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9112",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9112/lc1178.pdf",
+     "sha256": "64b2c3f7a898bced4e1cac9143c331bb526cc92a8e1b5b30413d14ed10fffc54"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01177",
+   "short": "LC 1177/2024",
+   "title": "Lei Complementar nº 1.177, de 11 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9111",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9111/lc1177.pdf",
+     "sha256": "4ccb264ddfaaeec2a3109b49585b14d873658616641feed1aefa97fa147713f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04604",
+   "short": "Lei 4604/2024",
+   "title": "Lei nº 4.604, de 9 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9095",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9095/l4604.pdf",
+     "sha256": "968cdc0c604d50548b358f512544ec2113df0f031bdb4da058eb26dd12bffef9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01172",
+   "short": "LC 1172/2024",
+   "title": "Lei Complementar nº 1.172, de 9 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9101",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9101/lc1172.pdf",
+     "sha256": "e8e53af20b51b487758d7c8ca9a2de04ee117d0754aab39fa49ac5431667ff8c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01170",
+   "short": "LC 1170/2024",
+   "title": "Lei Complementar nº 1.170, de 4 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9087",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9087/lc1170.pdf",
+     "sha256": "2d7c58ac151c7b2e0cc8df8b70a93a8948ba1896f3b90801557e651aa8128930"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01169",
+   "short": "LC 1169/2024",
+   "title": "Lei Complementar nº 1.169, de 4 de dezembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9086",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9086/lc1169.pdf",
+     "sha256": "3860ee699a8a333f93523a5b037072797df3587c340ab336d33efd761b8216be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04599",
+   "short": "Lei 4599/2024",
+   "title": "Lei nº 4.599, de 27 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9083",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9083/l4599.pdf",
+     "sha256": "6c23ff1a54e24f38ff2898307ef0b872fa24b90409413892c55f1549bdf51ecb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01167",
+   "short": "LC 1167/2024",
+   "title": "Lei Complementar nº 1.167, de 7 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9066",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9066/lc1167.pdf",
+     "sha256": "fddbd851a602987351acfb9596876aa6a195e2cc738066172e0ee2f84b56160d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01166",
+   "short": "LC 1166/2024",
+   "title": "Lei Complementar nº 1.166, de 1 de novembro de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/9056",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/9056/lc1166.pdf",
+     "sha256": "0c8742fd90f64d6302aaa35c036f6063955d913851f654f5bcfa2633a968c559"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04567",
+   "short": "Lei 4567/2024",
+   "title": "Lei nº 4.567, de 5 de julho de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8693",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8693/l4567.pdf",
+     "sha256": "845393bb9e12ff0bf684dac7eb7ea069eff0df322e1d467283cff7b0c134a697"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-01163",
+   "short": "LC 1163/2024",
+   "title": "Lei Complementar nº 1.163, de 2 de julho de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8685",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8685/lc1163.pdf",
+     "sha256": "e164fe192d375677ad7441d4abdc2194f78398c3de1007585a786ac14724e4bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04561",
+   "short": "Lei 4561/2024",
+   "title": "Lei nº 4.561, de 25 de junho de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/8677",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/8677/l4561.pdf",
+     "sha256": "415e5d3d9c248bfc6ee2da8b50729b8c05e2cc40ab0c04564da037f58f045cb2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04529",
+   "short": "Lei 4529/2024",
+   "title": "Lei nº 4.529, de 5 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6961",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6961/l4529.pdf",
+     "sha256": "92255f0e71b1447e1f6f9703dbb07c5a852c25072f8c8ab82312b2064c208127"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04526",
+   "short": "Lei 4526/2024",
+   "title": "Lei nº 4.526, de 1 de abril de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6477",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6477/l4526.pdf",
+     "sha256": "2e1fbe590872c2bf3f266223a1934d80effd3b37a1e5b1079218b7238b3b0075"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04525",
+   "short": "Lei 4525/2024",
+   "title": "Lei nº 4.525, de 27 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6476",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6476/l4525.pdf",
+     "sha256": "a4d99cde170da3cdf4358172db5acc010de38452b94e2c8cbac03832e10d772e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04521",
+   "short": "Lei 4521/2024",
+   "title": "Lei nº 4.521, de 26 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6162",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6162/l4521.pdf",
+     "sha256": "313c03d9974e2e09d643a230bf7cfa6adccd7e9c3b2c38870402438b12117f36"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04520",
+   "short": "Lei 4520/2024",
+   "title": "Lei nº 4.520, de 26 de março de 2024",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/6161",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2024/6161/l4520.pdf",
+     "sha256": "52a14018ebc0aa67656b8cb1b0ada7ca13f80334220d43f689ed762086d2aef1"
+    }
+   ]
   }
  ]
 }

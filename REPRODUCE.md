@@ -1,12 +1,12 @@
 # How this repository was made (São Vicente)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Câmara Municipal de São Vicente, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.saovicente.sp.leg.br/norma/2325> | 2026-11-02 | Text: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de São Vicente, sapl.saovicente.sp.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de São Vicente, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.saovicente.sp.leg.br/norma/2325> | 2026-11-05 | Text: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de São Vicente, sapl.saovicente.sp.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-01 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-01 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-01 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
@@ -15,6 +15,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-01 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-01 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-02 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de São Vicente, SAPL: official municipal law PDFs | <https://sapl.saovicente.sp.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -226,20 +227,73 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2023-01137` | Lei Complementar nº 1.137, de 22 de dezembro de 2023 | 1 | 2023-12-22 to 2023-12-22 |
 | `lei-2023-04505` | Lei nº 4.505, de 18 de dezembro de 2023 | 1 | 2023-12-19 to 2023-12-19 |
 | `lei-2023-04504` | Lei nº 4.504, de 15 de dezembro de 2023 | 1 | 2023-12-19 to 2023-12-19 |
+| `lc-2026-01248` | Lei Complementar nº 1.248, de 18 de setembro de 2026 | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-04772` | Lei nº 4.772, de 15 de setembro de 2026 | 1 | 2026-09-17 to 2026-09-17 |
+| `lc-2026-01246` | Lei Complementar nº 1.246, de 31 de agosto de 2026 | 1 | 2026-09-01 to 2026-09-01 |
+| `lc-2026-01242` | Lei Complementar nº 1.242, de 22 de junho de 2026 | 1 | 2026-06-23 to 2026-06-23 |
+| `lc-2026-01241` | Lei Complementar nº 1.241, de 15 de junho de 2026 | 1 | 2026-06-16 to 2026-06-16 |
+| `lc-2026-01240` | Lei Complementar nº 1.240, de 11 de junho de 2026 | 1 | 2026-06-11 to 2026-06-11 |
+| `lc-2026-01238` | Lei Complementar nº 1.238, de 22 de maio de 2026 | 1 | 2026-05-26 to 2026-05-26 |
+| `lc-2026-01237` | Lei Complementar nº 1.237, de 7 de maio de 2026 | 1 | 2026-05-07 to 2026-05-07 |
+| `lc-2026-01235` | Lei Complementar nº 1.235, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lc-2026-01231` | Lei Complementar nº 1.231, de 6 de abril de 2026 | 1 | 2026-04-07 to 2026-04-07 |
+| `lc-2026-01229` | Lei Complementar nº 1.229, de 27 de março de 2026 | 1 | 2026-03-31 to 2026-03-31 |
+| `lc-2026-01228` | Lei Complementar nº 1.228, de 27 de março de 2026 | 1 | 2026-03-31 to 2026-03-31 |
+| `lc-2026-01227` | Lei Complementar nº 1.227, de 27 de março de 2026 | 1 | 2026-05-01 to 2026-05-01 |
+| `lc-2026-01226` | Lei Complementar nº 1.226, de 24 de março de 2026 | 1 | 2026-03-24 to 2026-03-24 |
+| `lc-2025-01218` | Lei Complementar nº 1.218, de 18 de dezembro de 2025 | 1 | 2026-01-01 to 2026-01-01 |
+| `lc-2025-01210` | Lei Complementar nº 1.210, de 23 de outubro de 2025 | 1 | 2025-10-30 to 2025-10-30 |
+| `lei-2025-04684` | Lei nº 4.684, de 15 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-04683` | Lei nº 4.683, de 14 de outubro de 2025 | 1 | 2025-10-16 to 2025-10-16 |
+| `lei-2025-04668` | Lei nº 4.668, de 15 de agosto de 2025 | 1 | 2025-08-15 to 2025-08-15 |
+| `lei-2025-04667` | Lei nº 4.667, de 15 de agosto de 2025 | 1 | 2025-08-19 to 2025-08-19 |
+| `lei-2025-04665` | Lei nº 4.665, de 15 de agosto de 2025 | 1 | 2025-08-15 to 2025-08-15 |
+| `lc-2025-01202` | Lei Complementar nº 1.202, de 15 de agosto de 2025 | 1 | 2025-08-15 to 2025-08-15 |
+| `lc-2025-01201` | Lei Complementar nº 1.201, de 1 de agosto de 2025 | 1 | 2025-08-05 to 2025-08-05 |
+| `lei-2025-04646` | Lei nº 4.646, de 16 de junho de 2025 | 1 | 2025-06-17 to 2025-06-17 |
+| `lc-2025-01197` | Lei Complementar nº 1.197, de 13 de maio de 2025 | 1 | 2025-05-15 to 2025-05-15 |
+| `lc-2025-01190` | Lei Complementar nº 1.190, de 8 de abril de 2025 | 1 | 2025-04-10 to 2025-04-10 |
+| `lei-2025-04633` | Lei nº 4.633, de 21 de março de 2025 | 1 | 2025-03-25 to 2025-03-25 |
+| `lc-2025-01188` | Lei Complementar nº 1.188, de 19 de março de 2025 | 1 | 2025-03-20 to 2025-03-20 |
+| `lei-2025-04631` | Lei nº 4.631, de 17 de março de 2025 | 1 | 2025-03-18 to 2025-03-18 |
+| `lc-2025-01186` | Lei Complementar nº 1.186, de 17 de março de 2025 | 1 | 2025-03-17 to 2025-03-17 |
+| `lei-2025-04627` | Lei nº 4.627, de 10 de fevereiro de 2025 | 1 | 2025-02-11 to 2025-02-11 |
+| `lc-2025-01185` | Lei Complementar nº 1.185, de 10 de fevereiro de 2025 | 1 | 2025-02-11 to 2025-02-11 |
+| `lei-2025-04626` | Lei nº 4.626, de 3 de janeiro de 2025 | 1 | 2025-01-07 to 2025-01-07 |
+| `lc-2024-01184` | Lei Complementar nº 1.184, de 26 de dezembro de 2024 | 1 | 2024-12-26 to 2024-12-26 |
+| `lc-2024-01180` | Lei Complementar nº 1.180, de 13 de dezembro de 2024 | 1 | 2024-12-17 to 2024-12-17 |
+| `lc-2024-01179` | Lei Complementar nº 1.179, de 13 de dezembro de 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `lc-2024-01178` | Lei Complementar nº 1.178, de 11 de dezembro de 2024 | 1 | 2024-12-17 to 2024-12-17 |
+| `lc-2024-01177` | Lei Complementar nº 1.177, de 11 de dezembro de 2024 | 1 | 2025-06-15 to 2025-06-15 |
+| `lei-2024-04604` | Lei nº 4.604, de 9 de dezembro de 2024 | 1 | 2024-12-10 to 2024-12-10 |
+| `lc-2024-01172` | Lei Complementar nº 1.172, de 9 de dezembro de 2024 | 1 | 2024-12-12 to 2024-12-12 |
+| `lc-2024-01170` | Lei Complementar nº 1.170, de 4 de dezembro de 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `lc-2024-01169` | Lei Complementar nº 1.169, de 4 de dezembro de 2024 | 1 | 2024-12-05 to 2024-12-05 |
+| `lei-2024-04599` | Lei nº 4.599, de 27 de novembro de 2024 | 1 | 2024-12-03 to 2024-12-03 |
+| `lc-2024-01167` | Lei Complementar nº 1.167, de 7 de novembro de 2024 | 1 | 2024-11-07 to 2024-11-07 |
+| `lc-2024-01166` | Lei Complementar nº 1.166, de 1 de novembro de 2024 | 1 | 2025-01-01 to 2025-01-01 |
+| `lei-2024-04567` | Lei nº 4.567, de 5 de julho de 2024 | 1 | 2024-07-11 to 2024-07-11 |
+| `lc-2024-01163` | Lei Complementar nº 1.163, de 2 de julho de 2024 | 1 | 2024-07-02 to 2024-07-02 |
+| `lei-2024-04561` | Lei nº 4.561, de 25 de junho de 2024 | 1 | 2024-06-27 to 2024-06-27 |
+| `lei-2024-04529` | Lei nº 4.529, de 5 de abril de 2024 | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-04526` | Lei nº 4.526, de 1 de abril de 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-04525` | Lei nº 4.525, de 27 de março de 2024 | 1 | 2024-04-02 to 2024-04-02 |
+| `lei-2024-04521` | Lei nº 4.521, de 26 de março de 2024 | 1 | 2024-03-28 to 2024-03-28 |
+| `lei-2024-04520` | Lei nº 4.520, de 26 de março de 2024 | 1 | 2024-03-28 to 2024-03-28 |
 
-The build made 206 commits:
+The build made 259 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 204 | first version of an act |
+| 257 | first version of an act |
 | 2 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 206 laws in the record.
-- 412 tags.
+- 259 laws in the record.
+- 518 tags.
 
 ## Dates
 
@@ -251,13 +305,13 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `44b0277ce6004fc28aeedd9f5b2764035f319e16b6d57c187ad8db5857a017e0` (1105975 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `ba70568c48af4a2cfb048580d0e4c571c506ea9d9b9946daaa430f84702c292a` (1703624 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-206 versions of 204 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -291,6 +345,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- These additional laws are as enacted, not consolidations. Each act is a single text file preserving the complete PDF text layer, including textual annexes, tables, signatures and repeated printed headings. Decorative crests and accessibility badges are not normative text.
+- Commencement follows each act’s own vigência clause and SAPL publication metadata. Provision-specific dates of effects are preserved verbatim in the act and do not replace its express entry-into-force date. No retrieval date is used as commencement.
+- The PDFs selected here contain no normative raster images. Acts with normative image tables or maps are held for separate image support.
 
 ## What AI did and did not do
 
@@ -310,3 +367,4 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- GPT-6 wrote parsing and validation code and inspected decorative images. No model-generated law text or dates are used; law text is the uncorrected official PDF text layer.
