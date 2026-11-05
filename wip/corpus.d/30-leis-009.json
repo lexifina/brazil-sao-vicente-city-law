@@ -1,0 +1,536 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-05",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "10 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-04502": {
+   "label": "Lei nº 4.502, de 14 de dezembro de 2023",
+   "title": "Altera a redação do art. 3.º da Lei n.º 252-A, de 19 de maio de 1994, que dispõe sobre o transporte coletivo de escolares no Município de São Vicente e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-12-14",
+   "published": "2023-12-19",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2189",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04499": {
+   "label": "Lei nº 4.499, de 6 de dezembro de 2023",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-12-06",
+   "published": "2023-12-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1991",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04498": {
+   "label": "Lei nº 4.498, de 6 de dezembro de 2023",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-12-06",
+   "published": "2023-12-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1992",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04497": {
+   "label": "Lei nº 4.497, de 6 de dezembro de 2023",
+   "title": "Dispõe sobre a instituição do Programa Vacinação Escolar no Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-12-06",
+   "published": "2023-12-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1993",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04496": {
+   "label": "Lei nº 4.496, de 5 de dezembro de 2023",
+   "title": "Institui o Dia Municipal do Pedagogo no Calendário Oficial de Datas e Eventos do Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-12-05",
+   "published": "2023-12-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1994",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04495": {
+   "label": "Lei nº 4.495, de 4 de dezembro de 2023",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-12-04",
+   "published": "2023-12-05",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1935",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04489": {
+   "label": "Lei nº 4.489, de 16 de novembro de 2023",
+   "title": "Declara Patrimônio Cultural Imaterial do Município as Quadrilhas Juninas de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-11-16",
+   "published": "2023-11-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1363",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04488": {
+   "label": "Lei nº 4.488, de 14 de novembro de 2023",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município a Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla e dá outras providências",
+   "kind": "law",
+   "enacted": "2023-11-14",
+   "published": "2023-11-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1362",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04486": {
+   "label": "Lei nº 4.486, de 14 de novembro de 2023",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município o Dia Municipal das Pessoas com Paralisia Cerebral e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-11-14",
+   "published": "2023-11-21",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1360",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04483": {
+   "label": "Lei nº 4.483, de 10 de novembro de 2023",
+   "title": "Dispõe sobre a afixação de placas informativas nas unidades públicas e privadas de saúde a respeito da adoção de nascituro.",
+   "kind": "law",
+   "enacted": "2023-11-10",
+   "published": "2023-11-14",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1055",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-04502",
+   "short": "Lei 4502/2023",
+   "title": "Lei nº 4.502, de 14 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2189",
+   "first_law": "lei-2023-04502",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/2189/l4502.pdf",
+     "sha256": "db522dc86cdb196d3e298f856937b3580cc60a794996194f43e37e7875b41a11",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4502 Projeto de Lei n.º 173/23 de autoria do Vereador Tiago Peretto Altera a redação do art. 3º da Lei n.º 252-A, de 19 de maio de 1994, que dispõe sobre o transporte coletivo de escolares no Município de São Vicente e dá outras providências.\nProc. n.º 6131/2023-36 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O art. 3º da Lei n.º 252-A, de 19 de maio de 1994, passa a vigorar com a seguinte redação:\n\"Art. 3º Os veículos do Sistema de Transporte Escolar somente poderão ser conduzidos por motoristas inscritos no Cadastro Municipal de Condutores, ficando estabelecido, sem prorrogação, o limite de vida útil de 20 (vinte) anos para os mesmos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.502, de 14 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04499",
+   "short": "Lei 4499/2023",
+   "title": "Lei nº 4.499, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1991",
+   "first_law": "lei-2023-04499",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1991/l4499.pdf",
+     "sha256": "aadc3518e408bfdcd00ffbc7d755a70a855f73b96ffc821e333d780135a8da95",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4499 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 00005858/2023-04 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 6 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.499, de 6 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04498",
+   "short": "Lei 4498/2023",
+   "title": "Lei nº 4.498, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1992",
+   "first_law": "lei-2023-04498",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1992/lei4498.pdf",
+     "sha256": "e5d52eccba82083c63c22784b9b7e5c77ed55ef615e2b8001ab72b0a76f9e89b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4498 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n. º 00005846/2023-71 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 6 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.498, de 6 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04497",
+   "short": "Lei 4497/2023",
+   "title": "Lei nº 4.497, de 6 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1993",
+   "first_law": "lei-2023-04497",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1993/lei4497.pdf",
+     "sha256": "6a89e4ac14340f380c421d7eb931e3b3e39cd6678ccbdea5a88065fcdfa90fe0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4497 Projeto de Lei n.º 167/23 de autoria do Vereador Jefferson Cezarolli Dispõe sobre a instituição do Programa Vacinação Escolar no Município de São Vicente. Proc. n.º 00006170/2023-33 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município o Programa Vacinação Escolar, destinado aos alunos da educação infantil e do ensino fundamental da rede municipal de ensino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para a realização do Programa Vacinação Escolar, serão promovidas as seguintes atividades:\nI - orientação sobre a importância da vacinação para os responsáveis de jovens e crianças matriculados, mediante palestras, seminários e visitas a domicílio;\nII - realização de atividades envolvendo o corpo docente e discente das unidades escolares visando ao ensino e ao esclarecimento de dúvidas sobre o assunto objeto desta Lei;\nIII - divulgação, no sítio eletrônico da Prefeitura Municipal, de informações pertinentes ao Programa Vacinação Escolar; IV - vacinação de jovens e crianças nas unidades escolares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei visa alcançar os seguintes objetivos:\nI - aumentar a cobertura vacinal de jovens e crianças;\nII - difundir conhecimentos sobre a importância da vacinação e da não proliferação de doenças;\nIII - evitar que haja saturação no atendimento na rede pública de saúde no tratamento de doenças imunopreveníveis;\nIV - diminuir a propagação de informações inverídicas sobre a vacinação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 6 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.497, de 6 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04496",
+   "short": "Lei 4496/2023",
+   "title": "Lei nº 4.496, de 5 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1994",
+   "first_law": "lei-2023-04496",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1994/lei4496.pdf",
+     "sha256": "a8edce10db7e72e43947c4eb1471ae8179680ca8bbccb4c5ffdb6696ab5bb398",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4496 Projeto de Lei n.º 176/23 de autoria do Vereador Jabá Institui o Dia Municipal do Pedagogo no Calendário Oficial de Datas e Eventos do Município de São Vicente.\nProc. n.º 00005422/2023-15 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal do Pedagogo, a ser comemorado anualmente no dia 20 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comemoração instituída passará a integrar o Calendário Oficial de Data e Eventos do Município de São Vicente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 5 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.496, de 5 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04495",
+   "short": "Lei 4495/2023",
+   "title": "Lei nº 4.495, de 4 de dezembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1935",
+   "first_law": "lei-2023-04495",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1935/l4495.pdf",
+     "sha256": "b76b5d6f6edee8814e8ed6c142b630a57c230b90a4843d660fd3d3cf013a8afd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4495 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 00005845/2023-27 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de dezembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.495, de 4 de dezembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04489",
+   "short": "Lei 4489/2023",
+   "title": "Lei nº 4.489, de 16 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1363",
+   "first_law": "lei-2023-04489",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1363/l4489.pdf",
+     "sha256": "73edd9e044589a1d4834e273c6db76dba97dc6b7bbddc7a5ea9ccf351d0dc3f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4489 Projeto de Lei n.º 154/23 de autoria do Vereador Higor Ferreira Declara Patrimônio Cultural Imaterial do Município as Quadrilhas Juninas de São Vicente.\nProc. n.º 00003607/2023-KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam declaradas Patrimônio Cultural Imaterial do Município as Quadrilhas Juninas de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 16 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.489, de 16 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04488",
+   "short": "Lei 4488/2023",
+   "title": "Lei nº 4.488, de 14 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1362",
+   "first_law": "lei-2023-04488",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1362/l4488.pdf",
+     "sha256": "6abfb5ff87862f8db071a844a02ff115cc94d6249a9fd37b8d33fb1cbe8d140d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4488 Projeto de Lei n.º 161/23 de autoria do Vereador Jabá Institui e inclui no Calendário Oficial de Eventos do Município a Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla e dá outras providências.\nProc. n.º 00004384/2023-75 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, passando a integrar o Calendário Oficial de Eventos do Município, a Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla.\nParágrafo único. A Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla será celebrada na semana que compreende os dias 21 a 28 de agosto de cada ano, em concomitância com a Lei Federal n.º 13.585/2017.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A realização da Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla visa ao desenvolvimento de conteúdos para conscientizar a sociedade sobre as necessidades específicas de organização social e de políticas públicas para promover a inclusão social e para combater o preconceito e a discriminação, podendo ser firmadas parcerias visando realizar ações como palestras, debates, distribuição de material gráfico de orientação à comunidade em geral, dentre outras iniciativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Cabe ao Poder Executivo, mediante regulamentações, definir e editar normas complementares necessárias à execução da presente Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.488, de 14 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04486",
+   "short": "Lei 4486/2023",
+   "title": "Lei nº 4.486, de 14 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1360",
+   "first_law": "lei-2023-04486",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1360/l4486.pdf",
+     "sha256": "3f526ade3b86a789663934df66e8fea99c3c056efd17d4475c5bdbe92479d8d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4486 Projeto de Lei n.º 162/23 de autoria do Vereador Jabá Institui e inclui no Calendário Oficial de Eventos do Município o Dia Municipal das Pessoas com Paralisia Cerebral e dá outras providências.\nProc. n.º 00004337/2023-21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, passando a integrar o Calendário Oficial de Eventos do Município, o Dia Municipal das Pessoas com Paralisia Cerebral, a ser realizado anualmente no dia 20 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º -Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.486, de 14 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04483",
+   "short": "Lei 4483/2023",
+   "title": "Lei nº 4.483, de 10 de novembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1055",
+   "first_law": "lei-2023-04483",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/1055/l4483.pdf",
+     "sha256": "c83ea2c0a2843ca0787df05f939924e586e11d86a1d003a521f36d98e73fafd4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4483 Projeto de Lei n.º 127/23 de autoria do Vereador Benevan Souza Dispõe sobre o dever de as unidades públicas e privadas de saúde informarem sobre a adoção de nascituro.\nProc. nº 00000563/2023-33 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º -As unidades públicas e privadas de saúde do Município de São Vicente deverão expor, a critério do Poder Executivo, em locais de fácil visualização, os seguintes dizeres informativos: \"A entrega de filho para a adoção, mesmo durante a gravidez, não é crime. Caso queira fazê-lo, ou conheça alguém nessa situação, procure a Vara da Infância e da Juventude. Além de legal, o procedimento é sigiloso\".\nParágrafo único. As informações previstas no caput devem conter, ainda, endereço e telefone atualizados da Vara da Infância e Juventude da Comarca ou Foro Regional.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º -Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 10 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.483, de 10 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
