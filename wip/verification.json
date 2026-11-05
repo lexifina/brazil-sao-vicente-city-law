@@ -9,5 +9,13 @@
   "missing_in_force": 0,
   "trailer_errors": 0,
   "versions": 206
+ },
+ "rebuild": {
+  "commits": 259,
+  "corpus_sha256": "5b673a8b13ea87d69d79d8e657b153523d7b22f0bd6dcac637277aeafe5c9dd5",
+  "history_tip": "a6aa86f4fc285b7fc4258aba2064e6f57dd9796d",
+  "identical": true,
+  "main_identical": true,
+  "tags": 518
  }
 }

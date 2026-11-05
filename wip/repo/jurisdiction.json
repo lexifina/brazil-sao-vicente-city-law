@@ -5,5 +5,5 @@
   "level": "municipality",
   "parent": "br-sp",
   "repo": "https://github.com/lexifina/brazil-sao-vicente-city-law",
-  "build": "built: the law of São Vicente from the Câmara Municipal's SAPL"
+  "build": "partial: 256 municipal laws as enacted (203 article-file acts and 53 complete-text acts), plus the Lei Orgânica with SAPL history"
 }
