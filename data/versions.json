@@ -5446,6 +5446,146 @@
    ]
   },
   {
+   "slug": "lc-2019-00975",
+   "short": "LC 975/2019",
+   "title": "Lei Complementar nº 975, de 13 de dezembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4407",
+   "versions": [
+    {
+     "from": "2019-12-15",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4407/lc975.pdf",
+     "sha256": "443789ff661b2e84ce51f7d5f1467f152db9795697adc57b8424941ebc63ea34"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00974",
+   "short": "LC 974/2019",
+   "title": "Lei Complementar nº 974, de 29 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4403",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4403/lc974.pdf",
+     "sha256": "cd88d13861008d85fb3b1736075cf6f6c8b8fc65436cdebb086dc9bb83f998c4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00973",
+   "short": "LC 973/2019",
+   "title": "Lei Complementar nº 973, de 26 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4405",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4405/lc973.pdf",
+     "sha256": "313d15aa842f8782837dc2094da5f29015802ddffaf4493ac8e0620da1c2a788"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00972",
+   "short": "LC 972/2019",
+   "title": "Lei Complementar nº 972, de 26 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4404",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4404/lc972.pdf",
+     "sha256": "0e002e44bb6234220ff72f3d4027f463279d74133d57e7147c61c58d74e6fd55"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00970",
+   "short": "LC 970/2019",
+   "title": "Lei Complementar nº 970, de 26 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4408",
+   "versions": [
+    {
+     "from": "2019-12-01",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4408/lc970.pdf",
+     "sha256": "6a9b85d9b3c1869ff5a5a679c6f8bc89aec5e8f7c6e0f1eef0bdcb05e801621e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00968",
+   "short": "LC 968/2019",
+   "title": "Lei Complementar nº 968, de 26 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4415",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4415/lc968.pdf",
+     "sha256": "09b323043a7214525c7729bc69009f09936e16496377a7459cd52b70f969d8d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00967",
+   "short": "LC 967/2019",
+   "title": "Lei Complementar nº 967, de 26 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4414",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4414/lc967.pdf",
+     "sha256": "304aba185a3a0c1c866b73bda5edd6d0b57fc4f857a4bd5a19f94a1f14dd1416"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00962",
+   "short": "LC 962/2019",
+   "title": "Lei Complementar nº 962, de 6 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2043",
+   "versions": [
+    {
+     "from": "2019-11-06",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/2043/lc962.pdf",
+     "sha256": "451aef0ff76e7d1718e703602c924006ea72a4778eb512171ee25e0c33a33e82"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00961",
+   "short": "LC 961/2019",
+   "title": "Lei Complementar nº 961, de 5 de novembro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4165",
+   "versions": [
+    {
+     "from": "2019-11-05",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4165/lc961.pdf",
+     "sha256": "c63c80d91ccfb1876b84e4bc684d056c43ba21ad55b1009e8061a0557c723f37"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00958",
+   "short": "LC 958/2019",
+   "title": "Lei Complementar nº 958, de 21 de outubro de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4416",
+   "versions": [
+    {
+     "from": "2019-10-25",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4416/lc958.pdf",
+     "sha256": "f7aa55641d4309bed187a9f9f27726dda2bf97bdd0aa49a3b4e2d40d55d5745b"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
