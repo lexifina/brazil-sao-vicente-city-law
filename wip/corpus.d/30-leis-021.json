@@ -1,0 +1,144 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "2 acts in this part."
+  }
+ ],
+ "laws": {
+  "lc-2020-00998": {
+   "label": "Lei Complementar nº 998, de 19 de abril de 2020",
+   "title": "Altera dispositivo da Lei Complementa nº 866, de 1º.09.17, e alterações, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III, \"d\" art. 156, da Lei Federal nº 572/66 - Código Tributário Nacional. Proc. nº 31016/17",
+   "kind": "law",
+   "enacted": "2020-04-19",
+   "published": "2020-04-22",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4397",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00996": {
+   "label": "Lei Complementar nº 996, de 7 de abril de 2020",
+   "title": "Altera dispositivos da Lei Complementar n.° 268, de 28.12.99, e suas alterações, que dispõe sobre o Quadro de Pessoal da Prefeitura, cria cargos, institui o Plano de Cargos e Carreiras, e dá outras providências e da Lei Complementar n.º 293, de 17.10.00 e suas alterações, que dispõe sobre os valores de gratificações de médicos e dentistas. Proc.n.º 37812/99",
+   "kind": "law",
+   "enacted": "2020-04-07",
+   "published": "2020-04-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4399",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lc-2020-00998",
+   "short": "LC 998/2020",
+   "title": "Lei Complementar nº 998, de 19 de abril de 2020",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4397",
+   "first_law": "lc-2020-00998",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-04-22",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2020/4397/lc998.pdf",
+     "sha256": "d685066d144bc7e32242093d7b8186918034ab9494cfa62f9e220316986a2119",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 998 Altera dispositivo da Lei Complementa nº 866, de 1º.09.17, e alterações, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III, \"d\" art. 156, da Lei Federal nº 572/66 - Código Tributário Nacional.\nProc. nº 31016/17 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Passa a vigorar com a seguinte redação o art. 2º da Lei Complementar nº 866, de 1º de setembro de 2017:\nI - Art. 2º - \"Art. 2º - Os interessados em obter transação, nos termos desta Lei Complementar, deverão requerê-lo até o dia 31 de dezembro de 2020.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 19 de abril de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 998, de 19 de abril de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00996",
+   "short": "LC 996/2020",
+   "title": "Lei Complementar nº 996, de 7 de abril de 2020",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4399",
+   "first_law": "lc-2020-00996",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2020/4399/lc996.pdf",
+     "sha256": "eb13e188554326d62eea3c57db26cbdb4a19a85c4970888105d2c847687c6496",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 996 Altera dispositivos da Lei Complementar nº 268, de 28.12.99, e suas alterações, que dispõe sobre o Quadro de Pessoal da Prefeitura, cria cargos, institui o Plano de Cargos e Carreiras, e dá outras providências e da Lei Complementar nº 293, de 17.10.00 e suas alterações, que dispõe sobre os valores de gratificações de médicos e dentistas.\nProc. nº 37812/99 PEDRO GOUVÊA, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Os servidores titulares dos cargos de Enfermeiro e suas especialidades, bem como o de Dentista e suas especialidades, terão a Referência Salarial alterada de \"K\" para \"L\", a partir de 1º de janeiro de 2021, e de \"L\" para \"M\", a partir de 1º de julho de 2021.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Passa a vigorar com a seguinte alteração o dispositivo abaixo relacionado na Lei Complementar nº 293, de 17 de outubro de 2000, e suas alterações:\n\"Art. 4º - A remuneração por plantão extra, realizado por Dentistas, e suas respectivas especialidades, corresponderá aos seguintes valores:\nI - plantão de 12 (doze) horas: R$ 500,00 (quinhentos reais).\nII - plantão de 24 (vinte e quatro) horas: R$ 1.000,00 (mil reais).\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas decorrentes da execução desta Lei Complementar correrão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta Lei Complementar entra em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Revogam-se as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 7 de abril de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 996, de 7 de abril de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
