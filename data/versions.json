@@ -5586,6 +5586,104 @@
    ]
   },
   {
+   "slug": "lc-2019-00952",
+   "short": "LC 952/2019",
+   "title": "Lei Complementar nº 952, de 9 de agosto de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4418",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4418/lc952.pdf",
+     "sha256": "ac17246d568635c85c39f040e5bf8e67b94395a443377c4edd5b59130475725e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00951",
+   "short": "LC 951/2019",
+   "title": "Lei Complementar nº 951, de 9 de agosto de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4421",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4421/lc951.pdf",
+     "sha256": "9564a507b20c595385e98a5fce70c68c84b504b224832b4aa9daad6c595a4bd4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00950",
+   "short": "LC 950/2019",
+   "title": "Lei Complementar nº 950, de 9 de agosto de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4420",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4420/lc950.pdf",
+     "sha256": "90200c3d23d4b3f6d304419ba72759c30f2bd24db2e4d0e981c9e7bb054cb42e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00948",
+   "short": "LC 948/2019",
+   "title": "Lei Complementar nº 948, de 26 de julho de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/5390",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/5390/lc948.pdf",
+     "sha256": "b18f0c13629c45076e30c370786b4e33026d652c6f1ac9031dab6cd1bfc6fa0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00940",
+   "short": "LC 940/2019",
+   "title": "Lei Complementar nº 940, de 4 de junho de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4175",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4175/lc940.pdf",
+     "sha256": "b2e3a8fba083ebb0f25a89b7c55f249f524a36e8444a66704267bda499e4a1bd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00936",
+   "short": "LC 936/2019",
+   "title": "Lei Complementar nº 936, de 23 de maio de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4170",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/4170/lc936.pdf",
+     "sha256": "793a5f991199c7e37da926bd9b697d7d5dc45fb4ccb69766859923a7f320e166"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00933",
+   "short": "LC 933/2019",
+   "title": "Lei Complementar nº 933, de 15 de abril de 2019",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/639",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2019/639/lc933.pdf",
+     "sha256": "98543e074ce8a4488384bcdf2c15484b4c08aa02260dc2ce4032ac1e25193100"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
