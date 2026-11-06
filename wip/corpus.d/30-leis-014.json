@@ -1,0 +1,1404 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "27 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2022-04322": {
+   "label": "Lei nº 4.322, de 23 de setembro de 2022",
+   "title": "Institui o \"Banco de Armações de Óculos de Grau\" para fornecimento gratuito às pessoas carentes do Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1486",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04321": {
+   "label": "Lei nº 4.321, de 23 de setembro de 2022",
+   "title": "Denomina Edu Teixeira Tavares a Rua 7 (Mecanizada 6013), localizada no bairro Vila Margarida.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1057",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04320": {
+   "label": "Lei nº 4.320, de 23 de setembro de 2022",
+   "title": "Denomina Ana Cristina Pessoa Ferraz a Rua 24, localizada no bairro Parque Continental.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1387",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04319": {
+   "label": "Lei nº 4.319, de 23 de setembro de 2022",
+   "title": "Denomina Emílio Vaz Cid a Rua 6 (mecanizada 6012), localizada no bairro Vila Margarida.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1063",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04318": {
+   "label": "Lei nº 4.318, de 23 de setembro de 2022",
+   "title": "Denomina Rosemary Reis Marques a Rua 136, localizada no bairro Catiapoã.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1800",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04317": {
+   "label": "Lei nº 4.317, de 23 de setembro de 2022",
+   "title": "Denomina Natair Napoleão Ferreira a Rua 5 (Mecanizxada 6011), localizada no bairro Vila Margarida.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1799",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04316": {
+   "label": "Lei nº 4.316, de 23 de setembro de 2022",
+   "title": "Considera de Utilidade Pública a Associação Esportiva, Cultural e de Capoeira de São Vicente",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1798",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04314": {
+   "label": "Lei nº 4.314, de 23 de setembro de 2022",
+   "title": "Dispõe sobre a obrigatoriedade da realização, pelas unidades hospitalares das redes pública e privada de São Vicente, de exames para diagnóstico precoce da encefalopatia crônica não progressiva da infância (paralisia cerebral) em crianças de dois a três anos de idade.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1796",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04313": {
+   "label": "Lei nº 4.313, de 23 de setembro de 2022",
+   "title": "Dispõe sobre a obrigatoriedade de instalação de grades ou redes de proteção nas janelas, sacadas e mezaninos em residências e edifícios localizados no Município e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-09-23",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1795",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04312": {
+   "label": "Lei nº 4.312, de 21 de setembro de 2022",
+   "title": "Institui no Município de São Vicente o \"Maio Furta Cor\", mês dedicado às ações de conscientização, incentivo ao cuidado e à promoção da saúde mental materna.",
+   "kind": "law",
+   "enacted": "2022-09-21",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1495",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04310": {
+   "label": "Lei nº 4.310, de 13 de setembro de 2022",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2022-09-13",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1496",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-01064": {
+   "label": "Lei Complementar nº 1.064, de 5 de setembro de 2022",
+   "title": "Altera dispositivos da Lei Complementar n.º 1.030, de 27 de outubro de 2021, que institui, no âmbito do Município de São Vicente, o Regime de Previdência Complementar de que trata o artigo 40, §§ 14, 15 e 16, da Constituição Federal. Proc. 31831/21",
+   "kind": "law",
+   "enacted": "2022-09-05",
+   "published": "2022-09-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4306",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04309": {
+   "label": "Lei nº 4.309, de 4 de agosto de 2022",
+   "title": "Institui no Calendário Oficial de Eventos do Município o Campeonato Municipal de Skate.",
+   "kind": "law",
+   "enacted": "2022-08-04",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1492",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04308": {
+   "label": "Lei nº 4.308, de 4 de agosto de 2022",
+   "title": "Torna obrigatória a instalação de contentores de lixo nos casos que especifica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-08-04",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1396",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04307": {
+   "label": "Lei nº 4.307, de 29 de julho de 2022",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município o Dia Municipal de Luta pela Educação Inclusiva.",
+   "kind": "law",
+   "enacted": "2022-07-29",
+   "published": "2022-08-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1502",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04306": {
+   "label": "Lei nº 4.306, de 29 de julho de 2022",
+   "title": "Cria o Programa de Transporte Escolar Municipal Gratuito aos alunos matriculados nas escolas municipais de educação infantil, de ensino fundamental, de educação especial e de educação de jovens e adultos, e dá outras providências. Proc. n.º 33163/22",
+   "kind": "law",
+   "enacted": "2022-07-29",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1503",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04305": {
+   "label": "Lei nº 4.305, de 22 de julho de 2022",
+   "title": "Institui o Programa Motos que Salvam, no Serviço de Atendimento Móvel de Urgência (SAMU), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-07-22",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1504",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04304": {
+   "label": "Lei nº 4.304, de 22 de julho de 2022",
+   "title": "Institui na rede municipal de ensino a Educação Física Inclusiva para estudantes com deficiência e necessidades, especiais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-07-22",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1505",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04299": {
+   "label": "Lei nº 4.299, de 14 de julho de 2022",
+   "title": "Dispõe sobre a criação de campanha sobre os malefícios do uso do cigarro eletrônico no Município de São Vicente.",
+   "kind": "law",
+   "enacted": "2022-07-14",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1498",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04298": {
+   "label": "Lei nº 4.298, de 14 de julho de 2022",
+   "title": "Altera a redação do caput e inciso II, do Art. 3º, da Lei nº 3903-A, de 24.06.2019, que cria o Conselho Municipal da Cultura de Paz - COMPAZ-SV e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-07-14",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1501",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04297": {
+   "label": "Lei nº 4.297, de 14 de julho de 2022",
+   "title": "Altera a redação do art. 1º da Lei nº 860-A, de 20.06.00, e alterações, que dispõe sobre a nomeação dos Presidentes e Suplentes das JARIs Municipais, fixa remuneração a título pro labore e estabelece condições para a percepção dessa remuneração.",
+   "kind": "law",
+   "enacted": "2022-07-14",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1846",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04296": {
+   "label": "Lei nº 4.296, de 14 de julho de 2022",
+   "title": "Autoriza a cessão de uso do imóvel localizado na Rua Nicolau Guirao Peres, nº 75, onde se encontra instalado o Serviço Anexo da Fazenda Pública do Tribunal de Justiça do Estado de São Paulo.",
+   "kind": "law",
+   "enacted": "2022-07-14",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1851",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04295": {
+   "label": "Lei nº 4.295, de 14 de julho de 2022",
+   "title": "Altera a redação da Lei nº 2636-A, de 03.06.11, que dispõe sobre o Conselho Municipal de Promoção da Igualdade Racial.",
+   "kind": "law",
+   "enacted": "2022-07-14",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1852",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04292": {
+   "label": "Lei nº 4.292, de 7 de julho de 2022",
+   "title": "Altera a redação dos §§ 1º e 2º do art. 1.º da Lei Municipal nº 2603-A, de 6 de maio de 2011, que dispõe sobre obrigatoriedade do cumprimento de exigências legais para expedição de licença de localização e funcionamento para novas agências bancárias no Município.",
+   "kind": "law",
+   "enacted": "2022-07-07",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1841",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-01053": {
+   "label": "Lei Complementar nº 1.053, de 7 de julho de 2022",
+   "title": "Revoga o artigo 5º da Lei Complementar n.º 726, de 04 de outubro de 2013. Proc. n.º 19684/13",
+   "kind": "law",
+   "enacted": "2022-07-07",
+   "published": "2022-07-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4318",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-01052": {
+   "label": "Lei Complementar nº 1.052, de 7 de julho de 2022",
+   "title": "Autoriza a renovação automática, para o exercício de 2023 de isenções de IPTU já concedidas no exercício de 2022, nos termos que especifica. Proc. n.º 19767/22",
+   "kind": "law",
+   "enacted": "2022-07-07",
+   "published": "2022-07-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4319",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04290": {
+   "label": "Lei nº 4.290, de 27 de junho de 2022",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2022-06-27",
+   "published": null,
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1807",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2022-04322",
+   "short": "Lei 4322/2022",
+   "title": "Lei nº 4.322, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1486",
+   "first_law": "lei-2022-04322",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1486/l4322.pdf",
+     "sha256": "23a0dab1b02dd90b1b911e901fb333f20f457e46d1610bb0475ca23c58f86833",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4322 Projeto de Lei n.º 112/22 de autoria do Vereador Dercinho Negão do Caminhão Institui o \"Banco de Armações de Óculos de Grau\" para fornecimento gratuito às pessoas carentes do Município de São Vicente.\nProc. n.º 41899/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o \"Banco de Armações de Óculos de Grau\" para fornecimento gratuito às pessoas carentes do Município de São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O \"Banco de Armações de Óculos de Grau\" visa coletar, armazenar e distribuir armações de óculos de grau, em bom estado de conservação, provenientes de doações de pessoas físicas e jurídicas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O \"Banco de Armações de Óculos de Grau\" destina-se exclusivamente ao atendimento de pessoas comprovadamente carentes, mediante cadastro, sendo indispensável a apresentação, por parte do beneficiário, do receituário médico que comprove a necessidade do uso de óculos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica proibida a comercialização das armações de óculos de grau coletados e doados pelo Banco de Armações de Óculos de Grau.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.322, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04321",
+   "short": "Lei 4321/2022",
+   "title": "Lei nº 4.321, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1057",
+   "first_law": "lei-2022-04321",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1057/lei4321.pdf.pdf",
+     "sha256": "7d6af70045bcdb2cd8fc12b538caa4b05c520726aa156f7ee56c4efca706b8fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4321 Projeto de Lei n.º 109/22 de autoria do Vereador Prof. Thiago Alexandre Denomina Edu Teixeira Tavares a Rua 7 (Mecanizada 6013), localizada no bairro Vila Margarida.\nProc. n.º 41898/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Edu Teixeira Tavares a Rua 7, com início na Avenida Dois e término na Rua 4, no bairro Vila Margarida, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.321, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04320",
+   "short": "Lei 4320/2022",
+   "title": "Lei nº 4.320, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1387",
+   "first_law": "lei-2022-04320",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1387/l4320.pdf",
+     "sha256": "9a3eb5a6fc044b4a8eb544f4383c8da0554d3bf4445dc0d4a7e9f01c488b070f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4320 Projeto de Lei n.º 107/22 de autoria do Vereador Prof. Thiago Alexandre Denomina Ana Cristina Pessoa Ferraz a Rua 24, localizada no bairro Parque Continental.\nProc. n.º 41897/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Ana Cristina Pessoa Ferraz a Rua 24, com início na Avenida Paschoal Gzebien e término na Rua Hugo Ventura, no bairro Parque Continental, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.320, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04319",
+   "short": "Lei 4319/2022",
+   "title": "Lei nº 4.319, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1063",
+   "first_law": "lei-2022-04319",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1063/l4319.pdf",
+     "sha256": "c08075908e3b22cea324a10cc8b0f52bb8bc19ea8065391f21cc9236c81447fc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4319 Projeto de Lei n.º 106/22 de autoria do Vereador Prof. Thiago Alexandre Denomina Emílio Vaz Cid a Rua 6 (Mecanizada 6012), localizada no bairro Vila Margarida.\nProc. n.º 41895/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Emílio Vaz Cid a Rua 6 (Mecanizada 6012), com início na Avenida Dois e término na Rua 4, no bairro Vila Margarida, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.319, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04318",
+   "short": "Lei 4318/2022",
+   "title": "Lei nº 4.318, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1800",
+   "first_law": "lei-2022-04318",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1800/ord-4318-2022-sao_vicente-sp.pdf",
+     "sha256": "e39343758e571634e14d19cfc8ff9bafd49f841f6c70c645b734806c0cddcbe9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4318 Projeto de Lei n.º 104/22 de autoria do Vereador Prof. Thiago Alexandre Denomina Rosemary Reis Marques a Rua 136, localizada no bairro Catiapoã.\nProc. n.º 41894/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rosemary Reis Marques a Rua 136, com início na Rua João Batista Robortela e término na Travessa do Parque, no bairro Catiapoã, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.318, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04317",
+   "short": "Lei 4317/2022",
+   "title": "Lei nº 4.317, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1799",
+   "first_law": "lei-2022-04317",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1799/ord-4317-2022-sao_vicente-sp.pdf",
+     "sha256": "71d35210381b12807f02ed7b1f40e1b2efadb17ca4d4c23bc976fc752f0c0fae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4317 Projeto de Lei n.º 103/22 de autoria do Vereador Prof. Thiago Alexandre Denomina Natair Napoleão Ferreira a Rua 5 (Mecanizada 6011), localizada no bairro Vila Margarida.\nProc. n.º 41893/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Natair Napoleão Ferreira a Rua 5 (Mecanizada 6011), com início na Rua do Canal, terminando na Avenida \"B\", no bairro Vila Margarida, em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.317, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04316",
+   "short": "Lei 4316/2022",
+   "title": "Lei nº 4.316, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1798",
+   "first_law": "lei-2022-04316",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1798/ord-4316-2022-sao_vicente-sp.pdf",
+     "sha256": "8891f76e54c4a4ec0adbec9912fa93b0560a91e7b86a4b2c026d97df400ba4e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4316 Projeto de Lei n.º 121/22 de autoria do Vereador Jabá Considera de Utilidade Pública a Associação Esportiva, Cultural e de Capoeira de São Vicente.\nProc. n.º 43301/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de Utilidade Pública a Associação Esportiva, Cultural e de Capoeira de São Vicente, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.316, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04314",
+   "short": "Lei 4314/2022",
+   "title": "Lei nº 4.314, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1796",
+   "first_law": "lei-2022-04314",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1796/ord-4314-2022-sao_vicente-sp.pdf",
+     "sha256": "09d3caf60762843d6e9606dc0290664500d6a8a5aed9e2fdbc7909071148f238",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4314 Projeto de Lei n.º 29/22 de autoria do Vereador Jabá Dispõe sobre a obrigatoriedade da realização, pelas unidades hospitalares das redes pública e privada de São Vicente, de exames para diagnóstico precoce da encefalopatia crônica não progressiva da infância (paralisia cerebral) em crianças de dois a três anos de idade.\nProc. n.º 41890/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As unidades hospitalares das redes pública e privada do Município de São Vicente deverão realizar exames para diagnóstico precoce da encefalopatia crônica não progressiva da infância (paralisia cerebral).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os exames deverão ser realizados de dois a três anos após o nascimento da criança, salvo quando, por determinação médica, outra data for julgada necessária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os exames de que trata esta Lei são os seguintes:\nI - Posição Prona;\nII - O Reflexo de Moro;\nIII - O Reflexo de Marcha.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.314, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04313",
+   "short": "Lei 4313/2022",
+   "title": "Lei nº 4.313, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1795",
+   "first_law": "lei-2022-04313",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1795/ord-4313-2022-sao_vicente-sp.pdf",
+     "sha256": "b22e7c5124efa0536b1ee678c07e90582091af59d720c7535a8e330541fa643e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4313 Projeto de Lei n.º 98/22 de autoria do Vereador Rodrigo Digão Dispõe sobre a obrigatoriedade de instalação de grades ou redes de proteção nas janelas, sacadas e mezaninos em residências e edifícios localizados no Município e dá outras providências.\nProc. n.º 41887/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica obrigatória a instalação de grades ou redes de proteção nas janelas, sacadas e mezaninos de residências e edifícios residenciais localizados no Município que possuem mais de um pavimento. Parágrafo único. A obrigatoriedade a que se refere o caput aplica-se somente aos moradores que possuem crianças de até 10 anos habitando o imóvel.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A responsabilidade relacionada à instalação das redes de proteção ou grades fica a cargo do proprietário do imóvel.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento do disposto nesta Lei sujeitará o infrator às seguintes sanções:\nI - advertência, intimando o infrator a sanar as irregularidades no prazo de 30 (trinta) dias;\nII - multa, nos seguintes casos:\na) o não cumprimento ou a utilização inadequada das redes de proteção ou grades, no valor de R$ 300,00 (trezentos reais);\nb) em caso de reincidência, o valor estabelecido na alínea \"a\" será cobrado em dobro.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 23 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.313, de 23 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04312",
+   "short": "Lei 4312/2022",
+   "title": "Lei nº 4.312, de 21 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1495",
+   "first_law": "lei-2022-04312",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1495/l4312.pdf",
+     "sha256": "1c55569b93315155a94343e2d0db05165b0211036bb886108871e01edce8b239",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4312 Projeto de Lei n.º 99/22 de Autoria do Vereador Dercinho Negão do Caminhão Institui no Município de São Vicente o \"Maio Furta-Cor\", mês dedicado às ações de conscientização, incentivo ao cuidado e à promoção da saúde mental materna.\nProc. n.º 41889/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de São Vicente, o \"Maio Furta-Cor\", mês dedicado às ações de conscientização, incentivo ao cuidado e à promoção da saúde mental materna.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As ações de conscientização, incentivo ao cuidado e à promoção do tema objeto desta Lei poderão ser desenvolvidas por meio de reuniões, palestras, cursos, oficinas, seminários, distribuição de material informativo, dentre outras atividades, sempre priorizando:\nI - a conscientização da população sobre a saúde mental materna;\nII - o incentivo aos órgãos municipais, empresas, entidades de classe, associações, federações e à sociedade civil organizada para se engajarem nas campanhas sobre o tema objeto desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder executivo Municipal regulamentará a presente L ei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 21 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.312, de 21 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04310",
+   "short": "Lei 4310/2022",
+   "title": "Lei nº 4.310, de 13 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1496",
+   "first_law": "lei-2022-04310",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1496/l4310.pdf",
+     "sha256": "01b41d5654bbd36a795cb2d787a15557480ab64901322ae62f5d922c228a709b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4310 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 39483/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.310, de 13 de setembro de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01064",
+   "short": "LC 1064/2022",
+   "title": "Lei Complementar nº 1.064, de 5 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4306",
+   "first_law": "lc-2022-01064",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/4306/lc1064.pdf",
+     "sha256": "bb94a9c8237af9b8588bf028b2951d0084c80de9d45f6676790cc92514db0958",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1064 Altera dispositivos da Lei Complementar n.º 1.030, de 27 de outubro de 2021, que institui, no âmbito do Município de São Vicente, o Regime de Previdência Complementar de que trata o artigo 40, §§ 14, 15 e 16, da Constituição Federal.\nProc. 31831/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do artigo 5º da Lei Complementar n.º 1.030, de 27 de outubro de 2021, passa a vigorar com a seguinte redação:\n\"Art. 5º ...\n§ 1º Fica assegurado ao participante o direito de requerer, a qualquer tempo, o cancelamento de sua inscrição, observados os termos do regulamento do plano de benefícios\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os §§ 2º e 3º do artigo 5º da Lei Complementar n.º 1.030, de 27 de outubro de 2021.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 05 de setembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.064, de 5 de setembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04309",
+   "short": "Lei 4309/2022",
+   "title": "Lei nº 4.309, de 4 de agosto de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1492",
+   "first_law": "lei-2022-04309",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1492/l4309.pdf",
+     "sha256": "5774ef242264b4fb0581e5081a06e75dfe317753eb633585e76ff3586a08743f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4309 Projeto de Lei nº 95/22 de autoria do Vereador Dercinho Negão do Caminhão Institui no Calendário Oficial de Eventos do Município o Campeonato Municipal de Skate.\nProc. nº 34540/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Campeonato Municipal de Skate, que será realizado anualmente na semana do dia 6 de março, mês em que se comemora o Dia Municipal do Skatista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Campeonato Municipal de Skate levará o nome de \"Lemuel Dinho\" e passa a integrar o Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Poderão ser firmadas parcerias com a iniciativa privada e entidades do terceiro setor para a execução do Campeonato Municipal de Skate.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A instituição do Campeonato Municipal de Skate não inviabiliza a realização de outros ao longo do ano, independentemente de serem incentivados pelo Poder Público por meio de parcerias, ou incentivados e patrocinados pela iniciativa privada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de agosto de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.309, de 4 de agosto de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04308",
+   "short": "Lei 4308/2022",
+   "title": "Lei nº 4.308, de 4 de agosto de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1396",
+   "first_law": "lei-2022-04308",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1396/l4308.pdf",
+     "sha256": "950cdf6201ddc7ccce704a03c6e83937fc9272d56886d636003064d59a74c8bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4308 REVOGADA PELA LEI Nº 4338 Projeto de Lei nº 75/22 de autoria do Vereador Adilson da Farmácia Torna obrigatória a instalação de contentores de lixo nos casos que especifica e dá outras providências.\nProc. nº 33858/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam os administradores de condomínios residenciais e comerciais obrigados a instalar contentores de lixo nos condomínios sob sua responsabilidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento do disposto nesta Lei sujeitará o infrator às seguintes sanções:\nI - advertência, intimando o infrator para sanar as irregularidades no prazo de 30 (trinta) dias;\nII - multa, nos seguintes casos:\na) o não cumprimento ou a utilização inadequada dos contentores de lixo, no valor de R$ 600,00 (seiscentos reais);\nb) em caso de reincidência, o valor estabelecido na alínea \"a\" será cobrado em dobro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de agosto de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.308, de 4 de agosto de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04307",
+   "short": "Lei 4307/2022",
+   "title": "Lei nº 4.307, de 29 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1502",
+   "first_law": "lei-2022-04307",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1502/l4307.pdf",
+     "sha256": "d0619b492c3d1c4a9de8f4a3033fac4a8aedc6e6b9751e3676fb0b221a35b5fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4307, DE 29 DE JULHO DE 2022.\nProjeto de Lei nº 94/22 de autoria do Vereador Jabá Institui e inclui no Calendário Oficial de Eventos do Município o Dia Municipal de Luta pela Educação Inclusiva.\nProc. nº 33859/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído e passa a constar do Calendário Oficial de Eventos do Município o Dia Municipal de Luta pela Educação Inclusiva, a ser celebrado anualmente no dia 14 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 29 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.307, de 29 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04306",
+   "short": "Lei 4306/2022",
+   "title": "Lei nº 4.306, de 29 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1503",
+   "first_law": "lei-2022-04306",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1503/l4306.pdf",
+     "sha256": "3aa54851ae74f0e1928ecff7abdd8bee2aa8d5c0037b87a4a051e44834b789a5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4306, DE 29 DE JULHO DE 2022.\nCria o Programa de Transporte Escolar Municipal Gratuito aos alunos matriculados nas escolas municipais de educação infantil, de ensino fundamental, de educação especial e de educação de jovens e adultos, e dá outras providências.\nProc. nº 33163/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Programa de Transporte Escolar Gratuito no Município de São Vicente, com o objetivo de garantir aos alunos matriculados na rede pública municipal de ensino o acesso às escolas municipais de:\nI- educação infantil;\nII - ensino fundamental;\nIII - educação especial; e\nIV - educação de jovens e adultos.\nParágrafo único. Fica autorizado ao Poder Executivo Municipal firmar Convênio com o Governo do Estado a fim de viabilizar o passe escolar aos alunos da rede pública estadual de ensino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Transporte Escolar Municipal Gratuito constitui-se no serviço de transporte dos alunos de suas residências até os estabelecimentos de ensino e destes até suas residências, nos horários normais de aulas e também em atividades complementares realizadas fora desses horários, visando garantir o efetivo e universal acesso à educação e à escola.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica o Município autorizado a oferecer o transporte escolar gratuito aos alunos da rede municipal com 12 (doze) anos ou mais através da empresa concessionária ou prestadora dos serviços de transporte coletivo, através de contrato específico para este fim.\nParágrafo único. No caso previsto no caput deste artigo, serão observadas as disposições do inciso IV do artigo 8º da Lei Complementar Municipal nº 925/18.\nPublicado em: 29/07/2022, no BOM - Boletim Oficial do Município.\nLEI Nº 4306 fl. 02\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para os alunos de 4 (quatro) a 11 (onze) anos e para os que frequentam os estabelecimentos de educação especial, o Município oferecerá o transporte escolar gratuito aos alunos da rede municipal de forma direta ou através de empresa prestadora de serviços especialmente contratada para esta finalidade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os serviços descritos nos artigos 3º e 4º desta Lei serão regulamentados por Decreto em até 90 (noventa) dias de sua publicação, considerando o previsto no inciso II, do artigo 13 da Lei Complementar Municipal nº 925/18.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias da Secretaria Municipal da Educação, suplementadas se necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 29 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.306, de 29 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04305",
+   "short": "Lei 4305/2022",
+   "title": "Lei nº 4.305, de 22 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1504",
+   "first_law": "lei-2022-04305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1504/l4305.pdf",
+     "sha256": "ca6a1f938f21e773385ee286f145044f4cd3eee116790531b022e0dc8d0cd270",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4305, DE 22 DE JULHO DE 2022.\nProjeto de Lei nº 86/22 de autoria do Vereador Jabá Institui o Programa Motos que Salvam, no Serviço de Atendimento Móvel de Urgência (SAMU), e dá outras providências.\nProc. nº 31671/22.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa Motos que Salvam no âmbito do Serviço de Atendimento Móvel de Urgência (SAMU), em São Vicente.\nParágrafo único - O programa instituído por esta Lei consiste na possibilidade de implantação de veículo motocicleta - motolância - como mais um recurso de intervenção móvel para atendimento de emergências e urgências disponível e integrado à frota do SAMU.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As motocicletas - motolâncias - destinadas ao Programa Motos que Salvam serão utilizadas para o cumprimento dos seguintes objetivos:\nI - atender prioritariamente intervenções nos acionamentos de unidade de suporte avançado de vida, como forma de assegurar a chegada do socorro no menor tempo de resposta possível, preservando-se a segurança do condutor da motocicleta;\nII - atender intervenções em eventos e locais de reconhecido difícil acesso a veículos de urgência (ambulâncias), em razão de características geográficas, condições da malha viária e outras peculiaridades de cada região de abrangência do serviço, bem como em outras situações dessa natureza que possam ser identificadas pela central de regulação com motivação para utilização da motocicleta;\nIII - prestar apoio nas intervenções de suporte básico e avançado de vida, quando for necessário auxílio direto na cena de mais um técnico de enfermagem para assistência em procedimentos que necessitem de mais profissionais;\nPublicado em: 29/07/2022, no BOM - Boletim Oficial do Município.\nLEI Nº 4305 fl. 02\nIV - atender a demais situações de agravo à saúde da população, em que possa haver benefício no emprego da motocicleta, no intuito de viabilizar o início de manobras de suporte básico de vida.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo, ao regulamentar esta Lei, observará os regramentos técnicos relacionados à matéria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 22 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.305, de 22 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04304",
+   "short": "Lei 4304/2022",
+   "title": "Lei nº 4.304, de 22 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1505",
+   "first_law": "lei-2022-04304",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-22",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1505/l4304.pdf",
+     "sha256": "e049e9313f6f9c3c0f7912cf6ddc02e499791a09242a94e87b9ce8ff97b7a34f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4304, DE 22 DE JULHO DE 2022.\nProjeto de Lei nº 76/22 de autoria do Vereador Jabá Institui na rede municipal de ensino a Educação Física Inclusiva para estudantes com deficiência e necessidades, especiais e dá outras providências.\nProc. nº 30809/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída na rede municipal de ensino a Educação Física Inclusiva, destinada a assegurar e a promover direitos fundamentais, visando ao exercício dos direitos, à inclusão social e à cidadania.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O programa Educação Física Inclusiva deverá observar as seguintes diretrizes:\nI - garantir a inclusão do estudante com deficiência ou necessidades especiais nas atividades da educação física escolar;\nII - promover a capacitação de professores da área de Educação Física para aplicação deste programa de inclusão social;\nIII - garantir a adequação dos espaços físicos das escolas, nos termos da legislação vigente, no que tange à acessibilidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Aplicam-se à presente Lei os seguintes princípios:\nI - da dignidade da pessoa humana;\nII - da proteção integral;\nIII - da proteção da infância e à juventude;\nIV - da igualdade e da não discriminação;\nV - do direito à cultura, ao esporte e ao lazer;\nVI - da acessibilidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 22 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.304, de 22 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04299",
+   "short": "Lei 4299/2022",
+   "title": "Lei nº 4.299, de 14 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1498",
+   "first_law": "lei-2022-04299",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1498/l4299.pdf",
+     "sha256": "14f1e40ad82d67d5c68181279736bc84b4ebc05531590feeca323bac0fc5a389",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4299 Projeto de Lei n.º 79/22 de autoria do Vereador Dercinho Negão do Caminhão.\nDispõe sobre a criação de campanha sobre os malefícios do uso do cigarro eletrônico no Município de São Vicente.\nProc. n.º 30807/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída campanha sobre os malefícios do uso do cigarro eletrônico no Município de São Vicente.\nParágrafo único. A campanha a que se refere o caput terá por finalidade informar, sensibilizar e conscientizar a sociedade sobre o uso do cigarro eletrônico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A campanha prevista nesta Lei terá como principal público-alvo os jovens, além dos fumantes com intenção de parar de fumar, e será realizada mediante ações educativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.299, de 14 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04298",
+   "short": "Lei 4298/2022",
+   "title": "Lei nº 4.298, de 14 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1501",
+   "first_law": "lei-2022-04298",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1501/l4298.pdf",
+     "sha256": "4d7b76a5f468f6424c4b908d2ff6e4c0abf2e88109c923db66e9abd917ee14b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4298 Altera a redação do caput e inciso II, do Art. 3º, da Lei n.º 3903-A, de 24.06.2019, que cria o Conselho Municipal da Cultura de Paz - COMPAZ-SV e dá outras providências.\nProc. n.º 44138/16 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passam a vigorar com a seguinte redação o caput e inciso II, do artigo 3º, da Lei n.º 3903-A, de 24.06.2019.\n\"Art. 3º O COMPAZ-SV será composto por 22 (vinte e dois) membros, titulares e suplentes, que atuarão diretamente na defesa da Cultura e Educação para a Paz, dentre os seguintes segmentos:\nII - 11 (onze) representantes titulares e respectivos suplentes de órgãos do Poder Público indicados e nomeados por Decreto, pelo Chefe do Poder Executivo Municipal\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.298, de 14 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04297",
+   "short": "Lei 4297/2022",
+   "title": "Lei nº 4.297, de 14 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1846",
+   "first_law": "lei-2022-04297",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1846/lei4297.pdf",
+     "sha256": "d268025e2989614f35289e164e85e4fd6f6f8c008c8a00c86288d05bacfb4f24",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4297 Altera a redação do art. 1º da Lei n.º 860-A, de 20.06.00, e alterações, que dispõe sobre a nomeação dos Presidentes e Suplentes das JARIs Municipais, fixa remuneração a título pro labore e estabelece condições para a percepção dessa remuneração.\nProc. n.º 24770/00 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a ter a seguinte redação o art. 1º da Lei n.º 860-A, de 20 de junho de 2000, e alterações:\n\"Art. 1º Os Presidentes das JARIs - Juntas Administrativas de Recursos de Infrações e seus Suplentes poderão ser quaisquer um dos integrantes do colegiado, a critério da autoridade competente para designá-los, conforme preceitua a Resolução CONTRAN n.º 357, de 02 de agosto de 2010\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.297, de 14 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04296",
+   "short": "Lei 4296/2022",
+   "title": "Lei nº 4.296, de 14 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1851",
+   "first_law": "lei-2022-04296",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1851/lei4296.pdf",
+     "sha256": "93ee4f615d7e7704e2ce6b81dde229e0022fedb0d56e0b32af8d5892ffcb3148",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4296 Autoriza a cessão de uso do imóvel localizado na Rua Nicolau Guirao Peres, n.º 75, onde se encontra instalado o Serviço Anexo da Fazenda Pública do Tribunal de Justiça do Estado de São Paulo.\nProc. n.º 37989/21 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a ceder o uso do bem público constituído pelo imóvel localizado na Rua Nicolau Guirao Peres, n.º 75, ao Poder Judiciário do Estado de São Paulo, onde se encontra instalado o Serviço Anexo da Fazenda Pública do Tribunal de Justiça do Estado de São Paulo.\nParágrafo único. Convalida-se o uso do imóvel referido no caput pelo Poder Judiciário do Estado de São Paulo por período anterior a edição desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A cessão de uso vigorará pelo prazo de 20 (vinte) ano, podendo ser prorrogada a critério das partes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A cessão de uso poderá ser revogada a qualquer tempo, mediante prévia comunicação à Concessionária.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas oriundas desta Lei onerarão as dotações orçamentárias próprias do orçamento vigente, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.296, de 14 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04295",
+   "short": "Lei 4295/2022",
+   "title": "Lei nº 4.295, de 14 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1852",
+   "first_law": "lei-2022-04295",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1852/l4295.pdf",
+     "sha256": "80e787c9268ef68b7e4ec93233a5404ed333582cbcc4536bacd6669f415da3c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4295 Altera a redação da Lei n.º 2636-A, de 03.06.11, que dispõe sobre o Conselho Municipal de Promoção da Igualdade Racial.\nProc. n.º 22201/11 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso I, art. 2º, da Lei n.º 2636-A, de 03 de junho de 2011; 3061-A, de 07.08.2013; 3207-A, de 06.06.2014, passam a vigorar com a seguinte redação:\n\"Art. 2º - ...\nI - 11 (onze) representantes titulares e respectivos suplentes de órgãos do Poder Público Municipal, indicados por Decreto e nomeados por Portaria, pelo Chefe do Poder Executivo.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 14 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.295, de 14 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04292",
+   "short": "Lei 4292/2022",
+   "title": "Lei nº 4.292, de 7 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1841",
+   "first_law": "lei-2022-04292",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1841/lei4292.pdf",
+     "sha256": "9f0a6ae7a459fdc4360ac93126c188087271d31c41f8063d18f25acd2bfa7c25",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4292 Altera a redação dos §§ 1º e 2º do art. 1.º da Lei Municipal n.º 2603-A, de 6 de maio de 2011, que dispõe sobre obrigatoriedade do cumprimento de exigências legais para expedição de licença de localização e funcionamento para novas agências bancárias no Município.\nProc. n.º 15190/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os §§ 1º e 2º do art. 1º da Lei Municipal n.º2603-A, de 6 de maio de 2011, passam a vigorar com a seguinte redação:\n\"Art. 1º ...\n§ 1º Os equipamentos a que se refere o caput deste artigo incluem porta giratória, detector de metais, onde haja guarda ou movimentação de numerário, painéis opacos nos caixas, câmeras de vigilância, cadeira de rodas, rampas de acesso para prédios de difícil acesso, sanitários, bebedouros e elevadores, no caso de prédios com mais de um pavimento.\n§ 2º O disposto no § 1º desta Lei pode ser dispensado quando não houver guarda ou movimentação de numerário na agência bancária e quando houver Plano de Segurança aprovado pela Polícia Federal, nos termos da Lei Federal n.º 7.102, de 20 de Junho 1983.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 07 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.292, de 7 de julho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01053",
+   "short": "LC 1053/2022",
+   "title": "Lei Complementar nº 1.053, de 7 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4318",
+   "first_law": "lc-2022-01053",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/4318/lc1053.pdf",
+     "sha256": "50e35658aa981e0b5b4e95b664ac48908625b862e67120c04f31882bc13704c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1053 Revoga o artigo 5º da Lei Complementar n.º 726, de 04 de outubro de 2013.\nProc. n.º 19684/13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica revogado o artigo 5º da Lei Complementar n.º 726, de 04 de outubro de 2013.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 07 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.053, de 7 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01052",
+   "short": "LC 1052/2022",
+   "title": "Lei Complementar nº 1.052, de 7 de julho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4319",
+   "first_law": "lc-2022-01052",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/4319/lc1052.pdf",
+     "sha256": "95d6aa7dafb3f93602eda022d18593daff88d140008afa147b1f3dc8498c0140",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1052 Autoriza a renovação automática, para o exercício de 2023 de isenções de IPTU já concedidas no exercício de 2022, nos termos que especifica.\nProc. n.º 19767/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica autorizada a renovação automática para exercício de 2023, das isenções de IPTU já concedidas para o exercício de 2022 com base no art. 163 da Lei Orgânica do Município, no art. 154 da Lei n.º 1.745, de 29 de setembro de 1977, na Lei Complementar n.º 34, de 19 de abril de 1993 e na Lei Complementar n.º 165, de 16 de junho de 1997, condicionada à inexistência de débitos relativos a esses impostos e à Taxa de Serviços Urbanos - TSU.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 07 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.052, de 7 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04290",
+   "short": "Lei 4290/2022",
+   "title": "Lei nº 4.290, de 27 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1807",
+   "first_law": "lei-2022-04290",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1807/ord-4290-2022-sao_vicente-sp.pdf",
+     "sha256": "45987b19fc0802ee9769628deb939fcd7ed8e7086e92dbe7d14c392b351810c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4290 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 22969/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de junho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.290, de 27 de junho de 2022; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
