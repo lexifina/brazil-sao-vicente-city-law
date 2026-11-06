@@ -3598,6 +3598,300 @@
    ]
   },
   {
+   "slug": "lei-2022-04360",
+   "short": "Lei 4360/2022",
+   "title": "Lei nº 4.360, de 9 de dezembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1138",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1138/l4360.pdf",
+     "sha256": "dda841332635c5311f33083a4a6a0c29beef6de2c1e172916c8b7de1e5c11c02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04343",
+   "short": "Lei 4343/2022",
+   "title": "Lei nº 4.343, de 28 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1388",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1388/l4343.pdf",
+     "sha256": "b517bf5b52e645f3e7979ae8f366a492ad5f16e8b62b3713a40729ebda14372d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04342",
+   "short": "Lei 4342/2022",
+   "title": "Lei nº 4.342, de 28 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1389",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 8,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1389/l4342.pdf",
+     "sha256": "2deb4f254ca55088305ffe3d84e60dbaaa4161164e5f303dcf6a58d36c662448"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04340",
+   "short": "Lei 4340/2022",
+   "title": "Lei nº 4.340, de 28 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1391",
+   "versions": [
+    {
+     "from": "2022-10-28",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1391/l4340.pdf",
+     "sha256": "38cc1c703b6549d193abec3db939bd07cd78ae07277a19afc1985ef026afc647"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01076",
+   "short": "LC 1076/2022",
+   "title": "Lei Complementar nº 1.076, de 28 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3996",
+   "versions": [
+    {
+     "from": "2022-10-30",
+     "units": 11,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/3996/lc1076.pdf",
+     "sha256": "d5d28f56b9952b26a5d7c103ed6f8e8dcb7bcc70075f7eb5aec346863688a63f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04338",
+   "short": "Lei 4338/2022",
+   "title": "Lei nº 4.338, de 25 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1395",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1395/l4338.pdf",
+     "sha256": "2982111cfda4d5409419beef84e57adcf536f842e183f3ebdc9886716ac4652c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01074",
+   "short": "LC 1074/2022",
+   "title": "Lei Complementar nº 1.074, de 24 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3998",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/3998/lc1074.pdf",
+     "sha256": "9aa5cac9b096322417b2f3b72d625ac940469aa92f4ff4b2723afa0e9c3903d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04335",
+   "short": "Lei 4335/2022",
+   "title": "Lei nº 4.335, de 17 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1399",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1399/l4335.pdf",
+     "sha256": "ceb92ffc57d91a5000c316518ea4d883326c6953322aee681476ec8119ba8d77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04334",
+   "short": "Lei 4334/2022",
+   "title": "Lei nº 4.334, de 17 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1485",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1485/l4334.pdf",
+     "sha256": "fbf51f6665b94ab3bba0d66334928efce426065a4bf59663e6b99b1cbe994ec7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01072",
+   "short": "LC 1072/2022",
+   "title": "Lei Complementar nº 1.072, de 17 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/193",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/193/lc-1072-2022-sao_vicente-sp.pdf",
+     "sha256": "9c1f114b75469b72461483cbfb838342b7197007d54c4774e0405f42f517f6c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04332",
+   "short": "Lei 4332/2022",
+   "title": "Lei nº 4.332, de 7 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1483",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1483/l4332.pdf",
+     "sha256": "6cc53bed2152fb685119d7768eefd93743f3d7c6212b766f3f8f87e65658be4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04331",
+   "short": "Lei 4331/2022",
+   "title": "Lei nº 4.331, de 6 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1482",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1482/l4331.pdf",
+     "sha256": "9760c93a010b295461ac925ed7110b43fea45fb8f247fb79ab70cb3f94e2609e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04330",
+   "short": "Lei 4330/2022",
+   "title": "Lei nº 4.330, de 6 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1400",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1400/l4330.pdf",
+     "sha256": "73ea31f5ff725f4707486340030de8d2e4eb152b296e194e88b9e4b383c60547"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04329",
+   "short": "Lei 4329/2022",
+   "title": "Lei nº 4.329, de 5 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1384",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1384/lei4329.pdf",
+     "sha256": "6102137167aaca2aac854250175cce275202a0201dc8083a404bfc5da3218f13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04328",
+   "short": "Lei 4328/2022",
+   "title": "Lei nº 4.328, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1493",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1493/l4328.pdf",
+     "sha256": "4159d72e335ed875eed97d3affab76c16a8acbd2d430e141d27e188b766eb6b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04327",
+   "short": "Lei 4327/2022",
+   "title": "Lei nº 4.327, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1491",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 8,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1491/l4327.pdf",
+     "sha256": "f34a5b2bbfb30b8bcddf68ea3271089ad103943a89e1cc42459b6a9fd3c787b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04326",
+   "short": "Lei 4326/2022",
+   "title": "Lei nº 4.326, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1490",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1490/l4326.pdf",
+     "sha256": "84038efd883c96b07fd497dc8a29a8448d82265cf623e3633c2059642b09a8a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04325",
+   "short": "Lei 4325/2022",
+   "title": "Lei nº 4.325, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1489",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1489/l4325.pdf",
+     "sha256": "e794dbab358c32ad91d4647156ab0dab92f27562dc626dc64aa4ea557244872c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04324",
+   "short": "Lei 4324/2022",
+   "title": "Lei nº 4.324, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1488",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1488/l4324.pdf",
+     "sha256": "fbf2c00efc5110b56cd4ae9a649b43dca699d51977e8ee4732e3d7c0769d7ee9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01071",
+   "short": "LC 1071/2022",
+   "title": "Lei Complementar nº 1.071, de 3 de outubro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4000",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/4000/lc1071.pdf",
+     "sha256": "cbc223d08f91df7590b4c4be4d59652fbf4f6c8b1be1d3b4e009429848910f4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04323",
+   "short": "Lei 4323/2022",
+   "title": "Lei nº 4.323, de 23 de setembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1487",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1487/l4323.pdf",
+     "sha256": "ef24248fc6047b241d8f66219fe2fb8f2b0a92f8ad7e75bd04404212b8eb49d3"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
