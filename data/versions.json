@@ -5138,6 +5138,104 @@
    ]
   },
   {
+   "slug": "lei-2021-04204",
+   "short": "Lei 4204/2021",
+   "title": "Lei nº 4.204, de 6 de dezembro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1070",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/1070/l4204.pdf",
+     "sha256": "1624e6974ccc5e337b66594826896710f4ca7b63e5f8879c509921e52b02de05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04203",
+   "short": "Lei 4203/2021",
+   "title": "Lei nº 4.203, de 2 de dezembro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1069",
+   "versions": [
+    {
+     "from": "2021-12-02",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/1069/l4203.pdf",
+     "sha256": "13e0db3ed275701957559860ed03ca42e85ca3b14bb1e03d8669b4f83deef8b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04199",
+   "short": "Lei 4199/2021",
+   "title": "Lei nº 4.199, de 11 de novembro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1064",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/1064/l4199.pdf",
+     "sha256": "d5f0fa537e533dc8f0c4abb00e83a22ac63960d5c79367f706ec65d4fc7212e1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-01032",
+   "short": "LC 1032/2021",
+   "title": "Lei Complementar nº 1.032, de 27 de outubro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4332",
+   "versions": [
+    {
+     "from": "2021-10-30",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/4332/lc1032.pdf",
+     "sha256": "6f62cdc8db9883e9026ec7cd627349cddea4da9d70f88857a7a9b2ec2860b939"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-01031",
+   "short": "LC 1031/2021",
+   "title": "Lei Complementar nº 1.031, de 27 de outubro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4330",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/4330/lc1031.pdf",
+     "sha256": "a9cdcae1ba6e0fc8b6f108f564cbc2f13625ae0fc9efc6b0fb5083505af06725"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-01029",
+   "short": "LC 1029/2021",
+   "title": "Lei Complementar nº 1.029, de 18 de outubro de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/2871",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/2871/lc1029.pdf",
+     "sha256": "5a3cc86a778a13537d62ce815a09399cd45bce7447affe82dd0330091f9c837a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-01028",
+   "short": "LC 1028/2021",
+   "title": "Lei Complementar nº 1.028, de 1 de agosto de 2021",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4343",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2021/4343/lc1028.pdf",
+     "sha256": "c1f096bc8ac9fddf418a0054e9f2bea927711094e5cc26039d1dcd52998710af"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
