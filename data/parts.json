@@ -463,6 +463,12 @@
    ],
    "sha256": "16ea64157e02264c8c21c3eb5e5d3aa57da7d585e63f1a5591c4f0f2487e66b6"
   },
+  "30-leis-018.json": {
+   "acts": [
+    "lc-2021-01027"
+   ],
+   "sha256": "d8deed402d37261edd78ab08c62a0d3725cfc97eb88d3618315dfd01521540e1"
+  },
   "40-q247-depth-001.json": {
    "acts": [
     "lc-2024-01163",
