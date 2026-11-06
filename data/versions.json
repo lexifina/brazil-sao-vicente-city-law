@@ -4270,6 +4270,482 @@
    ]
   },
   {
+   "slug": "lei-2022-04289",
+   "short": "Lei 4289/2022",
+   "title": "Lei nº 4.289, de 20 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1806",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1806/ord-4289-2022-sao_vicente-sp.pdf",
+     "sha256": "b55c7e22d2680fa43c6882c34e6d7fc61dc2f2f869d4f9b655022cccff27d61f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01049",
+   "short": "LC 1049/2022",
+   "title": "Lei Complementar nº 1.049, de 20 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4326",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/4326/lc1049.pdf",
+     "sha256": "1657b90a03eb7725e4d7f7fca45179003cfc75c2e4f9728d1ed3ec83d56b5efd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04287",
+   "short": "Lei 4287/2022",
+   "title": "Lei nº 4.287, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1804",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 9,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1804/ord-4287-2022-sao_vicente-sp.pdf",
+     "sha256": "c93733ba55311cc5c43b3110b23dcf03b605ac4c149d71552dba6ef17b4485ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04286",
+   "short": "Lei 4286/2022",
+   "title": "Lei nº 4.286, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1775",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1775/l4286.pdf",
+     "sha256": "744f8839d6d0bf5ed58b8d03b302319d0dbb30201a23925c4f9e8fc28f748db3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04285",
+   "short": "Lei 4285/2022",
+   "title": "Lei nº 4.285, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1803",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1803/ord-4285-2022-sao_vicente-sp.pdf",
+     "sha256": "f60fb5f19b2feef1f03463fff9dde52a05f8161bb7410c7331b0806769ed1f3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04284",
+   "short": "Lei 4284/2022",
+   "title": "Lei nº 4.284, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1802",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1802/ord-4284-2022-sao_vicente-sp.pdf",
+     "sha256": "286e12d0f8c00fbfef6d46d8c19e8b7acefa3e9fb7f67ca07bb06ea5d0efb41a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04283",
+   "short": "Lei 4283/2022",
+   "title": "Lei nº 4.283, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1801",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1801/ord-4283-2022-sao_vicente-sp.pdf",
+     "sha256": "4140d2f7cb0fb9226f1659d8a0bfaaf20ad6da36b41c27e8b6736a1afe373c66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04282",
+   "short": "Lei 4282/2022",
+   "title": "Lei nº 4.282, de 9 de junho de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1767",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1767/l4282.pdf",
+     "sha256": "12f7d12aa839f96c0957dc36871272be806d4e8d39b6f882b117484784896a24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04281",
+   "short": "Lei 4281/2022",
+   "title": "Lei nº 4.281, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1766",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 7,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1766/l4281.pdf",
+     "sha256": "195f833e0beecf5be87e3c54ea056baf4576c9f49e87100c119df2151fe756cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04280",
+   "short": "Lei 4280/2022",
+   "title": "Lei nº 4.280, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1740",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1740/l4280.pdf",
+     "sha256": "49c36c5f453a10fb6d100ab0e90be0e87e0d749ea55c30d9c679745064a645eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04279",
+   "short": "Lei 4279/2022",
+   "title": "Lei nº 4.279, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1771",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1771/l4279.pdf",
+     "sha256": "a812b9585a21df2942c35171040618b3c5b73d094ed1ba54f6709fa8605d06d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04278",
+   "short": "Lei 4278/2022",
+   "title": "Lei nº 4.278, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1770",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1770/l4278.pdf",
+     "sha256": "19958493984a94a47e6ea20fc746442edb51a6c7e91a4d3ac6e0cadf765ac391"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04277",
+   "short": "Lei 4277/2022",
+   "title": "Lei nº 4.277, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1769",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1769/l4277.pdf",
+     "sha256": "c650822a1dff51205b7d236a77851c14241b207a02cda0b6e5ec2c0d04f5c628"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04276",
+   "short": "Lei 4276/2022",
+   "title": "Lei nº 4.276, de 30 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1772",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1772/l4276.pdf",
+     "sha256": "1ce9c56a5ca77af7e04605b3308c79e7c476ed5a14f010e743319d6013c03a93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04274",
+   "short": "Lei 4274/2022",
+   "title": "Lei nº 4.274, de 18 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/1768",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/1768/l4274.pdf",
+     "sha256": "a0af0deaae2d7f7d3603edca98490d49e3a982a3102011d6f4258e81718fb5c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04272",
+   "short": "Lei 4272/2022",
+   "title": "Lei nº 4.272, de 18 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/885",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/885/l4272.pdf",
+     "sha256": "61d105b046983c13e0fa3f9bc62612a5805d4e4b4165b7c74d992b170cb63ca4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04271",
+   "short": "Lei 4271/2022",
+   "title": "Lei nº 4.271, de 9 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/884",
+   "versions": [
+    {
+     "from": "2022-05-09",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/884/ord-4271-2022-sao_vicente-sp.pdf",
+     "sha256": "789f351f80dd7dd256fcbb497019673b445a650e23ab39438981275e7d2604db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04270",
+   "short": "Lei 4270/2022",
+   "title": "Lei nº 4.270, de 2 de maio de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/883",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/883/ord-4270-2022-sao_vicente-sp.pdf",
+     "sha256": "b980c7e88b9c4997d294ffb39d3bc33edfb804dbd4f15014b75b986e1740fad8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04269",
+   "short": "Lei 4269/2022",
+   "title": "Lei nº 4.269, de 28 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/882",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 13,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/882/ord-4269-2022-sao_vicente-sp.pdf",
+     "sha256": "622f8cdd8c94f93c1e4c138d62a94e91778009a0b29f921ea465caeb94b22dbd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04268",
+   "short": "Lei 4268/2022",
+   "title": "Lei nº 4.268, de 28 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/881",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/881/l4268.pdf",
+     "sha256": "97ba51694cb04369c0c8ee94629748bbb41c9eb20af79ae515a38882c3444fdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04267",
+   "short": "Lei 4267/2022",
+   "title": "Lei nº 4.267, de 25 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/880",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/880/ord-4267-2022-sao_vicente-sp.pdf",
+     "sha256": "848b851485492af84fff4f4617a90f2447a72c27a19981cb3e0f5ccc948b4805"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04265",
+   "short": "Lei 4265/2022",
+   "title": "Lei nº 4.265, de 25 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/878",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/878/l4265.pdf",
+     "sha256": "3234ea7dcb964151233ed32ddc3ac26e8941c611d71461d4f1af3888241c7270"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04264",
+   "short": "Lei 4264/2022",
+   "title": "Lei nº 4.264, de 25 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/877",
+   "versions": [
+    {
+     "from": "2022-04-25",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/877/l4264.pdf",
+     "sha256": "c63203ca4c22e17ce34f1718033e284c6ce24b837a26909ac0702c9d41cc54f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04263",
+   "short": "Lei 4263/2022",
+   "title": "Lei nº 4.263, de 8 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/876",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/876/ord-4263-2022-sao_vicente-sp.pdf",
+     "sha256": "f91da9ed58f805113e0a8efe5bf2743c9f4bbeabe817211f5f4264b533433531"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04262",
+   "short": "Lei 4262/2022",
+   "title": "Lei nº 4.262, de 1 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/875",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/875/l4262.pdf",
+     "sha256": "ec8acdd69def6ee9c76f6554cd33d4f51774f964a2ae318d0d7b00aa6a139690"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04261",
+   "short": "Lei 4261/2022",
+   "title": "Lei nº 4.261, de 1 de abril de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/874",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/874/l4261.pdf",
+     "sha256": "b9444736fbf1bdbb6a1bee66f796214ab1eb055a242a5c7173653079ce1ddb9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04260",
+   "short": "Lei 4260/2022",
+   "title": "Lei nº 4.260, de 22 de março de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/873",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/873/l_4260.pdf",
+     "sha256": "c3e121cad04a2ea751926b5e8c050c3d4c6e917a6a94bba4e03a1b7a4916fd07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04259",
+   "short": "Lei 4259/2022",
+   "title": "Lei nº 4.259, de 14 de março de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/872",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/872/l_4259.pdf",
+     "sha256": "9d632f96d2b559fc2a983b0d6138f2b5a6ce740efabaa4475b863eec48412be0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04258",
+   "short": "Lei 4258/2022",
+   "title": "Lei nº 4.258, de 9 de março de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/871",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/871/l4258.pdf",
+     "sha256": "63ebdc2cd9e33deed4fced384aa7b66d293da7e58d853555f744bb0ac3e7e6e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04257",
+   "short": "Lei 4257/2022",
+   "title": "Lei nº 4.257, de 3 de março de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/870",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/870/l4257.pdf",
+     "sha256": "30760dde3e0fe52214dc7f648f4a69ba327b8f31f0ef3d2638cc947afaed59e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04252",
+   "short": "Lei 4252/2022",
+   "title": "Lei nº 4.252, de 25 de fevereiro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/865",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/865/l4252.pdf",
+     "sha256": "0f69cf39234ca6c84c0f475c14b988eec4094eee53fc68c1d900c53e712b25fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04248",
+   "short": "Lei 4248/2022",
+   "title": "Lei nº 4.248, de 25 de fevereiro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/861",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/861/l4248.pdf",
+     "sha256": "07ffdcc95940626283dc7b58c2b98d567492f1aaa50e3825211a6e2904c55df4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04247",
+   "short": "Lei 4247/2022",
+   "title": "Lei nº 4.247, de 25 de fevereiro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/860",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/860/lei4247.pdf",
+     "sha256": "f181ae1b52dc7ff8a92dad7becc26020026a02fa4ac5228c01abafcacc637bc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04246",
+   "short": "Lei 4246/2022",
+   "title": "Lei nº 4.246, de 25 de fevereiro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/859",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/859/l4246.pdf",
+     "sha256": "b3579a70554b95a688260efed3767a4c8597d199a4ad61952a57c685d9ea5a83"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
