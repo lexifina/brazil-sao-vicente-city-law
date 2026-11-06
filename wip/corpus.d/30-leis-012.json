@@ -1,0 +1,536 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "10 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-04388": {
+   "label": "Lei nº 4.388, de 20 de março de 2023",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-03-20",
+   "published": "2023-03-20",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/397",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01093": {
+   "label": "Lei Complementar nº 1.093, de 10 de fevereiro de 2023",
+   "title": "Altera a Lei Complementar nº 981, de 1º de março de 2020, para remodelar o grupo ocupacional que especifica.",
+   "kind": "law",
+   "enacted": "2023-02-10",
+   "published": "2023-02-10",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/132",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04387": {
+   "label": "Lei nº 4.387, de 6 de fevereiro de 2023",
+   "title": "Dispõe sobre a inclusão de ação de despesa na Lei Orçamentária Anual para o exercício de 2023. Proc. nº 4060/23",
+   "kind": "law",
+   "enacted": "2023-02-06",
+   "published": "2023-02-06",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/770",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04386": {
+   "label": "Lei nº 4.386, de 6 de fevereiro de 2023",
+   "title": "Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.",
+   "kind": "law",
+   "enacted": "2023-02-06",
+   "published": "2023-02-06",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/769",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01091": {
+   "label": "Lei Complementar nº 1.091, de 6 de fevereiro de 2023",
+   "title": "Prorroga o período do parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e concede descontos sobre valores de multas e juros relativos a tributos e multas de qualquer natureza, exceto multas de trânsito, para pagamento nas condições que especifica, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-02-06",
+   "published": "2023-02-06",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/401",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04385": {
+   "label": "Lei nº 4.385, de 11 de janeiro de 2023",
+   "title": "Institui a Campanha Permanente de Orientação e Conscientização sobre o Descarte Adequado do Lixo no Município de São Vicente",
+   "kind": "law",
+   "enacted": "2023-01-11",
+   "published": "2023-01-13",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/816",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04381": {
+   "label": "Lei nº 4.381, de 4 de janeiro de 2023",
+   "title": "Considera de Utilidade Pública a Associação Tecendo Artes de São Vicente",
+   "kind": "law",
+   "enacted": "2023-01-04",
+   "published": "2023-01-13",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/820",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01089": {
+   "label": "Lei Complementar nº 1.089, de 4 de janeiro de 2023",
+   "title": "Altera a redação da Lei Complementar 732, de 13/06/13, e suas alterações, que dispõe sobre o Sistema de Estacionamento Controlado Rotativo de Veículos, compensado por tarifa ou preço público no Município e dá outras providências. Proc. n.º 16362/13",
+   "kind": "law",
+   "enacted": "2023-01-04",
+   "published": "2023-01-05",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-01087": {
+   "label": "Lei Complementar nº 1.087, de 28 de dezembro de 2022",
+   "title": "Altera a redação do §1º do artigo 1º da Lei Complementar nº 866, de 1º de setembro de 2017, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III do art. 156 da Lei Federal nº 5.172/66 - Código Tributário Nacional. Proc. nº 31016/17",
+   "kind": "law",
+   "enacted": "2022-12-28",
+   "published": "2022-12-30",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3987",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04363": {
+   "label": "Lei nº 4.363, de 16 de dezembro de 2022",
+   "title": "Autoriza o Poder Executivo abrir na Contabilidade Municipal, Secretaria da Fazenda, um Crédito Adicional Especial objetivando \"Alteração da Emenda Parlamentar do Vereador Benevan Souza para o exercício de 2022\".",
+   "kind": "law",
+   "enacted": "2022-12-16",
+   "published": "2022-12-16",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3827",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-04388",
+   "short": "Lei 4388/2023",
+   "title": "Lei nº 4.388, de 20 de março de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/397",
+   "first_law": "lei-2023-04388",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/397/l4388.pdf",
+     "sha256": "e1e0cee67b86f438af63f5d701ce3ab9e20bc240f123d797b5602900e1230c3b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4388 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente. Proc.\nn.º SG-PRC-2023/00016 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 20 de março de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.388, de 20 de março de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01093",
+   "short": "LC 1093/2023",
+   "title": "Lei Complementar nº 1.093, de 10 de fevereiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/132",
+   "first_law": "lc-2023-01093",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/132/lc1093.pdf",
+     "sha256": "55ead240d4da7cd5562110597cf8df2e6a247e2649d6045834ceeb36741f4160",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1093 Projeto de Lei Complementar n.º 2/23 de autoria da Mesa Altera a Lei Complementar n.º 981, de 1º de março de 2020.\nSG-PRC-2023/00005-V01 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica remodelado o grupo ocupacional do cargo de provimento efetivo previsto no Anexo IV e VI da Lei Complementar n.º 981, de 1º de março de 2020, conforme Anexos II e III desta Lei Complementar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei Complementar entra em vigor na data de sua publicação, revogando as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 10 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.093, de 10 de fevereiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04387",
+   "short": "Lei 4387/2023",
+   "title": "Lei nº 4.387, de 6 de fevereiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/770",
+   "first_law": "lei-2023-04387",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/770/l4387.pdf",
+     "sha256": "175e85a74c802987aa9f60ed2a555badac618c68fc266e85d1f0a3dd75e07ba3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4387 Dispõe sobre a inclusão de ação de despesa na Lei Orçamentária Anual para o exercício de 2023.\nProc. n.º 4060/23 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída a Ação n.º 0020 - Custeio da liquidação, dissolução e extinção da CODESAVI - LC 934/2019 na Lei Orçamentária Anual para o exercício de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A ação inclusa no art. 1º desta Lei integrará o Programa 0008 - Gestão Financeira na unidade orçamentária 02.07 - Secretaria da Fazenda.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A classificação orçamentária incluída no orçamento será 02.07.01.28.846.0008.0020:\nI - 3.1.90.11.00\nII - 3.1.90.13.00\nIII - 3.1.90.91.00\nIV - 3.1.90.94.00\nV - 3.3.90.30.00\nVI - 3.3.90.36.00\nVII - 3.3.90.39.00\nVIII - 3.3.90.91.00\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os recursos necessários para a abertura do crédito previsto nesta Lei são provenientes de anulação de valor até o limite da seguinte dotação orçamentária:\nI - 02.07.01.28.843.0007.0004.4.6.90.71.00 - Principal da Dívida Contratual Resgatada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.387, de 6 de fevereiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04386",
+   "short": "Lei 4386/2023",
+   "title": "Lei nº 4.386, de 6 de fevereiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/769",
+   "first_law": "lei-2023-04386",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/769/l4386.pdf",
+     "sha256": "2cfa99d0f2b6c4797875310ce6d0ff3d4c588ade39cd4a0d67494327099d9bee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4386 Autoriza o Poder Executivo a conceder subvenção ao Hospital São José - Santa Casa de São Vicente.\nProc. n.º 4197/23 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a conceder subvenção ao Hospital São José - Santa Casa de São Vicente, no valor de R$ 150.000,00 (cento e cinquenta mil reais).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei onerarão as verbas orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.386, de 6 de fevereiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01091",
+   "short": "LC 1091/2023",
+   "title": "Lei Complementar nº 1.091, de 6 de fevereiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/401",
+   "first_law": "lc-2023-01091",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/401/lc1091.pdf",
+     "sha256": "e6759e5cd74c6e81355b538944b91a2538e1c6c33857195199ae6ac657e7e0b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1091 Prorroga o período do parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e concede descontos sobre valores de multas e juros relativos a tributos e multas de qualquer natureza, exceto multas de trânsito, para pagamento nas condições que especifica, e dá outras providências.\nProc. n.º 47420/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica prorrogado o período do parcelamento de débitos judiciais e extrajudiciais para com a Fazenda Pública Municipal e concede descontos sobre valores de multas e juros relativos a tributos e multas de qualquer natureza, exceto multas de trânsito, para pagamento nas condições que especifica, instituído pela Lei Complementar nº 1078/2022, até o dia 28 de fevereiro de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nas negociações para refinanciamento e parcelamento de débitos nas hipóteses previstas na Lei Complementar nº 1078/2022 poderão ser utilizados os institutos criados pelas Leis Complementares nº 865/2017 e 866/2017.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data da sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.091, de 6 de fevereiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04385",
+   "short": "Lei 4385/2023",
+   "title": "Lei nº 4.385, de 11 de janeiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/816",
+   "first_law": "lei-2023-04385",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/816/l4385.pdf",
+     "sha256": "0f0efd82f3c9747384fcd7357e55665fe38164c3e85aa8235c4ce66fd3cb595d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4385 Projeto de Lei n.º 182/22 de autoria do Vereador Edinho Ferrugem Institui a Campanha Permanente de Orientação e Conscientização sobre o Descarte Adequado do Lixo no Município de São Vicente.\nProc. n.º 57399/22.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no Município de São Vicente a Campanha Permanente de Orientação e Conscientização sobre o Descarte Adequado do Lixo do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da Campanha Permanente de Orientação e Conscientização sobre o Descarte Adequado de Lixo:\nI - oferecer aos munícipes informações sobre a separação correta dos resíduos;\nII - conscientizar a população sobre a importância da coleta seletiva e separação dos resíduos sólidos conforme sua constituição ou composição;\nIII - conscientizar a população quanto ao descarte correto de resíduos que ocasionam riscos aos coletores;\nIV - informar a população sobre os dias e horários da coleta do lixo comum e da coleta reciclável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O estabelecimento da forma e do conteúdo da campanha ficará a critério dos órgãos municipais competentes e será regulamentado pelo Poder Executivo no que couber.\nParágrafo único. Os órgãos municipais competentes poderão constituir parcerias com a iniciativa privada para desenvolver, em conjunto, as ações e os serviços correspondentes à Campanha Permanente de Orientação e Conscientização sobre o Descarte Adequado de Lixo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes com a execução da presente Lei ocorrerão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 11 de janeiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.385, de 11 de janeiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04381",
+   "short": "Lei 4381/2023",
+   "title": "Lei nº 4.381, de 4 de janeiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/820",
+   "first_law": "lei-2023-04381",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-01-13",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/820/l4381.pdf",
+     "sha256": "f444877f1c12cc29b753533f27690c3391712c70f832e0331244aa06a9059f26",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4381 Projeto de Lei n.º 153/22 de autoria do Vereador Jabá Considera de Utilidade Pública a Associação Tecendo Artes de São Vicente.\nProc. n.º 57567/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de Utilidade Pública a Associação Tecendo Artes - ATECARTE de São Vicente, com sede e foro no Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de janeiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.381, de 4 de janeiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01089",
+   "short": "LC 1089/2023",
+   "title": "Lei Complementar nº 1.089, de 4 de janeiro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3983",
+   "first_law": "lc-2023-01089",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/3983/lc1089.pdf",
+     "sha256": "296fe4476b7c795545162d4b12c14e7dca6e853c17f7100b8b8239acc6daa9fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1089 Altera a redação da Lei Complementar 732, de 13/06/13, e suas alterações, que dispõe sobre o Sistema de Estacionamento Controlado Rotativo de Veículos, compensado por tarifa ou preço público no Município e dá outras providências.\nProc. n.º 16362/13 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Altera o art. 14 da Lei Complementar n.º 732/17, que passa a ter a seguinte redação:\n\"Art. 14 - Os recursos arrecadados com a exploração do Sistema de Estacionamento Rotativo de Veículos, seja de forma direta ou delegada, serão direcionados da seguinte forma:\nI- 10% (dez por cento) para o Fundo Social de Solidariedade;\nII - 10% (dez por cento) para o Fundo Municipal de Cultura;\nIII - 10% (dez por cento) para conta específica para utilização exclusiva da Secretaria Municipal de Indústria, Comércio e Assuntos Portuários;\nIV - 70% (setenta por cento) para conta movimento do Tesouro Municipal.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogado o parágrafo único do art. 14 da Lei Complementar n.º 732/17.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de janeiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.089, de 4 de janeiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-01087",
+   "short": "LC 1087/2022",
+   "title": "Lei Complementar nº 1.087, de 28 de dezembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3987",
+   "first_law": "lc-2022-01087",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/3987/lc1087.pdf",
+     "sha256": "a10b3d443841108f303da524a4dd5752d8cca16b06fb4d6bdf111cf171173dcb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1087 Altera a redação do §1º do artigo 1º da Lei Complementar nº 866, de 1º de setembro de 2017, que autoriza a transação como forma de extinção de créditos tributários, com base no inciso III do art. 156 da Lei Federal nº 5.172/66 - Código Tributário Nacional.\nProc. nº 31016/17 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a vigorar com a seguinte redação o §1º do artigo 1º da Lei Complementar nº 866, de 1º de setembro de 2017, mantidos o caput e demais parágrafos:\n\"Art. 1º …\n§ 1º Consideram-se créditos não tributários, líquidos, certos e exigíveis do sujeito passivo aqueles de origem contratual, cuja existência e valor sejam expressamente reconhecidos pela Administração, na via administrativa ou judicial, bem como os originários de verbas rescisórias a que o servidor tenha direito por lei, tais como saldo de salário, férias, décimo terceiro salário e congêneres, que não tenham sido pagos e estejam inscritos em restos a pagar.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor da data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 28 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.087, de 28 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04363",
+   "short": "Lei 4363/2022",
+   "title": "Lei nº 4.363, de 16 de dezembro de 2022",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/3827",
+   "first_law": "lei-2022-04363",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2022/3827/l4363.pdf",
+     "sha256": "a3b1761c1527d29d2ce377dd733e9ba512b94a9339bed4a0c380908e582bd3c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4363 Autoriza o Poder Executivo abrir na Contabilidade Municipal, Secretaria da Fazenda, um Crédito Adicional Especial objetivando \"Alteração da Emenda Parlamentar do Vereador Benevan Souza para o exercício de 2022\".\nProc. nº 50435/2022.\nKAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a abrir na Contabilidade Municipal, Secretaria da Fazenda, um Crédito Adicional Especial no valor de R$ 140.000,00 (cento e quarenta mil reais), na seguinte verba orçamentária:\nCódigo Orçamentário Descrição Valor R$ 02.06.01.15.451.0065.1137.08.100.0010.4.4.90.51.00 Asfaltamento da Rua Sinhá Junqueira 140.000,00 Total 140.000,00\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à execução do disposto no artigo anterior são provenientes de:\nI - os resultantes de anulação parcial ou total de dotações orçamentárias no valor de R$ 140.000,00 (cento e quarenta mil reais) nos termos do art. 43, § 1°, III da Lei 4.320/64, dos seguintes recursos:\nCódigo Orçamentário Descrição Valor R$ 02.06.01.15.451.0065.1057.08.100.0010.4.4.90.51.00 Asfaltamento da Rua Severino José da Silva (antiga Rua 2) no Jardim Rio Neqro 140.000,00 Total 140.000,00\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 16 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.363, de 16 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
