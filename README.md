@@ -1,5 +1,7 @@
 # São Vicente (city): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Sao Vicente, São Paulo, Brazil, which global-law reads at `brazil/sao-paulo/sao-vicente/acts/`.
+
 The municipal law of São Vicente, São Paulo (Brazil), as a git history. The Lei Orgânica and 203 municipal laws use article files; another 53 laws use complete-text files. Paragraphs remain separate lines for `git blame`, `git log` and `git diff`. The text is Portuguese.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
