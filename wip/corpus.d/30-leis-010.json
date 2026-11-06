@@ -1,0 +1,521 @@
+{
+ "country": {
+  "code": "BR-SP-SAO-VICENTE",
+  "name": "São Vicente",
+  "slug": "brazil-sao-vicente-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de São Vicente (SAPL)",
+   "email": "sapl@saovicente.sp.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de São Vicente, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de São Vicente, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.saovicente.sp.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "10 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-04448": {
+   "label": "Lei nº 4.448, de 6 de setembro de 2023",
+   "title": "Considera de Utilidade Pública a Associação Mulheres Solidárias - Ação Social e Educação para Cidadania. Proc. n.º SG-PRC-2023/00169",
+   "kind": "law",
+   "enacted": "2023-09-06",
+   "published": "2023-09-07",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/918",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04446": {
+   "label": "Lei nº 4.446, de 28 de julho de 2023",
+   "title": "Institui no município o uso de bengala branca e vermelha como meio adequado para identificar pessoas com surdocegueira e dá outras providências. Proc. n.º SG-PRC-2023/00151",
+   "kind": "law",
+   "enacted": "2023-07-28",
+   "published": "2023-08-01",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/920",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04442": {
+   "label": "Lei nº 4.442, de 13 de julho de 2023",
+   "title": "Denomina Ciclovia Maria dos Remédios a ciclovia existente na orla do bairro Gonzaguinha, em São Vicente. Proc. n.º SG-PRC-2023/00149",
+   "kind": "law",
+   "enacted": "2023-07-13",
+   "published": "2023-07-20",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/797",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04432": {
+   "label": "Lei nº 4.432, de 7 de julho de 2023",
+   "title": "Autoriza a implantação do Programa Turismo Acessível no Município de São Vicente e dá outras providências. Proc. n.º SG-PRC-2023/00132",
+   "kind": "law",
+   "enacted": "2023-07-07",
+   "published": "2023-07-11",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/801",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04431": {
+   "label": "Lei nº 4.431, de 4 de julho de 2023",
+   "title": "Altera a Lei n\" 4.390, de 23 de março de 2023, para dispor sobre a convocação de servidores públicos municipais como mesários ou escrutinadorcs no processo eleitoral para escolha dos Conselheiros Tutelares do Município.",
+   "kind": "law",
+   "enacted": "2023-07-04",
+   "published": "2023-07-12",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/388",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04430": {
+   "label": "Lei nº 4.430, de 4 de julho de 2023",
+   "title": "Altera a Lei Municipal n° 2284-A, de 16 de dezembro de 2010, que instituiu a Nota Fiscal Eletrônica de Serviços e outras providências, dispondo sobre e o modelo de Nota Fiscal de Serviços Eletrônica - NFS-e (Padrão ABRASF).",
+   "kind": "law",
+   "enacted": "2023-07-04",
+   "published": "2023-07-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/473",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-01116": {
+   "label": "Lei Complementar nº 1.116, de 4 de julho de 2023",
+   "title": "Altera a Lei Complementar nº 05, de 11 de dezembro de 1990, que dispõe sobre a carreira do Procurador Municipal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-07-04",
+   "published": "2023-07-06",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/142",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04429": {
+   "label": "Lei nº 4.429, de 3 de julho de 2023",
+   "title": "Considera de utilidade pública a Associação Renascer Gleba 2. Proc. nº sG-PRC-2023/00134",
+   "kind": "law",
+   "enacted": "2023-07-03",
+   "published": "2023-07-03",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/750",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04428": {
+   "label": "Lei nº 4.428, de 30 de junho de 2023",
+   "title": "Dispõe sobre a criação do selo Empresa Amiga dos Autistas, destinado aos estabelecimentos empresariais que adotem política interna de inserção de pessoas com TEA no mercado de trabalho. Proc. nº SG-PRC-2023/00119",
+   "kind": "law",
+   "enacted": "2023-06-30",
+   "published": "2023-07-04",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/802",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04426": {
+   "label": "Lei nº 4.426, de 27 de junho de 2023",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município a Semana de Conscientização sobre a Doença Celíaca.",
+   "kind": "law",
+   "enacted": "2023-06-27",
+   "published": "2023-06-29",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/803",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-04448",
+   "short": "Lei 4448/2023",
+   "title": "Lei nº 4.448, de 6 de setembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/918",
+   "first_law": "lei-2023-04448",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/918/lei4448.pdf",
+     "sha256": "3c6f7d89d1d6ba31e9c4ffd4bc955821644dff1f5c7970f95fb54534c8bcc17c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4448, DE 06 DE SETEMBRO DE 2023.\nProjeto de Lei nº 91/23 de autoria do Vereador Higor Ferreira Considera de Utilidade Pública a Associação Mulheres Solidárias - Ação Social e Educação para Cidadania.\nProc. nº SG-PRC-2023/00169 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de Utilidade Pública a Associação Mulheres Solidárias - Ação Social e Educação para Cidadania.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 06 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.448, de 6 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04446",
+   "short": "Lei 4446/2023",
+   "title": "Lei nº 4.446, de 28 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/920",
+   "first_law": "lei-2023-04446",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/920/lei4446.pdf",
+     "sha256": "6d53bc6414ca36656e492d5345751e92c39e3bfbe087f36af29ff9ce179da648",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4446, DE 28 DE JULHO DE 2023.\nProjeto de Lei nº 84/23 de autoria do Vereador Benevan Souza Institui no município o uso de bengala branca e vermelha como meio adequado para identificar pessoas com surdocegueira e dá outras providências.\nProc. nº SG-PRC-2023/00151 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no município de São Vicente, o uso de bengala branca e vermelha como instrumento auxiliar de orientação, apoio, mobilidade e identificação de pessoas com essa deficiência.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O poder Executivo, pelos instrumentos e mecanismos que forem necessários, dará publicidade ao uso da bengala branca e vermelha pelas pessoas com surdocegueira para conhecimento da população, em especial dos agentes públicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 28 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.446, de 28 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04442",
+   "short": "Lei 4442/2023",
+   "title": "Lei nº 4.442, de 13 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/797",
+   "first_law": "lei-2023-04442",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/797/l4442.pdf",
+     "sha256": "9b0bc9232a968def5cc78fc9400d31f13cb501af1f8ce290bfe7a0b68b4f451b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4442 Projeto de Lei n.º 89/23 de autoria do Vereador Adilson da Farmácia Denomina Ciclovia Maria dos Remédios a ciclovia existente na orla do bairro Gonzaguinha, em São Vicente. Proc. nº SG-PRC-2023/00149 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1",
+       "kind": "article",
+       "text": "Art. 1.º Fica denominada Ciclovia Maria dos Remédios a ciclovia existente à margem da orla das praias do Gonzaguinha e Grijó, nas avenidas Embaixador Pedro de Toledo e Antônio Rodrigues, no bairro Gonzaguinha em São Vicente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 13 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.442, de 13 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04432",
+   "short": "Lei 4432/2023",
+   "title": "Lei nº 4.432, de 7 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/801",
+   "first_law": "lei-2023-04432",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/801/l4432.pdf",
+     "sha256": "3dc0345a0241ccf49cef7105a00b67615961c0e38be67264909c58eab35687e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4432 Projeto de Lei nº 57/23 de autoria do Vereador Jatobá Autoriza a implantação do Programa Turismo Acessível no Município de São Vicente e dá outras providências.\nProc. nº SG-PRC-2023/00132 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizada no Município a implantação do Programa Turismo Acessível.\nParágrafo único. Entende-se por turismo acessível toda ação de inclusão de pessoas deficientes em atividades turísticas, promovendo fácil acesso a lugares e estabelecimentos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente Lei tem como objetivo conceder acessibilidade a todos os tipos de deficiência, seja motora, seja intelectual, nos pontos turísticos municipais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da presente Lei correrão por conta de verba própria consignada no orçamento vigente, podendo ser suplementada se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 07 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.432, de 7 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04431",
+   "short": "Lei 4431/2023",
+   "title": "Lei nº 4.431, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/388",
+   "first_law": "lei-2023-04431",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/388/l4431.pdf",
+     "sha256": "040526ab9e32365b219d5697e70c82cc07fb24f8cff219db75b2085da24ae758",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4431 Dispõe sobre o Conselho Tutelar no Município de São Vicente, sua estrutura, competências, atribuições e demais providências.\nProc. nº 45322/22 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ela sanciona e promulga a seguinte Lei:\nAltera a Lei n.o 4390, de 23 de março de 2023, para dispor sobre a convocação de servidores públicos municipais como mesários ou escrutinadores no processo eleitoral para escolha dos Conselheiros Tutelares do Município.\nProc. n.o 45322/22\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O artigo 22 da Lei n.o 4.390, de 23 de março de 2023, passa a vigorar acrescido do seguinte parágrafo único, mantido o caput:\n\"Art. 22 ...\nParágrafo único. Os servidores efetivos da Administração Direta do Município poderão ser escalados para atuar como mesários ou escrutinadores, desde que as atribuições de seus cargos ou carreiras sejam compatíveis com tais funções.\" (NR).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.431, de 4 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04430",
+   "short": "Lei 4430/2023",
+   "title": "Lei nº 4.430, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/473",
+   "first_law": "lei-2023-04430",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/473/lei_4430.pdf",
+     "sha256": "af3ea90214bdb6787616e7c0f8df8700c8e5221029063f5365fd554f5104c7bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4430, DE 04 DE JULHO DE 2023.\nAltera a Lei Municipal nº 2284-A, de 16 de dezembro de 2010, que instituiu a Nota Fiscal Eletrônica de Serviços e outras providências, dispondo sobre o modelo de Nota Fiscal de Serviços Eletrônica - NFS-e (Padrão ABRASF).\nProc. 41411/09 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O art. 2º da Lei Municipal nº 2284-A, de 16 de dezembro de 2010, passa a vigorar com a seguinte redação:\n\"Art. 2º - A NFS-e, conforme modelo constante do Anexo I integrante desta Lei, conterá as seguintes informações:\nI - Brasão e dados do Município de São Vicente;\nII - Denominação NFS-e - Nota Fiscal de Serviços Eletrônica - NFS-e;\nIII - QR CODE de consulta da Nota Fiscal de Serviços Eletrônica - NFS-e\nIV - Identificação da Nota Fiscal, contendo, necessariamente:\na) Data e hora da Competência/emissão;\nb) Data e hora da geração;\nc) Código de autenticidade;\nd) Natureza da Operação;\ne) Nº Processo Suspensão Exigibilidade;\nf) Número da NFS-e;\ng) Número do RPS;\nh) Série do RPS;\ni) Data de Emissão do RPS;\nj) Local do serviço;\nk) País;\nl) Município de incidência;\nm) Responsável pela Retenção.\nV - Identificação do prestador de serviços, contendo, necessariamente:\na) CPF/CNPJ;\nb) Inscrição Municipal;\nc) Razão social;\nd) Nome fantasia;\ne) Endereço;\nf) Telefone;\ng) E-mail.\nVI - Identificação do tomador de serviços, contendo, necessariamente:\na) CPF/CNPJ;\nb) Inscrição Municipal;\nc) Razão social;\nd) Nome fantasia;\ne) Endereço;\nf) Telefone;\ng) E-mail.\nVII - Dados do Intermediário, contendo, necessariamente:\na) CPF/CNPJ;\nb) Inscrição Municipal;\nc) Razão social.\nVIII - Discriminação dos serviços;\nIX - Dados para apuração do ISS, contendo, necessariamente:\na) Identificação da atividade;\nb) Alíquota;\nc) Identificação do serviço por meio da indicação do item/subitem na lista de serviços anexa à Lei Complementar Federal nº 116/2003;\nd) Identificação do código de Classificação Nacional de Atividade Econômica - CNAE;\ne) Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que produzam Variações no Patrimônio - NBS;\nf) Valor Total dos Serviços;\ng) Desconto Condicionado;\nh) Desconto Incondicionado;\ni) Dedução da base de cálculo,\nj) Base de cálculo;\nk) Total do ISS;\nl) Indicação do ISS Retido.\nX - Valores das retenções de impostos:\na) PIS;\nb) COFINS;\nc) INSS;\nd) IRRF;\ne) CSLL;\nf) ISS Retido;\ng) Outras retenções.\nXI - Valor líquido da nota.\nXII - Informações Complementares.\nXIII - Em se tratando de serviço de Construção Civil:\na) Código da obra;\nb) Anotação de Responsabilidade Técnica - ART da obra, emitida pelo conselho profissional competente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.430, de 4 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01116",
+   "short": "LC 1116/2023",
+   "title": "Lei Complementar nº 1.116, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/142",
+   "first_law": "lc-2023-01116",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/142/lc1116.pdf",
+     "sha256": "5ea252aea02888ad98b435f3662fe2215efeca8eff2506bbf2db45df1e93b121",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N.º 1116 Altera a Lei Complementar n.º 05, de 11 de dezembro de 1990, que dispõe sobre a carreira do Procurador Municipal e dá outras providências.\nProc. n.º 13227/16 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso I, do artigo 12-A, da Lei Complementar n.º 05, de 11 de dezembro de 1990, acrescido pela Lei Complementar n.º 834, de 1º de abril de 2016, passa a vigorar com a seguinte redação, mantidos o caput e os demais incisos:\n\"Art. 12-A …\nI - no nível 1: de 70% (setenta por cento) do valor previsto para o nível 2;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 04 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 1.116, de 4 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04429",
+   "short": "Lei 4429/2023",
+   "title": "Lei nº 4.429, de 3 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/750",
+   "first_law": "lei-2023-04429",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/750/l4429.pdf",
+     "sha256": "227a90030809ed86f0b3c567bbca37388c7c777983628b63ed9278934d79975a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI N.º 4429 Projeto de Lei nº 47/23 de autoria do Vereador Prof. Thiago Alexandre Considera de utilidade pública a Associação Renascer Gleba 2.\nProc. nº SG-PRC-2023/00134 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É considerada de utilidade pública a Associação Renascer Gleba 2.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 03 de julho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.429, de 3 de julho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04428",
+   "short": "Lei 4428/2023",
+   "title": "Lei nº 4.428, de 30 de junho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/802",
+   "first_law": "lei-2023-04428",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/802/l4428.pdf",
+     "sha256": "01d00531501f66ed405fe7b3393055020dc710ce659ca475261fb97553f02938",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4428 Projeto de Lei nº 72/23 de autoria do Vereador Jabá Dispõe sobre a criação do selo Empresa Amiga dos Autistas, destinado aos estabelecimentos empresariais que adotem política interna de inserção de pessoas com TEA no mercado de trabalho.\nProc. nº SG-PRC-2023/00119 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município o selo Empresa Amiga dos Autistas, destinado aos estabelecimentos empresariais que adotem política interna de inserção de pessoas com Transtorno do Espectro Autista (TEA) no mercado de trabalho.\nParágrafo único. O Selo de que trata o caput é um reconhecimento gratuito e não implicará o pagamento de qualquer valor financeiro para os estabelecimentos empresariais participantes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Selo Empresa Amiga da Família tem por objetivos:\nI - enaltecer e homenagear os estabelecimentos empresariais que promovam destacadamente a inserção de pessoas com Transtorno do Espectro Autista (TEA) no seu quadro de funcionários;\nII -difundir a importância da adaptação das empresas para a inserção de autistas no quadro de funcionários.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 30 de junho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.428, de 30 de junho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04426",
+   "short": "Lei 4426/2023",
+   "title": "Lei nº 4.426, de 27 de junho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/803",
+   "first_law": "lei-2023-04426",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/803/lei_4426.pdf",
+     "sha256": "e1eb3784b75512ef00e3d52d92d947c0d8e757899624bae8cb99d20cc70a9160",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4426 Projeto de Lei nº 62/23 de autoria do Vereador Jatobá Institui e inclui no Calendário Oficial de Eventos do Município a Semana de Conscientização sobre a Doença Celíaca.\nProc. nº SG-PRC-2023/00133 KAYO AMADO, Prefeito do Município de São Vicente, usando das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica Instituída, passando a integrar o Calendário Oficial de Eventos do Município, a Semana de Conscientização sobre a Doença Celíaca, a ser celebrada anualmente na semana do dia 16 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da presente Lei correrão por conta de verba própria consignada em orçamento vigente, suplementada se necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nSão Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 27 de junho de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.426, de 27 de junho de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
