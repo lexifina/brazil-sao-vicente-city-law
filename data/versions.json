@@ -5390,6 +5390,34 @@
    ]
   },
   {
+   "slug": "lc-2020-00998",
+   "short": "LC 998/2020",
+   "title": "Lei Complementar nº 998, de 19 de abril de 2020",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4397",
+   "versions": [
+    {
+     "from": "2020-04-22",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2020/4397/lc998.pdf",
+     "sha256": "d685066d144bc7e32242093d7b8186918034ab9494cfa62f9e220316986a2119"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00996",
+   "short": "LC 996/2020",
+   "title": "Lei Complementar nº 996, de 7 de abril de 2020",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/4399",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2020/4399/lc996.pdf",
+     "sha256": "eb13e188554326d62eea3c57db26cbdb4a19a85c4970888105d2c847687c6496"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
