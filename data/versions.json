@@ -3010,6 +3010,146 @@
    ]
   },
   {
+   "slug": "lei-2023-04448",
+   "short": "Lei 4448/2023",
+   "title": "Lei nº 4.448, de 6 de setembro de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/918",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/918/lei4448.pdf",
+     "sha256": "3c6f7d89d1d6ba31e9c4ffd4bc955821644dff1f5c7970f95fb54534c8bcc17c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04446",
+   "short": "Lei 4446/2023",
+   "title": "Lei nº 4.446, de 28 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/920",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 6,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/920/lei4446.pdf",
+     "sha256": "6d53bc6414ca36656e492d5345751e92c39e3bfbe087f36af29ff9ce179da648"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04442",
+   "short": "Lei 4442/2023",
+   "title": "Lei nº 4.442, de 13 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/797",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/797/l4442.pdf",
+     "sha256": "9b0bc9232a968def5cc78fc9400d31f13cb501af1f8ce290bfe7a0b68b4f451b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04432",
+   "short": "Lei 4432/2023",
+   "title": "Lei nº 4.432, de 7 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/801",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/801/l4432.pdf",
+     "sha256": "3dc0345a0241ccf49cef7105a00b67615961c0e38be67264909c58eab35687e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04431",
+   "short": "Lei 4431/2023",
+   "title": "Lei nº 4.431, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/388",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/388/l4431.pdf",
+     "sha256": "040526ab9e32365b219d5697e70c82cc07fb24f8cff219db75b2085da24ae758"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04430",
+   "short": "Lei 4430/2023",
+   "title": "Lei nº 4.430, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/473",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/473/lei_4430.pdf",
+     "sha256": "af3ea90214bdb6787616e7c0f8df8700c8e5221029063f5365fd554f5104c7bd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-01116",
+   "short": "LC 1116/2023",
+   "title": "Lei Complementar nº 1.116, de 4 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/142",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/142/lc1116.pdf",
+     "sha256": "5ea252aea02888ad98b435f3662fe2215efeca8eff2506bbf2db45df1e93b121"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04429",
+   "short": "Lei 4429/2023",
+   "title": "Lei nº 4.429, de 3 de julho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/750",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 3,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/750/l4429.pdf",
+     "sha256": "227a90030809ed86f0b3c567bbca37388c7c777983628b63ed9278934d79975a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04428",
+   "short": "Lei 4428/2023",
+   "title": "Lei nº 4.428, de 30 de junho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/802",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 5,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/802/l4428.pdf",
+     "sha256": "01d00531501f66ed405fe7b3393055020dc710ce659ca475261fb97553f02938"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04426",
+   "short": "Lei 4426/2023",
+   "title": "Lei nº 4.426, de 27 de junho de 2023",
+   "url": "https://sapl.saovicente.sp.leg.br/norma/803",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 4,
+     "source_url": "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/2023/803/lei_4426.pdf",
+     "sha256": "e1eb3784b75512ef00e3d52d92d947c0d8e757899624bae8cb99d20cc70a9160"
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-01248",
    "short": "LC 1248/2026",
    "title": "Lei Complementar nº 1.248, de 18 de setembro de 2026",
